@@ -20,6 +20,11 @@ layout: default
 
 ### Examples
 
+* _[The Intercept](https://github.com/inkle/the-intercept)_: a small demo game by inkle written in ink, and built with Unity
+* _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
+
+### Tutorials
+
 * _[Learning Ink Script - by E. McRae](https://www.edmcrae.com/article/learning-ink-script-tutorial-one)_
 * _[Ink Unity Tutorial - by Tea Powered Games](https://twitter.com/teapoweredteam/status/969622144006180864)_
 
@@ -44,12 +49,26 @@ layout: default
 
 ### Applications
 
-* _[Oscar - Air New Zealand’s Artificial Intelligence–Backed Chatbot](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot)_
+* _[Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot)_: Air New Zealand’s artificial intelligence–backed chatbot
 
 ### Articles
 
 * _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
 * _[Making a Fake Chat Client](https://www.victoriasmith.co.nz/ink-unity-making-a-fake-chat-client/)_
 * _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
+
+### Videos
+
+* _[GDC 2016 Talk Favorite](https://www.youtube.com/watch?v=KYBf6Ko1I2k)_: behind the narrative scripting language of '80 Days' and 'Sorcery!'
+* _[Unite Europe 2016 Favorite](https://www.youtube.com/watch?v=b2MWQuZ9dUc)_: writing in Ink, a custom scripting language for narrative design
+* _[Teach Me How To Ink [Pt. 1]](https://www.youtube.com/watch?v=iY9PrNQik_I)_: branching and gathering
+* _[Teach Me How To Ink [Pt. 2]](https://www.youtube.com/watch?v=GFLw4owtdkQ)_: stitches and knots
+* _[Teach Me How To Ink [Pt. 3]](https://www.youtube.com/watch?v=_vaxenealJk)_: conditional code
+* _[Create a Visual Novel [Pt. 1]](https://www.youtube.com/watch?v=v5sU1Aidzwo)_: it's a wrap!
+* _[Create a Visual Novel [Pt. 2]](https://www.youtube.com/watch?v=lYDhEs1pa7o)_: right up!
+
+### Related Projects
+
+* _[Mutters](https://github.com/rabidgremlin/Mutters)_: A framework for building bot brains
 
 [back](../../)
