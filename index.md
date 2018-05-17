@@ -4,8 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
-[Link to formatting](./formatting.html).
+[Link to another page](./pages/ink.html).
+[Link to formatting](./pages/formatting.html).
 
 There should be whitespace between paragraphs.
 
