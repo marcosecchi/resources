@@ -49,12 +49,47 @@ A collection of resources about MagicaVoxel.
 
 ### Palettes
 
-* [Matt Perrin Palettes](https://github.com/mattperrin/MagicaVoxelPalettes)
-* [Zingot Retro Palette](http://www.zingot.com/personal.html)
+* _[Matt Perrin Palettes](https://github.com/mattperrin/MagicaVoxelPalettes)_
+* _[Zingot Retro Palette](http://www.zingot.com/personal.html)_
 
 ### Cheatsheets
 
-* [Official Cheatsheet](https://ephtracy.github.io/index.html?page=mv_controls)
-* [Vibri's MagicaVoxel Tips](http://i.imgur.com/8DSXaDR.png)
+* _[Official Cheatsheet](https://ephtracy.github.io/index.html?page=mv_controls)_
+* _[Vibri's MagicaVoxel Tips](http://i.imgur.com/8DSXaDR.png)_
+
+### Tools
+
+* [IsoVoxel](https://github.com/tommyettinger/IsoVoxel)_: generates isometric pixel art from MagicaVoxel _.vox_ files
+* _[VoxJs](http://github.dev7.jp/vox.js/)_: JavaScript MagicaVoxel library
+* _[Voxcom compositor](https://github.com/larvalabs/voxcom)_: a voxel compositor for MagicaVoxel models
+* _[vox2png](https://github.com/StijnBrouwer/vox2png)_: converts a MagicaVoxel _.vox_ file into layered sprites and writes them to a _.png_ file
+* _[MagicaVoxelUnity](https://github.com/darkfall/MagicaVoxelUnity)_: Unity3D plugin for MagicaVoxel's _.vox_ format
+* _[MagicaGN00T for Unity](https://github.com/GN00T/MagicaGN00T)_: MagicaVoxel importer mesher and simple animation system for Unity
+
+### Voxel Shaders
+
+* _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader (for MagicaVoxel) from a custom Cellular Automata rule
+* _[Lachlan McDonald Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)_: shaders for MagicaVoxel to simplify common and repetitive tasks
+* _[Kchapelier Voxel Shaders](https://github.com/kchapelier/voxelShaders)_: small collection of Voxel Shaders for MagicaVoxel
+
+### Speed Art
+
+* _[]()_
+
+### Models
+
+* _[]()_
+
+### Social
+
+* _[]()_
+
+### Blogs
+
+* _[]()_
+
+### Alternatives
+
+* _[]()_
 
 [back](../)
