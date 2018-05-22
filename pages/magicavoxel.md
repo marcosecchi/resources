@@ -46,4 +46,15 @@ A collection of resources about MagicaVoxel.
 * _[Voxel Church](https://www.youtube.com/watch?v=X2sllnWOXBo)_
 * _[The Cave](https://www.youtube.com/watch?v=wYaRiNOtOLQ)_
 * _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
+
+### Palettes
+
+* [Matt Perrin Palettes](https://github.com/mattperrin/MagicaVoxelPalettes)
+* [Zingot Retro Palette](http://www.zingot.com/personal.html)
+
+### Cheatsheets
+
+* [Official Cheatsheet](https://ephtracy.github.io/index.html?page=mv_controls)
+* [Vibri's MagicaVoxel Tips](http://i.imgur.com/8DSXaDR.png)
+
 [back](../)
