@@ -93,11 +93,18 @@ A collection of resources about MagicaVoxel.
 
 ### Models
 
-* _[]()_
+* _[Ephtracy Voxel Model](https://github.com/ephtracy/voxel-model)_
+* _[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)_
+* _[Concerto per AI Assets](https://github.com/marcosecchi/naba-2016-workshop-assets)_
+* _[Kluchek Vox Models](https://github.com/kluchek/vox-models)_
 
 ### Social
 
-* _[]()_
+* _[ephtracy (@ephtracy)](https://twitter.com/ephtracy)_
+* _[Ingen (@zmei23)](https://twitter.com/zmei23)_
+* _[Sir_carma (@Sir_carma)](https://twitter.com/Sir_carma)_
+* _[JonLee (@einschnellboot)](https://twitter.com/einschnellboot)_
+* _[Exmachina (@thibaultsimar)](https://twitter.com/thibaultsimar)_
 
 ### Blogs
 
@@ -107,9 +114,9 @@ A collection of resources about MagicaVoxel.
 ### Alternatives
 
 * _[VoxVR](https://voxvr.net/)_: a Virtual Reality Voxel Art Editor
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
+* _[Qubicle Voxel Editor](http://www.minddesk.com/)_
+* _[VoxelShop](https://blackflux.com/node/11)_
+* _[Goxel](https://guillaumechereau.github.io/goxel/)_
+* _[Voxelise](http://www.voxelmade.com/voxelise/)_
 
 [back](../)
