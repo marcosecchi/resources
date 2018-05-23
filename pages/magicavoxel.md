@@ -74,7 +74,22 @@ A collection of resources about MagicaVoxel.
 
 ### Speed Art
 
-* _[]()_
+* _[Back to the Future](https://www.youtube.com/watch?v=Rvhfi7eEbB4)_
+* _[Building a Cathedral [Pt. 1]](https://www.youtube.com/watch?v=czqohAi9CcA)_: modeling
+* _[Building a Cathedral [Pt. 2]](https://www.youtube.com/watch?v=WFHU0Vx1gWw)_: painting
+* _[Colouring a Futuristic Scene](https://www.youtube.com/watch?v=msi69zgJNx8)_
+* _[Escorial Monastery](https://www.youtube.com/watch?v=kdH1nnh711w)_
+* _[Floating Island](https://www.youtube.com/watch?v=cTUjnG2Frvo)_
+* _[Futuristic Building](https://www.youtube.com/watch?v=cAj2h1E_yJ8)_
+* _[Hulk](https://www.youtube.com/watch?v=mp1seUAtXVg)_
+* _[Jungle Temple](https://www.youtube.com/watch?v=kLBfza0yRzU)_
+* _[Mad Max](https://www.youtube.com/watch?v=SQZTlrHt13M)_
+* _[Omegafoxx YouTube channel](https://www.youtube.com/watch?v=KTScM_0jEdk&list=PLK696-uKzkYQgPFlXWzvfhvkDFLFkh3Pv)_
+* _[Snowy Kingdom](https://www.youtube.com/watch?v=wWggWncHIJA)_
+* _[Spaceship V3](https://www.youtube.com/watch?v=mpI9Bj0DESU)_
+* _[Stone Character](https://www.youtube.com/watch?v=WGv37JXKAkg)_
+* _[Tiny Canyon](https://www.youtube.com/watch?v=I-VxX0Ks_ZM)_
+* _[Tiny Island](https://www.youtube.com/watch?v=OiMWp7Ql7nc)_
 
 ### Models
 
@@ -86,10 +101,15 @@ A collection of resources about MagicaVoxel.
 
 ### Blogs
 
-* _[]()_
+* _[Voxelmade](http://www.voxelmade.com/)_
+* _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
 
 ### Alternatives
 
+* _[VoxVR](https://voxvr.net/)_: a Virtual Reality Voxel Art Editor
+* _[]()_
+* _[]()_
+* _[]()_
 * _[]()_
 
 [back](../)
