@@ -113,7 +113,7 @@ A collection of resources about MagicaVoxel.
 
 ### Alternatives
 
-* _[VoxVR](https://voxvr.net/)_: a Virtual Reality Voxel Art Editor
+* _[VoxVR](https://voxvr.net/)_: a virtual reality voxel art editor
 * _[Qubicle Voxel Editor](http://www.minddesk.com/)_
 * _[VoxelShop](https://blackflux.com/node/11)_
 * _[Goxel](https://guillaumechereau.github.io/goxel/)_
