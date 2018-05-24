@@ -36,6 +36,14 @@ A repository of links for Ink, the powerful scripting language behind [Heaven's 
 * _[The Intercept](https://github.com/inkle/the-intercept)_: a small demo game by inkle written in ink, and built with Unity
 * _[Ink Roguelike](https://github.com/nbush/ink_roguelike)_: A narrative mini-roguelike written completely in Ink
 
+### Articles
+
+* _[Twine 2 vs Ink vs Yarn Unity Integration](https://medium.com/@haikus_by_KN/twine-2-vs-ink-a-quick-and-dirty-unity-integration-comparison-99fe1e4549d)_
+* _[Authoring interactive narrative in Twine 2 vs Ink vs Yarn](https://medium.com/@haikus_by_KN/authoring-interactive-narrative-in-twine-2-vs-ink-a-quick-and-dirty-comparison-using-examples-e695eb4dfc3e)_
+* _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
+* _[Making a Fake Chat Client](https://www.victoriasmith.co.nz/ink-unity-making-a-fake-chat-client/)_
+* _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
+
 ### Plugin Integrations
 
 * _[Dialogue System for Unity](http://www.pixelcrushers.com/dialogue_system/manual/html/ink.html)_
@@ -58,12 +66,6 @@ A repository of links for Ink, the powerful scripting language behind [Heaven's 
 ### Applications
 
 * _[Oscar](https://www.airnewzealand.co.nz/press-release-2017-oscar-airnz-chatbot)_: Air New Zealand’s artificial intelligence–backed chatbot
-
-### Articles
-
-* _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
-* _[Making a Fake Chat Client](https://www.victoriasmith.co.nz/ink-unity-making-a-fake-chat-client/)_
-* _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
 
 ### Videos
 
