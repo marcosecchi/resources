@@ -25,6 +25,11 @@ A repository of links for Ink, the powerful scripting language behind [Heaven's 
 * _[The Intercept](https://github.com/inkle/the-intercept)_: a small demo game by inkle written in ink, and built with Unity
 * _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
 
+### Tips & Tricks
+
+* _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_
+* _[Handling Lists](https://www.patreon.com/posts/tips-and-tricks-18636537)_
+
 ### Tutorials
 
 * _[Learning Ink Script - by E. McRae](https://www.edmcrae.com/article/learning-ink-script-tutorial-one)_
