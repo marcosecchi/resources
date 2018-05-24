@@ -15,16 +15,16 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Repositories
 
-* _[Ink Scripting Language](https://github.com/inkle/ink)_
-* _[Inky (Ink Editor)](https://github.com/inkle/inky)_
-* _[Ink Unity Integration](https://github.com/inkle/ink-unity-integration)_
+* _[Ink Scripting Language](https://github.com/inkle/ink)_: Inkle's open source scripting language for writing interactive narrative
+* _[Inky (Ink Editor)](https://github.com/inkle/inky)_: an editor for Ink
+* _[Ink Unity Integration](https://github.com/inkle/ink-unity-integration)_: Unity3D integration
 * _[Issues](https://github.com/inkle/ink/issues)_
 
 ### Tips & Tricks
 
 * _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
-* _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_
-* _[Handling Lists](https://www.patreon.com/posts/tips-and-tricks-18636537)_
+* _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_: strings in Ink aren't actually strings; they're ink
+* _[Handling Lists](https://www.patreon.com/posts/tips-and-tricks-18636537)_: a post about lists
 
 ### Tutorials
 
