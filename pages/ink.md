@@ -20,13 +20,9 @@ A repository of links for Ink, the powerful scripting language behind [Heaven's 
 * _[Ink Unity Integration](https://github.com/inkle/ink-unity-integration)_
 * _[Issues](https://github.com/inkle/ink/issues)_
 
-### Examples
-
-* _[The Intercept](https://github.com/inkle/the-intercept)_: a small demo game by inkle written in ink, and built with Unity
-* _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
-
 ### Tips & Tricks
 
+* _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
 * _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_
 * _[Handling Lists](https://www.patreon.com/posts/tips-and-tricks-18636537)_
 
@@ -34,6 +30,11 @@ A repository of links for Ink, the powerful scripting language behind [Heaven's 
 
 * _[Learning Ink Script - by E. McRae](https://www.edmcrae.com/article/learning-ink-script-tutorial-one)_
 * _[Ink Unity Tutorial - by Tea Powered Games](https://twitter.com/teapoweredteam/status/969622144006180864)_
+
+### Examples
+
+* _[The Intercept](https://github.com/inkle/the-intercept)_: a small demo game by inkle written in ink, and built with Unity
+* _[Ink Roguelike](https://github.com/nbush/ink_roguelike)_: A narrative mini-roguelike written completely in Ink
 
 ### Plugin Integrations
 
