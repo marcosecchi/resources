@@ -80,6 +80,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Related Projects
 
-* _[Mutters](https://github.com/rabidgremlin/Mutters)_: A framework for building bot brains
+* _[Mutters](https://github.com/rabidgremlin/Mutters)_: a framework for building bot brains
+* _[Blade Ink](https://github.com/bladecoder/blade-ink)_: ink language parser and runtime implementation in Java
 
 [back](../)
