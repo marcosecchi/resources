@@ -38,6 +38,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Articles
 
+* _[Writing interactive stories with Ink in Unity](https://www.primegames.bg/en/blog/writing-interactive-stories-with-ink-in-unity)_
 * _[Twine 2 vs Ink vs Yarn Unity Integration](https://medium.com/@haikus_by_KN/twine-2-vs-ink-a-quick-and-dirty-unity-integration-comparison-99fe1e4549d)_
 * _[Authoring interactive narrative in Twine 2 vs Ink vs Yarn](https://medium.com/@haikus_by_KN/authoring-interactive-narrative-in-twine-2-vs-ink-a-quick-and-dirty-comparison-using-examples-e695eb4dfc3e)_
 * _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
