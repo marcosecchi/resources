@@ -63,6 +63,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[The Rats in the Bulkheads](https://brunodias.itch.io/rats)_
 * _[Debris](http://debristhegame.com/)_
 * _[Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)_
+* _[Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)_ by Tom Sykes
 
 ### Applications
 
