@@ -36,12 +36,20 @@ A repository of links for PICO-8
 
 ### Video Tutorials
 
+* _[Pico-8 Hero](https://www.youtube.com/playlist?list=PLYND9uft5u_1YCkmXiMrPU7tiBG3hIKAZ)_
+* _[PICO-8 Intro and Player Movement Demo](https://www.youtube.com/watch?v=OM7Xa7Dqlpg)_
+* _[Pico-8 Music Tutorials](https://www.youtube.com/watch?v=Pzt0h0ErNAM&list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)_
+* _[Editing Audio](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)_
 * _[]()_
 * _[]()_
 * _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
+
+
+
+
+
+### Games and Prototypes
+
+* _[PICO-8 Shooter](https://github.com/ztiromoritz/pico-8-shooter)_
 
 [back](../)
