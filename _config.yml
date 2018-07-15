@@ -3,3 +3,5 @@ description: A repository of bookmarks by Marco Secchi.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
+plugins:
+  - jemoji
