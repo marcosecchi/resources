@@ -44,6 +44,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
 * _[Making a Fake Chat Client](https://www.victoriasmith.co.nz/ink-unity-making-a-fake-chat-client/)_
 * _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
+* _(From the “Vault” of Inkle’s Jon Ingold)[https://www.autosave.tv/2018/07/10/from-the-vault-of-inkles-jon-ingold/]_
 
 ### Plugin Integrations
 
@@ -51,9 +52,9 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Games
 
-* _[Heaven's Vault](https://www.inklestudios.com/heavensvault/)_
-* _[80 Days Favorite](https://www.inklestudios.com/80days/)_
-* _[Sorcery!](https://www.inklestudios.com/sorcery/)_
+* _[Heaven's Vault](https://www.inklestudios.com/heavensvault/)_ by Inklestudios
+* _[80 Days Favorite](https://www.inklestudios.com/80days/)_ by Inklestudios
+* _[Sorcery!](https://www.inklestudios.com/sorcery/)_ by Inklestudios
 * _[A Place for the Unwilling](http://www.alpixelgames.com/a-place-for-the-unwilling/)_
 * _[The Uber Game](https://ig.ft.com/uber-game/)_
 * _[Over The Alps](https://overthealpsgame.com/)_
@@ -64,6 +65,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Debris](http://debristhegame.com/)_
 * _[Where the Water Tastes Like Wine](https://www.wherethewatertasteslikewine.com/)_
 * _[Fog Lights and Foul Deeds](https://tomsykes.itch.io/fog-lights-and-foul-deeds)_ by Tom Sykes
+* _[The Shapeshifting Detective](https://shapeshiftingdetective.com/)_ by D'Avekki Studios
 
 ### Applications
 
