@@ -25,7 +25,8 @@ A repository of links for PICO-8
 
 ### Tutorials
 
-* :top:_[PICO-8 Cookbook](https://github.com/nate2squared/Pico-8-Cookbook)_
+:top:_[PICO-8 Cookbook](https://github.com/nate2squared/Pico-8-Cookbook)_
+
 * _[]()_
 * _[]()_
 * _[]()_
