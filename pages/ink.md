@@ -44,7 +44,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[How Unity and Ink Are Helping Us Build a Narrative Game](https://connect.unity.com/p/articles-how-unity-and-ink-are-helping-us-build-a-narrative-game)_
 * _[Making a Fake Chat Client](https://www.victoriasmith.co.nz/ink-unity-making-a-fake-chat-client/)_
 * _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
-* _(From the “Vault” of Inkle’s Jon Ingold)[https://www.autosave.tv/2018/07/10/from-the-vault-of-inkles-jon-ingold/]_
+* _[From the “Vault” of Inkle’s Jon Ingold](https://www.autosave.tv/2018/07/10/from-the-vault-of-inkles-jon-ingold/)_
 
 ### Plugin Integrations
 
