@@ -57,7 +57,7 @@ A repository of links for PICO-8
 
 ### Magazines and Books
 
-* _[]()_
+* _[How to Make Games with PICO-8](https://tassilo.itch.io/howtomakegames)_ by Tassilo
 * _[]()_
 * _[]()_
 * _[]()_
