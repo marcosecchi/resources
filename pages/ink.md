@@ -23,8 +23,9 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 ### Tips & Tricks
 
 * _[Ink Library](https://github.com/inkle/ink-library)_: a repository of ink samples and snippets
-* _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_: strings in Ink aren't actually strings; they're ink
+* _[Using Strings](https://www.patreon.com/posts/tips-and-tricks-18636280)_: strings in Ink aren't actually strings: they're ink
 * _[Handling Lists](https://www.patreon.com/posts/tips-and-tricks-18636537)_: a post about lists
+* _[Using Ink for Rooms and Objects](https://heavens-vault-game.tumblr.com/post/162943569425/using-ink-for-rooms-and-objects)_:
 
 ### Tutorials
 
