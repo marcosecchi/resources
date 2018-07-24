@@ -86,6 +86,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Related Projects
 
+* _[InkJs](https://github.com/y-lohse/inkjs)_: a javascript port of inkle's ink scripting language
 * _[Mutters](https://github.com/rabidgremlin/Mutters)_: a framework for building bot brains
 * _[Blade Ink](https://github.com/bladecoder/blade-ink)_: ink language parser and runtime implementation in Java
 
