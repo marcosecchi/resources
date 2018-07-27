@@ -68,4 +68,8 @@ A repository of links for PICO-8
 
 * _[PICO-8 Shooter](https://github.com/ztiromoritz/pico-8-shooter)_
 
+### Tools
+
+* _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
+
 [back](../)

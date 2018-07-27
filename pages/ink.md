@@ -16,9 +16,14 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 ### Repositories
 
 * _[Ink Scripting Language](https://github.com/inkle/ink)_: Inkle's open source scripting language for writing interactive narrative
-* _[Inky (Ink Editor)](https://github.com/inkle/inky)_: an editor for Ink
 * _[Ink Unity Integration](https://github.com/inkle/ink-unity-integration)_: Unity3D integration
 * _[Issues](https://github.com/inkle/ink/issues)_
+
+### Tools and Editors
+
+* _[Inky (Ink Editor)](https://github.com/inkle/inky)_: the official editor for Ink
+* _[Quill](https://github.com/MattConrad/Quill)_: a tool for playing and sandbox testing Ink stories
+* _[Ink Language Server](https://github.com/ephread/ink-language-server)_: a language server for inkle's Ink, that adheres to the Language Server Protocol (LSP)
 
 ### Tips & Tricks
 
@@ -52,6 +57,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 ### Plugin Integrations
 
 * _[Dialogue System for Unity](http://www.pixelcrushers.com/dialogue_system/manual/html/ink.html)_
+* _[Ink Integration for Godot Engine](https://github.com/paulloz/godot-ink)_
 
 ### Games
 
@@ -89,5 +95,10 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[InkJs](https://github.com/y-lohse/inkjs)_: a javascript port of inkle's ink scripting language
 * _[Mutters](https://github.com/rabidgremlin/Mutters)_: a framework for building bot brains
 * _[Blade Ink](https://github.com/bladecoder/blade-ink)_: ink language parser and runtime implementation in Java
+* _[Inkrs](https://github.com/facelesspanda/inkrs)_: a port/rewrite of inkle/ink in rust
+* _[Mika-Ink](https://github.com/micabytes/mica-ink)_: a Kotlin implementation of Ink
+* _[InkHaxe](https://github.com/Glidias/inkhaxe)_: a port from C# to Haxe
+* _[Ink-iOS](https://github.com/russellquinn/ink-iOS)_: an iOS wrapper for the JavaScript port of Inkle's Ink scripting language
+* _[Pink](https://github.com/premek/pink)_: an attempt to implement a subset of ink in lpeg
 
 [back](../)
