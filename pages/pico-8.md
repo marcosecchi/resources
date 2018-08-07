@@ -34,6 +34,7 @@ A repository of links for PICO-8
 * _[Wikia - Random Tips](http://pico-8.wikia.com/wiki/Random_tips)_
 * _[Going from Lua 5.2 to PICO-8's Lua](https://gist.github.com/josefnpat/bfe4aaa5bbb44f572cd0)_
 * _[A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/)_
+* _[Infinite Limit](https://www.infinitelimit.net/)_
 
 ### Video Tutorials
 
@@ -58,11 +59,26 @@ A repository of links for PICO-8
 ### Magazines and Books
 
 * _[How to Make Games with PICO-8](https://tassilo.itch.io/howtomakegames)_ by Tassilo
+* _[PICO-8 Fanzine - Issue 1](https://sectordub.itch.io/pico-8-fanzine-1)_
+* _[PICO-8 Fanzine - Issue 1 (Es)](https://sectordub.itch.io/pico-8-fanzine-1-spanish)_
+* _[PICO-8 Fanzine - Issue 1 (Jp)](https://sectordub.itch.io/pico-8-fanzine-1-japanese)_
+* _[PICO-8 Fanzine - Issue 2](https://sectordub.itch.io/pico-8-fanzine-2)_
+* _[PICO-8 Fanzine - Issue 3](https://sectordub.itch.io/pico-8-fanzine-3)_
+* _[PICO-8 Fanzine - Issue 4](https://sectordub.itch.io/pico-8-fanzine-4)_
+* _[PICO-8 Fanzine - Printed](https://pico8fanzine.bigcartel.com/)_
+
+### Graphic Tools
+
 * _[]()_
 * _[]()_
 * _[]()_
 * _[]()_
 * _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
+
+
 
 ### Games and Prototypes
 
