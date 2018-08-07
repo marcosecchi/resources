@@ -24,6 +24,12 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Inky (Ink Editor)](https://github.com/inkle/inky)_: the official editor for Ink
 * _[Quill](https://github.com/MattConrad/Quill)_: a tool for playing and sandbox testing Ink stories
 * _[Ink Language Server](https://github.com/ephread/ink-language-server)_: a language server for inkle's Ink, that adheres to the Language Server Protocol (LSP)
+* _[ink-tmlanguage](https://github.com/ephread/ink-tmlanguage)_: TextMate grammar files for Ink
+* _[Sublime3Syntax](https://github.com/inkle/ink/tree/master/Sublime3Syntax)_: Sublime3 grammar files for Ink
+* _[atom-language-ink](https://github.com/bladecoder/atom-language-ink)_: syntax highlighting and snippets in Atom
+* _[language-ink-atom](https://atom.io/packages/language-ink-atom)_: Atom port of the SublimeText 3 language grammar for inkle's ink language
+* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink)_: Support for Inkle's Ink language in Visual Studio Code
+* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink)_: Syntax highlighting for ink scripting language in Visual Studio code
 
 ### Tips & Tricks
 
