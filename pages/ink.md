@@ -28,8 +28,11 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Sublime3Syntax](https://github.com/inkle/ink/tree/master/Sublime3Syntax)_: Sublime3 grammar files for Ink
 * _[atom-language-ink](https://github.com/bladecoder/atom-language-ink)_: syntax highlighting and snippets in Atom
 * _[language-ink-atom](https://atom.io/packages/language-ink-atom)_: Atom port of the SublimeText 3 language grammar for inkle's ink language
-* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink)_: Support for Inkle's Ink language in Visual Studio Code
-* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink)_: Syntax highlighting for ink scripting language in Visual Studio code
+* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=bruno-dias.ink)_: support for Inkle's Ink language in Visual Studio Code
+* _[Ink VS Code](https://marketplace.visualstudio.com/items?itemName=tommisundstrom.ink)_: syntax highlighting for ink scripting language in Visual Studio code
+* _[ink-soaked](https://github.com/wickedlyethan/ink-soaked)_: a template for Twine-like hypertext using inkle's ink scripting language and ink.js
+* _[PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW)_: a basic template for deploying a game written in ink as a stand-alone desktop app
+* _[Ink & Paper Engine](https://github.com/inkle/ink/issues/408)_: a tool designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink
 
 ### Tips & Tricks
 
