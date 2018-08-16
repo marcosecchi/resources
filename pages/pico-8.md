@@ -67,11 +67,11 @@ A repository of links for PICO-8
 * _[PICO-8 Fanzine - Issue 4](https://sectordub.itch.io/pico-8-fanzine-4)_
 * _[PICO-8 Fanzine - Printed](https://pico8fanzine.bigcartel.com/)_
 
-### Graphic Tools
+### Tech Demos
 
-* _[]()_
-* _[]()_
-* _[]()_
+* _[Dank Tombs](https://www.lexaloffle.com/bbs/?tid=28785)_
+* _[Bad Apple Compression](https://www.lexaloffle.com/bbs/?tid=29241)_
+* _[Trifill Thunderdome](https://www.lexaloffle.com/bbs/?tid=28317)_
 * _[]()_
 * _[]()_
 * _[]()_
