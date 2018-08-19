@@ -21,4 +21,12 @@ A repository of links for TIC-80
 
 ### Tutorials
 
+* _[Intro to Game Programming in TIC-80](https://github.com/nesbox/TIC-80/wiki/Intro-to-Game-Programming-in-TIC-80)_
 * _[Community](https://github.com/nesbox/TIC-80/wiki/tutorials)_
+* _[Writing a Platformer for the TIC-80 Fantasy Console](https://medium.com/@btco_code/writing-a-platformer-for-the-tic-80-virtual-console-6fa737abe476)_
+* _[Infinite Limit on TIC-80](https://www.infinitelimit.net/tags/TIC-80)_
+
+### Alternatives
+
+* _[Fantasy consoles](https://github.com/paladin-t/fantasy)_ by paladin-t
+* _[BASIC8](https://github.com/paladin-t/b8)_ by paladin-t

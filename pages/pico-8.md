@@ -72,6 +72,13 @@ A repository of links for PICO-8
 * _[Dank Tombs](https://www.lexaloffle.com/bbs/?tid=28785)_
 * _[Bad Apple Compression](https://www.lexaloffle.com/bbs/?tid=29241)_
 * _[Trifill Thunderdome](https://www.lexaloffle.com/bbs/?tid=28317)_
+* _[Ad Astra Demoscene](https://www.lexaloffle.com/bbs/?tid=4050)_
+* _[Raymarch](https://www.lexaloffle.com/bbs/?tid=29309)_
+* _[Sandbox-8](https://blokatt.itch.io/sandbox-8)_
+
+### Community
+
+* _[]()_
 * _[]()_
 * _[]()_
 * _[]()_
@@ -87,5 +94,10 @@ A repository of links for PICO-8
 ### Tools
 
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
+
+### Alternatives
+
+* _[Fantasy consoles](https://github.com/paladin-t/fantasy)_ by paladin-t
+* _[BASIC8](https://github.com/paladin-t/b8)_ by paladin-t
 
 [back](../)
