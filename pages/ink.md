@@ -45,8 +45,9 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 ### Tutorials
 
-* _[Learning Ink Script - by E. McRae](https://www.edmcrae.com/article/learning-ink-script-tutorial-one)_
-* _[Ink Unity Tutorial - by Tea Powered Games](https://twitter.com/teapoweredteam/status/969622144006180864)_
+* _[Learning Ink Script](https://www.edmcrae.com/article/learning-ink-script-tutorial-one)_: by E. McRae
+* _[Ink Unity Tutorial](https://twitter.com/teapoweredteam/status/969622144006180864)_: by Tea Powered Games
+* _[Writing Web-Based Interactive Fiction with Ink](https://www.inklestudios.com/ink/web-tutorial/)_: by Inklestudios
 
 ### Examples
 
