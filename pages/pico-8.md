@@ -78,18 +78,32 @@ A repository of links for PICO-8
 
 ### Community
 
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
+* _[Lexaloffle BBS](https://www.lexaloffle.com/bbs/?cat=7)_
+* _[Reddit](https://www.reddit.com/r/pico8/)_
+* _[Slack](https://pico-8.slack.com/)_
+* _[Discord](https://discordapp.com/invite/jyPq29z)_
+* _[Picoscope (Fr)](http://picoscope101.fr/)_
 
+### Code Editors
 
+* _[pico8-vscode](https://marketplace.visualstudio.com/items?itemName=johob.pico8-vscode)_
+* _[Atom Plugin](https://atom.io/packages/language-pico8)_
+* _[SublimeText Plugin](https://packagecontrol.io/packages/PICO-8)_
+* _[vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)_
+* _[VS Code Plugin](https://github.com/nathanchere/vscode-pico8)_
+* _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ### Games and Prototypes
 
 * _[PICO-8 Shooter](https://github.com/ztiromoritz/pico-8-shooter)_
+* _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
+* _[]()_
 
 ### Tools
 
