@@ -118,9 +118,4 @@ A repository of links for PICO-8
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
 * _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
-### Alternatives
-
-* _[Fantasy consoles](https://github.com/paladin-t/fantasy)_ by paladin-t
-* _[BASIC8](https://github.com/paladin-t/b8)_ by paladin-t
-
 [back](../)

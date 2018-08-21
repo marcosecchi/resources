@@ -17,5 +17,6 @@ Lorem Ipsum
 
 ## Retro Gaming
 
+* _[Fantasy Consoles](./pages/fantasy-consoles.html)_
 * _[PICO-8](./pages/pico-8.html)_
 * _[TIC-80](./pages/tic-80.html)_
