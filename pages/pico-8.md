@@ -91,13 +91,21 @@ A repository of links for PICO-8
 * _[SublimeText Plugin](https://packagecontrol.io/packages/PICO-8)_
 * _[vim-pico8-syntax](https://github.com/justinj/vim-pico8-syntax)_
 * _[VS Code Plugin](https://github.com/nathanchere/vscode-pico8)_
-* _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ### Games and Prototypes
 
+* _[TRASEVOL_DOG's Pico-8 Doodles](https://trasevol-dog.itch.io/trasevol-dogs-pico-8-doodles)_: 45 experimental Pico-8 tiny programs, exploring a variety of effects and simple ideas
+* _[picobox](https://github.com/cauli/picobox)_: physics experiments
 * _[PICO-8 Shooter](https://github.com/ztiromoritz/pico-8-shooter)_
-* _[]()_
-* _[]()_
+* _[Demake Of 8-Bit Game](https://github.com/nate2squared/Bootyful-Demake)_: based on the 1984 game, Booty, by John Cain, for the Commodore 64, ZX Spectrum and Amstrad CPC
+* _[Experiments](https://github.com/zach2good/PICO-8)_ by zach2good
+* _[Experiments](https://github.com/lvictorino/pico8)_ by lvictorino
+* _[Picoverse](https://github.com/namuol/picoverse)_: concepts and prototype for a simple pico-8 space-exploration game
+* _[pico8collab16](https://github.com/josefnpat/pico8collab16)_: a "game jam" of sorts, to make a pico8 cart with sixteen (16) games in it by multiple developers
+* _[giraffe-pico8](https://github.com/hanakamer/giraffe-pico8)_
+
+### Cheatsheets and Palettes
+
 * _[]()_
 * _[]()_
 * _[]()_
@@ -108,6 +116,7 @@ A repository of links for PICO-8
 ### Tools
 
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
+* _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ### Alternatives
 
