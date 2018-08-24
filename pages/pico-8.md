@@ -106,10 +106,16 @@ A repository of links for PICO-8
 
 ### Cheatsheets and Palettes
 
-* _[]()_
-* _[]()_
-* _[]()_
-* _[]()_
+* _[PICO-8 Cheatsheet](https://ztiromoritz.github.io/pico-8-spick/index_en.html)_
+* _[PICO-8 API](https://neko250.github.io/pico8-api/)_
+* _[Palette](https://rhythmlynx.itch.io/picopalette)_ by rhythmlynx
+* _[Palette](https://www.romanzolotarev.com/pico-8-color-palette/)_ by romanzolotarev
+* _[db-pico](https://github.com/underscorediscovery/db-pico)_
+* _[PICO-8 Styler](https://seansleblanc.itch.io/pico-8-styler)_
+* _[PICO-8 Palette](https://github.com/IschaGast/Pixen-Pico-8-Palette)_ for Pixen
+
+### Bootstraps and Boilerplates
+
 * _[]()_
 * _[]()_
 
