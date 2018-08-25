@@ -116,12 +116,35 @@ A repository of links for PICO-8
 
 ### Bootstraps and Boilerplates
 
-* _[]()_
-* _[]()_
+* _[pico8dev](https://github.com/morningtoast/pico8dev)_: snippets, demo carts and libraries to help make PICO-8 games
+* _[pico8_project_template](https://github.com/jayminer81/pico8_project_template)_
+* _[p8](https://github.com/jozanza/p8)_: PICO-8 dependency manager
+* _[pico8-boilerplate](https://github.com/wstephenson/pico8-boilerplate)_: ready-made game state system which the stock _init, _update, _draw functions delegate to
 
 ### Tools
 
+#### Generic
+
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
 * _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+* _[pico8utils](https://github.com/josefnpat/pico8utils)_: a set of utilities made for the .p8 PICO-8 file format
+* _[Lib-Pico8](https://github.com/clowerweb/Lib-Pico8)_: a library of useful common functions
+* _[pico8-missing-builtins](https://github.com/adamscott/pico8-missing-builtins)_: Lua built-in functions to pico8
+* _[jspicl](https://github.com/AgronKabashi/jspicl)_: a JavaScript to PICO-8 Lua transpiler
+* _[pico8gamepad](https://github.com/krajzeg/pico8gamepad)_: adds gamepad support in browser for PICO-8 games
+* _[picotool](https://github.com/dansanderson/picotool)_: tools and Python libraries for manipulating PICO-8 game files
+* _[p8dl](https://github.com/franciscod/p8dl)_: PICO-8 cartridge downloader
+* _[pico-8-carts-bash-downloader](https://github.com/kikookoubis/pico-8-carts-bash-downloader)_: download & automatically rename Pico-8 carts from the Lexaloffle BBS threads
+
+#### Graphics
+
+* _[]()_
+* _[]()_
+
+#### Audio
+
+* _[]()_
+* _[]()_
+
 
 [back](../)
