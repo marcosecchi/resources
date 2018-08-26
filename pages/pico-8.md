@@ -66,6 +66,7 @@ A repository of links for PICO-8
 * _[PICO-8 Fanzine - Issue 3](https://sectordub.itch.io/pico-8-fanzine-3)_
 * _[PICO-8 Fanzine - Issue 4](https://sectordub.itch.io/pico-8-fanzine-4)_
 * _[PICO-8 Fanzine - Printed](https://pico8fanzine.bigcartel.com/)_
+* _[How to Make Games with PICO-8](https://www.kickstarter.com/projects/bumblebee/how-to-make-games-with-pico-8-english-and-german)_
 
 ### Tech Demos
 
@@ -159,17 +160,53 @@ A repository of links for PICO-8
 
 ### Workshops and Presentations
 
-* _[]()_
-* _[]()_
+* _[pico8-workshop](https://github.com/juanalonso/pico8-workshop)_ by juanalonso
+* _[Sharing the love: making games with PICO-8](https://www.youtube.com/watch?v=AmMYWD2Zbso)_
 
 ### Social
 
-* _[]()_
-* _[]()_
+* _[PICO-8 on Twitter](https://twitter.com/hashtag/pico8)_
+* _[@lexaloffle](https://twitter.com/lexaloffle)_
+* _[@pico8console](https://twitter.com/pico8console)_
+* _[@InfiniteLimitZn](https://twitter.com/InfiniteLimitZn)_
+* _[Lexaloffle on Facebook](https://www.facebook.com/lexaloffle/)_
+* _[Ludum Dare](http://ludumdare.com/compo/tag/pico8/)_
 
 ### Blogs and Podcasts
 
-* _[]()_
-* _[]()_
+* _[Lexaloffle Blog](https://www.lexaloffle.com/bbs/?uid=1)_
+* _[PICO Chat](http://pico.electrobureau.com/)_
+* _[McNamee Games DevBlog](https://mcnameegames.wordpress.com/category/pico8/)_
+
+### Spritesheets
+
+* _[100 Famous Characters](https://twitter.com/johanvinet/status/635814153601597441)_
+* _[48 Pokemon](https://twitter.com/QaziTV/status/636021323756662784)_
+* _[100 Food & Drink](https://twitter.com/JUSTIN_CYR/status/634546317713391616)_
+
+### Fonts
+
+* _[pico-8-font](https://github.com/jacobpierce/pico-8-font)_
+* _[p8-programming-fonts](https://github.com/juanitogan/p8-programming-fonts)_
+* _[PICO-8 Regular Font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view)_
+
+### Hardware
+
+* _[Piezo and PICO-8](https://hackaday.io/project/20152-gameboy-zero-but-smaller/log/54847-piezo-and-pico-8)_
+* _[PI0CKET Tiny PI](https://www.raspberrypi.org/magpi/pi0cket-game-boy/)_
+
+### Apps
+
+* _[Let's Draw Pixel Art](https://play.google.com/store/apps/details?id=com.kevinttan.letsdrawpixelart&hl=en)_
+
+### Articles & Reviews
+
+* _[An 8 bit fantasy console from the makers of Voxatron](http://www.indieretronews.com/2015/10/pico-8-8-bit-fantasy-console-from.html)_
+* _[Making a game in PICO-8](https://www.rockpapershotgun.com/2016/12/26/making-a-game-in-pico-8-getting-an-idea/)_
+* _[Build a Retro-game with the PICO-8: The Basics](https://thenewstack.io/retro-game-pico-8-basics/)_
+* _[The Modest Fantasy of the PICO-8](https://www.pastemagazine.com/articles/2016/01/the-modest-fantasy-of-the-pico-8.html)_
+* _[PICO-8 Review](https://www.slant.co/options/9018/~pico-8-review)_
+* _[PICO-8 – Fascinating fantasy console](https://skrolli.fi/2016/07/pico-8-fascinating-fantasy-console/)_
+* _[Under Construction, our PICO-8 game](https://eev.ee/release/2016/05/25/under-construction-our-pico-8-game/)_
 
 [back](../)

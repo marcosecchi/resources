@@ -29,3 +29,10 @@ PV8 is a platform that standardizes 8-bit fantasy console limitations built on t
 * _[Repository](https://pixelvision8.itch.io/)_: repository
 * _[PV8 on Itch.io](https://pixelvision8.itch.io/)_
 * _[Twitter](https://twitter.com/pixelvision8)_
+
+### Social
+
+* _[@ramilego4game](https://twitter.com/ramilego4game)_
+* _[]()_
+
+[back](../)
