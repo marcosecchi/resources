@@ -138,13 +138,38 @@ A repository of links for PICO-8
 
 #### Graphics
 
-* _[]()_
-* _[]()_
+* _[Tiled2Pico-8 + Sprite Editor](https://www.lexaloffle.com/bbs/?tid=2462)_
+* _[SpriteSheet Compressor](https://www.lexaloffle.com/bbs/?pid=40008#p40008)_
+* _[pico2png](https://github.com/briacp/pico2png)_: converts PICO-8 graphics from/to PNG
+* _[vector-paint](https://github.com/andmatand/vector-paint)_: a vector drawing program in LÖVE to produce art for PICO-8 carts
+* _[PICO8Tool](https://github.com/foobit/PICO8Tool)_: PICO-8 art importer/exporter
+* _[pico8png](https://github.com/jack0088/pico8png)_: extract PICO-8’s project graphics to a separate *.png file
+* _[PiCAD](https://www.lexaloffle.com/bbs/?tid=28272)_: vector Authoring/Display
+* _[Retroart](http://reboot-network.de/retroart/#/)_: a tiny pixel-editor
 
 #### Audio
 
+* _[midi2pico](https://github.com/gamax92/midi2pico)_: Midi to PICO-8 converter
+* _[midi-to-pico8](https://github.com/andmatand/midi-to-pico8)_: MIDI to PICO-8 tracker translator
+
+### Engines
+
+* _[scumm-8](https://github.com/Liquidream/scumm-8)_: a PICO-8 demake of the SCUMM engine that powered most of the classic LucasArts adventure games
+* _[p8advent](https://github.com/dansanderson/p8advent)_: An adventure game toolkit for PICO-8
+
+### Workshops and Presentations
+
 * _[]()_
 * _[]()_
 
+### Social
+
+* _[]()_
+* _[]()_
+
+### Blogs and Podcasts
+
+* _[]()_
+* _[]()_
 
 [back](../)
