@@ -74,7 +74,13 @@ with observable streams
 #### Frameworks
 
 * _[Ionic Material](http://ionicmaterial.com/)_
-* _[]()_
+
+### Hybrid Apps
+
+* _[Apache Cordova](https://cordova.apache.org/)_
+* _[Adobe PhoneGap](https://phonegap.com/)_
+* _[Crosswalk](https://crosswalk-project.org/)_
+* _[NativeScript](https://www.nativescript.org/)_
 
 
 [back](../)

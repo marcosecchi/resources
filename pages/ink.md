@@ -33,6 +33,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[ink-soaked](https://github.com/wickedlyethan/ink-soaked)_: a template for Twine-like hypertext using inkle's ink scripting language and ink.js
 * _[PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW)_: a basic template for deploying a game written in ink as a stand-alone desktop app
 * _[Ink & Paper Engine](https://github.com/inkle/ink/issues/408)_: a tool designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink
+* _[ink-vn-engine](https://github.com/paulloz/ink-vn-engine)_: a tool to make visual novels using Ink
 
 ### Tips & Tricks
 
