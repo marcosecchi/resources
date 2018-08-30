@@ -12,14 +12,15 @@ Lorem Ipsum
 
 ## Voxels
 
-* _[MagicaVoxel](./pages/magicavoxel.html)_
-* _[Voxatron](./pages/voxatron.html)_
+* _[Voxels](./pages/voxels/voxels.html)_
+* _[MagicaVoxel](./pages/voxels/magicavoxel.html)_
+* _[Voxatron](./pages/voxels/voxatron.html)_
 
 ## Retro Gaming
 
-* _[Fantasy Consoles](./pages/fantasy-consoles.html)_
-* _[PICO-8](./pages/pico-8.html)_
-* _[TIC-80](./pages/tic-80.html)_
+* _[Fantasy Consoles](./pages/retrogaming/fantasy-consoles.html)_
+* _[PICO-8](./pages/retrogaming/pico-8.html)_
+* _[TIC-80](./pages/retrogaming/tic-80.html)_
 
 ## Programming
 
@@ -29,3 +30,7 @@ Lorem Ipsum
 
 * _[Angular & Ionic](./pages/angular.html)_
 * _[Static Websites](./pages/static-websites.html)_
+
+## Other
+
+* _[Academy](./pages/academy.html)_
