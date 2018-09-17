@@ -28,8 +28,9 @@ Lorem Ipsum
 
 ## Web and Hybrid Apps
 
-* _[Angular & Ionic](./pages/angular.html)_
-* _[Static Websites](./pages/static-websites.html)_
+* _[Angular & Ionic](./pages/webdev/angular.html)_
+* _[Static Websites](./pages/webdev/static-websites.html)_
+* _[Static Websites](./pages/webdev/webtools.html)_
 
 ## Other
 

@@ -75,6 +75,11 @@ with observable streams
 
 * _[Ionic Material](http://ionicmaterial.com/)_
 
+### API & Platforms
+
+* _[Firebase](https://firebase.google.com/)_
+* _[Postman](https://www.getpostman.com/)_
+
 ### Hybrid Apps
 
 * _[Apache Cordova](https://cordova.apache.org/)_
