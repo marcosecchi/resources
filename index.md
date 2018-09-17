@@ -30,7 +30,7 @@ Lorem Ipsum
 
 * _[Angular & Ionic](./pages/webdev/angular.html)_
 * _[Static Websites](./pages/webdev/static-websites.html)_
-* _[Static Websites](./pages/webdev/webtools.html)_
+* _[WebTools](./pages/webdev/webtools.html)_
 
 ## Other
 
