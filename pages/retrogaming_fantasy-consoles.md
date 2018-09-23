@@ -17,6 +17,7 @@ A repository of links for fantasy consoles
 * _[jsgs](https://github.com/burakcan/jsgs)_: JavaScript implementation of the Pico-8 fantasy console
 * _[ELMO-8](https://package.elm-lang.org/packages/micktwomey/elmo-8/latest)_: a simple game library inspired by PICO-8
 * _[PuzzleScript](https://www.puzzlescript.net/)_: an open-source HTML5 puzzle game engine
+* _[PX8](https://hallucino.itch.io/px8)_: an open-source Fantasy Console (128x128 pixels default resolution) in Rust
 
 ### PixelVision8
 

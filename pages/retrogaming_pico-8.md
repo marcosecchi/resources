@@ -55,6 +55,7 @@ A repository of links for PICO-8
 * _[Wikia - Cart Data](http://pico-8.wikia.com/wiki/Cartdata?utm_medium=referral)_
 * _[Development Workflow](https://www.reddit.com/r/pico8/comments/5p9ohs/my_pico8_development_workflow/)_
 * _[Palette Swapping](https://www.patreon.com/posts/mighty-powers-of-7814529)_
+* _[Persistent High Score Table](https://www.lexaloffle.com/bbs/?tid=31901)_
 
 ### Magazines and Books
 
