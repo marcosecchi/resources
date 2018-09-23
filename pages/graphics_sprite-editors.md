@@ -8,10 +8,6 @@ A repository of links for sprite editing
 
 ### Spritesheets
 
-* _[]()_
-* _[]()_
-* _[]()_
-
 #### Tiled
 
 * _[Tiled](http://www.mapeditor.org/)_: main website
@@ -22,8 +18,6 @@ A repository of links for sprite editing
 ### Unity3D
 
 * _[PrettyPoly](https://318arcade.itch.io/prettypoly)_: open-source, layer-based, polygon drawing toolkit for quickly creating 2D levels
-* _[]()_
-* _[]()_
 
 ### Pixel Editors
 

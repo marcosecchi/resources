@@ -16,7 +16,6 @@ A repository of links for the LÖVE engine
 * _[Hardon Collider](http://vrld.github.io/HardonCollider/)_: collision detection for LÖVE
 * _[Bump](https://github.com/kikito/bump.lua)_: a collision detection library for Lua
 * _[Moonshine](https://github.com/vrld/moonshine)_: chainable post-processing shaders for LÖVE
-* _[]()_
 
 ### Tutorials
 
@@ -25,7 +24,6 @@ A repository of links for the LÖVE engine
 * _[Tutorials by Michael Ebens](http://ebens.me/categories/tutorials/)_
 * _[Video Tutorials by recursor](https://www.youtube.com/watch?v=Jte9o4S6rlo&list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB)_
 * _[LÖVE Tile Tutorial](https://github.com/kikito/love-tile-tutorial/wiki)_
-* _[]()_
 
 ### Hardware
 
