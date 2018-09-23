@@ -101,6 +101,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Teach Me How To Ink [Pt. 3]](https://www.youtube.com/watch?v=_vaxenealJk)_: conditional code
 * _[Create a Visual Novel [Pt. 1]](https://www.youtube.com/watch?v=v5sU1Aidzwo)_: it's a wrap!
 * _[Create a Visual Novel [Pt. 2]](https://www.youtube.com/watch?v=lYDhEs1pa7o)_: right up!
+* _[Designing Text UX for Effortless Reading](https://www.youtube.com/watch?v=mopBSNyFEE4)_
 
 ### Related Projects
 

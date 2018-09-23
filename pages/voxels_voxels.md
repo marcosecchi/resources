@@ -22,8 +22,6 @@ A repository of voxel resources
 #### Tools
 
 * _[Plots Modeler](https://www.plotz.co.uk/)_
-* _[]()_
-* _[]()_
 
 ### Tutorials
 
@@ -37,7 +35,5 @@ A repository of voxel resources
 * _[Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine/home)_
 * _[Marching Squares, partitioning space](https://catlikecoding.com/unity/tutorials/marching-squares/)_
 * _[Voxel Resources & Engines for Unity](http://unitycoder.com/blog/2012/10/18/voxel-resources-engines-for-unity/)_
-* _[]()_
-* _[]()_
 
 [back](../)

@@ -18,7 +18,6 @@ A repository of links about web programming
 * _[CodePen](https://codepen.io/)_
 * _[Paiza.io](https://paiza.io/en)_
 
-
 ### Forms
 
 * _[Typeform](https://www.typeform.com/)_
@@ -33,29 +32,21 @@ A repository of links about web programming
 * _[loremipsum.io](https://loremipsum.io/)_
 * _[Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)_
 * _[cssmatic.com](https://www.cssmatic.com/)_
-* _[]()_
-* _[]()_
 
 ### Placeholders
 
 * _[placeholder.com](https://placeholder.com/)_
 * _[dummyimage.com](https://dummyimage.com/)_
-* _[]()_
-* _[]()_
-* _[]()_
 
 ### Color Palettes
 
 * _[colorlisa.com](http://www.colorlisa.com/)_
 * _[colorsupplyyy.com](http://colorsupplyyy.com/)_
 * _[Canva](https://www.canva.com/colors/)_
-* _[]()_
 
 ### Converters
 
 * _[iConvert Icons](https://iconverticons.com/online/)_
 * _[Sprite Sheet Decomposer](https://jmsliu.com/products/sprite-sheet-decomposer/decomposer.php)_
-* _[]()_
-* _[]()_
 
 [back](../)

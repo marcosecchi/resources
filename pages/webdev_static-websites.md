@@ -32,5 +32,4 @@ A repository of links about static websites
 * _[GitBook](https://www.gitbook.com/)_
 * _[MkDocs](https://www.mkdocs.org/)_
 
-
 [back](../)
