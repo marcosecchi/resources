@@ -6,32 +6,35 @@ layout: default
 
 Lorem Ipsum
 
-## Unity3D
+## Storytelling
 
-* _[Ink](./pages/ink.html)_
+* _[Ink](./pages/storytelling_ink.html)_
+
+## Game Engines
+
+* _[Voxatron](./pages/gameengines_voxatron.html)_
 
 ## Voxels
 
-* _[Voxels](./pages/voxels/voxels.html)_
-* _[MagicaVoxel](./pages/voxels/magicavoxel.html)_
-* _[Voxatron](./pages/voxels/voxatron.html)_
+* _[Voxels](./pages/voxels_voxels.html)_
+* _[MagicaVoxel](./pages/voxels_magicavoxel.html)_
 
 ## Retro Gaming
 
-* _[Fantasy Consoles](./pages/retrogaming/fantasy-consoles.html)_
-* _[PICO-8](./pages/retrogaming/pico-8.html)_
-* _[TIC-80](./pages/retrogaming/tic-80.html)_
+* _[Fantasy Consoles](./pages/retrogaming_fantasy-consoles.html)_
+* _[PICO-8](./pages/retrogaming_pico-8.html)_
+* _[TIC-80](./pages/retrogaming_tic-80.html)_
 
 ## Programming
 
-* _[Rective Programming](./pages/reactive-programming.html)_
+* _[Rective Programming](./pages/programming_reactive-programming.html)_
 
 ## Web and Hybrid Apps
 
-* _[Angular & Ionic](./pages/webdev/angular.html)_
-* _[Static Websites](./pages/webdev/static-websites.html)_
-* _[WebTools](./pages/webdev/webtools.html)_
+* _[Angular & Ionic](./pages/webdev_angular.html)_
+* _[Static Websites](./pages/webdev_static-websites.html)_
+* _[WebTools](./pages/webdev_webtools.html)_
 
-## Other
+## Learning
 
-* _[Academy](./pages/academy.html)_
+* _[Academy](./pages/learning_academy.html)_

@@ -26,6 +26,8 @@ A repository of links about learning programming
 * _[Brackeys](http://brackeys.com/)_
 * _[GameDev @ MSU](http://gamedev.msu.edu/)_
 * _[A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)_
+* _[SonarLearning](https://sonarlearning.co.uk/topicpage.php?topic=game)_
+* _[]()_
 
 #### Math
 
