@@ -29,6 +29,13 @@ PV8 is a platform that standardizes 8-bit fantasy console limitations built on t
 * _[PV8 on Itch.io](https://pixelvision8.itch.io/)_
 * _[Twitter](https://twitter.com/pixelvision8)_
 
+### Hardware & OS
+
+* _[RecalBox](https://www.recalbox.com/)_: retrogaming open source operating system for Raspberry Pi, Odroid and PC
+* _[RetroPie](https://www.retropie.it/)_
+* _[PiLove](http://pilove.mitako.eu/)_: Raspberry Pi bootable image
+* _[Lakka](http://www.lakka.tv/)_: a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
+
 ### Social
 
 * _[@ramilego4game](https://twitter.com/ramilego4game)_
