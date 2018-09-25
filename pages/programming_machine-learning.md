@@ -13,6 +13,7 @@ A repository of links about Machine Learning
 * _[Main Page](https://www.tensorflow.org/)_
 * _[OpenAI](https://openai.com/)_
 * _[Gym](https://gym.openai.com/)_
+* _[Gym Docs](https://gym.openai.com/docs/)_
 
 ### Unity
 
