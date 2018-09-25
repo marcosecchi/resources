@@ -34,6 +34,7 @@ layout: default
 ### Programming
 
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
+* _[Machine Learning](./programming_machine-learning.html)_
 
 ### Web Dev
 
