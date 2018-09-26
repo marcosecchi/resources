@@ -35,6 +35,7 @@ PV8 is a platform that standardizes 8-bit fantasy console limitations built on t
 * _[RetroPie](https://www.retropie.it/)_
 * _[PiLove](http://pilove.mitako.eu/)_: Raspberry Pi bootable image
 * _[Lakka](http://www.lakka.tv/)_: a lightweight Linux distribution that transforms a small computer into a full blown retrogaming console
+* _[raylib](https://www.raylib.com/)_: raylib supports multiple target platforms including RaspberryPI
 
 ### Social
 
