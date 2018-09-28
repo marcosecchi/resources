@@ -18,6 +18,12 @@ A repository of links about learning programming
 * _[Embed.ly](https://embed.ly/)_
 * _[HackerRank](https://www.hackerrank.com/dashboard)_
 
+#### GitHub Education
+
+* _[GitHub Classroom](https://classroom.github.com)_
+* _[GitHub Education Community](https://education.github.community/)_
+* _[GitHub's Teacher Community](https://github.com/education/teachers)_
+
 #### Game Design & Programming
 
 * _[Explorables Explanations](https://explorabl.es/)_
@@ -40,6 +46,7 @@ A repository of links about learning programming
 
 * _[Skillshare](https://www.skillshare.com/)_
 * _[CodeMentor](https://www.codementor.io/)_
+* _[GameDev Mentors](https://www.gamedevmentors.com/)_
 
 #### Other
 
