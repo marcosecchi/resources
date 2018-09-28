@@ -27,7 +27,6 @@ A repository of links about learning programming
 * _[GameDev @ MSU](http://gamedev.msu.edu/)_
 * _[A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)_
 * _[SonarLearning](https://sonarlearning.co.uk/topicpage.php?topic=game)_
-* _[]()_
 
 #### Math
 
@@ -41,8 +40,6 @@ A repository of links about learning programming
 
 * _[Skillshare](https://www.skillshare.com/)_
 * _[CodeMentor](https://www.codementor.io/)_
-* _[]()_
-* _[]()_
 
 #### Other
 
@@ -55,20 +52,14 @@ A repository of links about learning programming
 
 * _[Moodle](https://moodle.org/)_
 * _[Blackboard](https://www.blackboard.com/)_
-* _[]()_
 
 ### Flashcards
 
 * _[Cram](https://www.cram.com/)_
-* _[]()_
-* _[]()_
 
 ### Essays & Papers
 
 * _[StudyMode](https://www.studymode.com/)_
 * _[Google Scholar](https://scholar.google.it/)_
-* _[]()_
-* _[]()_
-
 
 [back](../)
