@@ -56,10 +56,15 @@ A repository of links for PICO-8
 * _[Development Workflow](https://www.reddit.com/r/pico8/comments/5p9ohs/my_pico8_development_workflow/)_
 * _[Palette Swapping](https://www.patreon.com/posts/mighty-powers-of-7814529)_
 * _[Persistent High Score Table](https://www.lexaloffle.com/bbs/?tid=31901)_
+* _[Ternary Operators](https://mboffin.itch.io/ternary-operators)_
+* _[Simple Animation](https://mboffin.itch.io/simple-animation)_
+* _[Checking for Overlap](https://mboffin.itch.io/pico8-overlap)_
+* _[Maze Algorithm](https://mboffin.itch.io/pico8-maze-algorithm)_
 
 ### Magazines and Books
 
-* _[How to Make Games with PICO-8](https://tassilo.itch.io/howtomakegames)_ by Tassilo
+* _[How to Make Games with PICO-8](https://tassilo.itch.io/howtomakegames)_ by tassilo
+* _[GameDev with PICO-8 - Issue 1](https://mboffin.itch.io/gamedev-with-pico-8-issue1)_ by mboffin
 * _[PICO-8 Fanzine - Issue 1](https://sectordub.itch.io/pico-8-fanzine-1)_
 * _[PICO-8 Fanzine - Issue 1 (Es)](https://sectordub.itch.io/pico-8-fanzine-1-spanish)_
 * _[PICO-8 Fanzine - Issue 1 (Jp)](https://sectordub.itch.io/pico-8-fanzine-1-japanese)_

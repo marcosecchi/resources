@@ -36,6 +36,7 @@ layout: default
 
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./programming_machine-learning.html)_
+* _[Lua](./programming_lua.html)_
 
 ### Web Dev
 
@@ -48,3 +49,7 @@ layout: default
 ### Learning
 
 * _[Academy](./pages/learning_academy.html)_
+
+### Other
+
+* _[Ebooks](./pages/other-ebooks.html)_
