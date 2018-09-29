@@ -26,3 +26,14 @@ A repository of links about ebooks
 * _[PressBooks](https://pressbooks.com/)_: an easy-to-use book writing software that lets you create a book in all the formats you need to publish
 * _[YouCanPrint](https://www.youcanprint.it/)_
 * _[Lulu](https://www.lulu.com/)_
+
+#### Digital Libraries
+
+* _[Bibliothèque Virtuelle de Clairvaux](https://www.bibliotheque-virtuelle-clairvaux.com/)_
+* _[Bibliothèque virtuelle du Mont Saint-Michel](https://www.unicaen.fr/bvmsm/pages/index.html)_
+* _[DigitaVaticana](http://www.digitavaticana.org/)_
+* _[DigiVatLib](https://digi.vatlib.it/)_
+* _[E-Codices](http://www.e-codices.unifr.ch/en)_
+* _[Biblioteca Apostolica Vaticana](https://www.vaticanlibrary.va/)_
+* _[The Digital Walters](http://www.thedigitalwalters.org/)_
+* _[MET Publications](https://www.metmuseum.org/art/metpublications/titles-with-full-text-online)_
