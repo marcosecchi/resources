@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## C#
+## CSharp
 
 A repository of links for C# for Unity3D
 
@@ -10,17 +10,21 @@ A repository of links for C# for Unity3D
 
 * _[Official Documentation](https://docs.microsoft.com/it-it/dotnet/csharp/)_
 * _[C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming)_ on WikiBooks
-* _[]()_
 
 ### Ebooks
 
 * _[Fundamentals of Computer Programming with C#](http://www.introprogramming.info/english-intro-csharp-book/read-online/)_
 * _[Threading in C#](http://www.albahari.com/threading/)_
-* _[]()_
+
+### Tips & Tricks
+
+* _[Hidden Features(https://stackoverflow.com/questions/9033/hidden-features-of-c)_ on StackOverflow
 
 ### Learning
 
 * _[TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)_
+* _[C# Station](https://csharp-station.com/)_
+* _[C# Essentials](https://www.techotopia.com/index.php/C_Sharp_Essentials)_ on Techopia
 
 #### Tech.io
 
