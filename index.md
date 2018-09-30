@@ -6,13 +6,17 @@ layout: default
 
 ### Gaming
 
-#### Untiy
+#### Unity
 
 * _[C#](./pages/gamedev_csharp.html)_
 
 #### Storytelling
 
 * _[Ink](./pages/storytelling_ink.html)_
+
+#### Game Programming
+
+* _[Game Mechanics](./pages/gamedev_game-mechanics.html)_
 
 #### Game Engines
 
