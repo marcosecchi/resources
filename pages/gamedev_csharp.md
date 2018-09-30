@@ -18,7 +18,7 @@ A repository of links for C# for Unity3D
 
 ### Tips & Tricks
 
-* _[Hidden Features(https://stackoverflow.com/questions/9033/hidden-features-of-c)_ on StackOverflow
+* _[Hidden Features](https://stackoverflow.com/questions/9033/hidden-features-of-c)_ on StackOverflow
 
 ### Learning
 
