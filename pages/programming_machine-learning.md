@@ -24,6 +24,12 @@ A repository of links about Machine Learning
 
 * _[Unity Blog on ML](https://blogs.unity3d.com/category/machine-learning/)_
 
+### Videos
+
+* _[Machine Learning Recipes with Josh Gordon](https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)_
+
 ### Demos
 
 * _[Teachable Machine](https://teachablemachine.withgoogle.com/)_ by Google
+
+[back](../)

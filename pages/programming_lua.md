@@ -26,3 +26,5 @@ A repository of links about the Lua programming language
 ### Publications
 
 * _[LabLua](http://www.lua.inf.puc-rio.br/publications.html)_
+
+[back](../)

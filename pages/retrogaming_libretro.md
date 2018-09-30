@@ -4,7 +4,7 @@ layout: default
 
 ## RetroArch
 
-A repository of links for RetroArch
+A repository of links for LibRetro and derivates
 
 ### Main
 
@@ -16,3 +16,5 @@ A repository of links for RetroArch
 ### Tools
 
 * _[RetroArch Playlist Editor](https://www.marcrobledo.com/retroarch-playlist-editor/)_
+
+[back](../)
