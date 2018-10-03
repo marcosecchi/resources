@@ -23,6 +23,7 @@ A repository of links about Machine Learning
 ## Blog Posts
 
 * _[Unity Blog on ML](https://blogs.unity3d.com/category/machine-learning/)_
+* _Artificial locomotion in Unity using Machine Learning [Pt. 1](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-1/)/[Pt. 2](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-2/)/[Pt. 3](https://blog.theknightsofunity.com/artificial-locomotion-unity-using-machine-learning-part-3/)_
 
 ### Videos
 
