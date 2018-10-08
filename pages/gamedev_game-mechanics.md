@@ -4,7 +4,7 @@ layout: default
 
 ## Game Mechanics
 
-A repository of links for Game MEchanics
+A repository of links for Game Mechanics
 
 ### Main
 

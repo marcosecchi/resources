@@ -38,6 +38,8 @@ layout: default
 
 #### Graphics
 
+* _[Pixel Art](./pages/graphics_pixel-art.html)_
+* _[Sprite Editors](./pages/graphics_sprite-editors.html)_
 * _[2D Animation](./pages/graphics_2d-animation.html)_
 * _[2D Animation](./pages/graphics_3d-tools.html)_
 
@@ -46,6 +48,7 @@ layout: default
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./programming_machine-learning.html)_
 * _[Lua](./programming_lua.html)_
+* _[Git](./programming_git.html)_
 
 ### Web Dev
 
@@ -62,3 +65,4 @@ layout: default
 ### Other
 
 * _[Ebooks](./pages/other-ebooks.html)_
+* _[Audio](./pages/other_audio.html)_
