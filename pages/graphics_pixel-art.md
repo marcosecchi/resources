@@ -9,6 +9,7 @@ A repository of links for Pixel Art
 ### Resources
 
 * _[Retronator](https://retronator.com/)_
+* _[Retronator Magazine](https://medium.com/retronator-magazine)_
 * _[PixelArt Academy](https://pixelart.academy/)_
 * _[All the free content from Pixel Art Academy](https://medium.com/retronator-magazine/all-the-free-content-from-pixel-art-academy-736c8e9bfbaa)_
 * _[2D Will Never Die](https://2dwillneverdie.com/)_

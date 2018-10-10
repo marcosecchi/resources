@@ -6,13 +6,15 @@ layout: default
 
 ### Gaming
 
+* _[Game Design](./pages/gamedesign.html)_
+
 #### Unity
 
 * _[C#](./pages/gamedev_csharp.html)_
 
 #### Storytelling
 
-* _[Ink](./pages/storytelling_ink.html)_
+* _[Ink](./pages/gamedev_storytelling_ink.html)_
 
 #### Game Programming
 
@@ -20,14 +22,9 @@ layout: default
 
 #### Game Engines
 
-* _[Game Engines](./pages/gameengines.html)_
-* _[Voxatron](./pages/gameengines_voxatron.html)_
-* _[LÖVE](./pages/gameengines_love2d.html)_
-
-#### Voxels
-
-* _[Voxels](./pages/voxels_voxels.html)_
-* _[MagicaVoxel](./pages/voxels_magicavoxel.html)_
+* _[Game Engines](./pages/gamedev_gameengines.html)_
+* _[Voxatron](./pages/gamedev_gameengines_voxatron.html)_
+* _[LÖVE](./pages/gamedev_gameengines_love2d.html)_
 
 #### Retro Gaming
 
@@ -36,19 +33,25 @@ layout: default
 * _[TIC-80](./pages/retrogaming_tic-80.html)_
 * _[RetroArch](./pages/retrogaming_libretro.html)_
 
-#### Graphics
-
-* _[Pixel Art](./pages/graphics_pixel-art.html)_
-* _[Sprite Editors](./pages/graphics_sprite-editors.html)_
-* _[2D Animation](./pages/graphics_2d-animation.html)_
-* _[2D Animation](./pages/graphics_3d-tools.html)_
-
 ### Programming
 
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./programming_machine-learning.html)_
 * _[Lua](./programming_lua.html)_
 * _[Git](./programming_git.html)_
+
+
+### Graphics
+
+* _[Pixel Art](./pages/graphics_pixel-art.html)_
+* _[Sprite Editors](./pages/graphics_sprite-editors.html)_
+* _[2D Animation](./pages/graphics_2d-animation.html)_
+* _[2D Animation](./pages/graphics_3d-tools.html)_
+
+#### Voxels
+
+* _[Voxels](./pages/graphics_voxels_voxels.html)_
+* _[MagicaVoxel](./pages/graphics_voxels_magicavoxel.html)_
 
 ### Web Dev
 
