@@ -16,10 +16,6 @@ layout: default
 
 * _[Ink](./pages/gamedev_storytelling_ink.html)_
 
-#### Game Programming
-
-* _[Game Mechanics](./pages/gamedev_game-mechanics.html)_
-
 #### Game Engines
 
 * _[Game Engines](./pages/gamedev_gameengines.html)_
