@@ -4,8 +4,6 @@ layout: default
 
 ## CSharp
 
-A repository of links for C# for Unity3D
-
 ### Main
 
 * _[Official Documentation](https://docs.microsoft.com/it-it/dotnet/csharp/)_

@@ -4,8 +4,6 @@ layout: default
 
 ## Game Engines
 
-A repository of links for game engines
-
 ### Game Engine Lists
 
 * _[Wikipedia](https://en.wikipedia.org/wiki/List_of_game_engines)_

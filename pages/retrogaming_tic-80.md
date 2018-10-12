@@ -4,8 +4,6 @@ layout: default
 
 ## TIC-80 Resources
 
-A repository of links for TIC-80
-
 ### Main
 
 * _[Official Page](https://tic.computer/)_

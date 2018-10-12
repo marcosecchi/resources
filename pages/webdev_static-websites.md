@@ -4,8 +4,6 @@ layout: default
 
 ## Static Websites
 
-A repository of links about static websites
-
 ### Websites
 
 * _[StaticGen](https://www.staticgen.com/)_: a List of Static Site Generators for JAMstack Sites

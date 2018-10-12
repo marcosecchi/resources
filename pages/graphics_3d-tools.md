@@ -4,8 +4,6 @@ layout: default
 
 ## 3D Tools
 
-A repository of links for 3D tools
-
 ### Bump Mapping
 
 * _[SmartNormal](http://www.smart-page.net/smartnormal/)_

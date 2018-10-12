@@ -4,8 +4,6 @@ layout: default
 
 ## 2D Animation Software
 
-A repository of links for 2d animation
-
 ### Main
 
 * _[Live2D](http://www.live2d.com/en/)_

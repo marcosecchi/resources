@@ -4,8 +4,6 @@ layout: default
 
 ## Pixel Art
 
-A repository of links for Pixel Art
-
 ### Resources
 
 * _[Retronator](https://retronator.com/)_

@@ -4,8 +4,6 @@ layout: default
 
 ## Audio
 
-A repository of links of audio utils
-
 ### Tools
 
 * _[FMOD](https://www.fmod.com/)_: the ultimate audio engine for your game

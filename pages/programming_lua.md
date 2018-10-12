@@ -4,8 +4,6 @@ layout: default
 
 ## Lua
 
-A repository of links about the Lua programming language
-
 ### Main
 
 * _[Main Website](http://www.lua.org/)_

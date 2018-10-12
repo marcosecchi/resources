@@ -4,8 +4,6 @@ layout: default
 
 ## Git
 
-A repository of links for Git
-
 ### Main
 
 * _[Official Website](https://git-scm.com/)_

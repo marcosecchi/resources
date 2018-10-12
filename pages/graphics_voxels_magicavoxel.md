@@ -4,8 +4,6 @@ layout: default
 
 ## MagicaVoxel Resources
 
-A collection of resources about MagicaVoxel.
-
 ### Main
 
 * _[MagicaVoxel Official Page](https://ephtracy.github.io/)_

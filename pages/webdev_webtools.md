@@ -4,8 +4,6 @@ layout: default
 
 ## Web Tools
 
-A repository of links about web programming
-
 ### Online IDEs
 
 * _[Repl.it](https://repl.it/languages)_

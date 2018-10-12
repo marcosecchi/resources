@@ -4,8 +4,6 @@ layout: default
 
 ## Game Design
 
-A repository of links for Game Design
-
 ### Main
 
 * _[Level-Design.org](http://level-design.org/)_ bt Mateusz Piaskiewicz
@@ -14,6 +12,7 @@ A repository of links for Game Design
 * _[GDC Vault](http://www.gdcvault.com/)_
 * _[PixelProspector](http://www.pixelprospector.com/)_
 * _[IndieGames+](http://indiegamesplus.com/)_
+* _[The Game Design Forum](http://thegamedesignforum.com/)_
 
 ### Game Mechanics
 
@@ -23,7 +22,6 @@ A repository of links for Game Design
 * _[HtBoxes](https://www.flickr.com/photos/96872887@N07/sets/72157650671215997)_ by Chris Wagar
 * _[Game Mechanics Explorer](https://gamemechanicexplorer.com/)_
 * _[Three Hundred Mechanics](http://www.squidi.net/three/)_
-* _[]()_
 * _[]()_
 
 ### Tools

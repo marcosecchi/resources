@@ -4,8 +4,6 @@ layout: default
 
 ## Machine Learning
 
-A repository of links about Machine Learning
-
 ### Main
 
 ### TensorFlow

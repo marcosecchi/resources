@@ -4,8 +4,6 @@ layout: default
 
 ## Sprite Editors
 
-A repository of links for sprite editing
-
 ### Spritesheets
 
 #### Tiled

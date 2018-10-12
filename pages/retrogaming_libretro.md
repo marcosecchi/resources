@@ -4,8 +4,6 @@ layout: default
 
 ## RetroArch
 
-A repository of links for LibRetro and derivates
-
 ### Main
 
 * _[LibRetro](https://www.libretro.com/)_

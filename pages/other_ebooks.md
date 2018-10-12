@@ -4,8 +4,6 @@ layout: default
 
 ## Ebooks
 
-A repository of links about ebooks
-
 ### Main
 
 #### Download

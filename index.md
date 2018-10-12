@@ -6,7 +6,8 @@ layout: default
 
 ### Gaming
 
-* _[Game Design](./pages/gamedesign.html)_
+* _[Game Design](./pages/gamedev_game-design.html)_
+* _[Level Design](./pages/gamedev_level-design.html)_
 
 #### Unity
 

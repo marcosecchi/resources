@@ -4,8 +4,6 @@ layout: default
 
 ## Fantasy Consoles
 
-A repository of links for fantasy consoles
-
 ### Main
 
 * _[Fantasy consoles](https://github.com/paladin-t/fantasy)_ by paladin-t

@@ -4,8 +4,6 @@ layout: default
 
 ## LÖVE Resources
 
-A repository of links for the LÖVE engine
-
 ### Main
 
 * _[Main Website](https://love2d.org/)_

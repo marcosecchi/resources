@@ -4,8 +4,6 @@ layout: default
 
 ## Voxel Resources
 
-A repository of voxel resources
-
 ### Main
 
 * _[MagicaVoxel](https://ephtracy.github.io/)_

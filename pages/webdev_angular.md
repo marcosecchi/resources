@@ -4,8 +4,6 @@ layout: default
 
 ## Angular & Ionic
 
-A repository of links for Angular and Ionic
-
 ### Angular
 
 #### Main

@@ -4,8 +4,6 @@ layout: default
 
 ## Reactive Programming
 
-A repository of links about reactive programming
-
 ### Main
 
 * _[The Reactive Manifesto](https://www.reactivemanifesto.org/)_

@@ -4,8 +4,6 @@ layout: default
 
 ## Voxatron Resources
 
-A repository of links for Voxatron
-
 ### Main
 
 * _[Main Website](https://www.lexaloffle.com/voxatron.php)_
