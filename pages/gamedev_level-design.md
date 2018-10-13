@@ -6,7 +6,7 @@ layout: default
 
 ### Resources
 
-* _[]()_
+* _[World of Level Design](https://www.worldofleveldesign.com/)_
 * _[]()_
 * _[]()_
 * _[]()_

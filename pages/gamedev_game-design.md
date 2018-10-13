@@ -27,7 +27,7 @@ layout: default
 ### Tools
 
 * _[Generominos](http://www.galaxykate.com/generominos/)_: a construction set for generative interactive artwork
-* _[http://tinygdtool.urustar.net/](Tiny Game Design Tool)_: a poor people's booklet to carry around
+* _[Tiny Game Design Tool](http://tinygdtool.urustar.net/)_: a poor people's booklet to carry around
 * _[Dundoc](http://www.dundoc.com/)_: get Started quickly with a Game Design starter Template
 * _[Inform7](http://inform7.com/)_: a design system for interactive fiction based on natural language
 * _[]()_

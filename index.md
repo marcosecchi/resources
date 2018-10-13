@@ -6,6 +6,7 @@ layout: default
 
 ### Gaming
 
+* _[Game Programming](./pages/gamedev_game-programming.html)_
 * _[Game Design](./pages/gamedev_game-design.html)_
 * _[Level Design](./pages/gamedev_level-design.html)_
 

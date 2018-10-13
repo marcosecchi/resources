@@ -41,7 +41,6 @@ layout: default
 * _[Atomic](https://github.com/AtomicGameEngine/AtomicGameEngine)_
 * _[Xenko](https://xenko.com/)_
 * _[Turbulenz](http://www.turbulenz.biz/)_ (no longer maintained)
-* _[]()_
 
 ### Online
 
