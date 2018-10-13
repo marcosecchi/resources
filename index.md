@@ -38,7 +38,6 @@ layout: default
 * _[Lua](./programming_lua.html)_
 * _[Git](./programming_git.html)_
 
-
 ### Graphics
 
 * _[Pixel Art](./pages/graphics_pixel-art.html)_
