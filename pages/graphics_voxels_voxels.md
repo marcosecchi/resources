@@ -35,4 +35,14 @@ layout: default
 * _[Marching Squares, partitioning space](https://catlikecoding.com/unity/tutorials/marching-squares/)_
 * _[Voxel Resources & Engines for Unity](http://unitycoder.com/blog/2012/10/18/voxel-resources-engines-for-unity/)_
 
+### Engines
+
+#### Voxatron
+
+* _[Main Website](https://www.lexaloffle.com/voxatron.php)_
+* _[Voxatron Designer User Manual](https://www.lexaloffle.com/bbs/files/1/voxatron_manual_0.html)_
+
+##### Hardware
+
+* _[The Looking Glass](https://www.kickstarter.com/projects/lookingglass/the-looking-glass-a-holographic-display-for-3d-cre?ref=6wkyxa)_
 [back](../)

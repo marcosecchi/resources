@@ -12,7 +12,7 @@ layout: default
 * _[OpenToonz](https://opentoonz.github.io/e/index.html)_
 * _[Spine](http://it.esotericsoftware.com/)_
 
-### Unity
+### Unity Plugins
 
 * _[Anima2D](https://assetstore.unity.com/packages/essentials/unity-anima2d-79840)_
 * _[Puppet2D](https://assetstore.unity.com/packages/tools/animation/puppet2d-14024)_

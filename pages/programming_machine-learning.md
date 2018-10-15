@@ -17,11 +17,17 @@ layout: default
 
 * _[Main Page](https://unity3d.com/machine-learning)_
 * _[GitHub Repository](https://github.com/Unity-Technologies/ml-agents)_
+* _[Unity ML-Agents Toolkit Documentation](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)_
 
 ## Blog Posts
 
 * _[Unity Blog on ML](https://blogs.unity3d.com/category/machine-learning/)_
 * _Artificial locomotion in Unity using Machine Learning [Pt. 1](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-1/)/[Pt. 2](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-2/)/[Pt. 3](https://blog.theknightsofunity.com/artificial-locomotion-unity-using-machine-learning-part-3/)_
+
+### Articles
+
+* _[Unity: A General Platform for Intelligent Agents](https://arxiv.org/abs/1809.02627)_
+* _[Puppo, The Corgi: Cuteness Overload with the Unity ML-Agents Toolkit](https://blogs.unity3d.com/2018/10/02/puppo-the-corgi-cuteness-overload-with-the-unity-ml-agents-toolkit/)_
 
 ### Videos
 
