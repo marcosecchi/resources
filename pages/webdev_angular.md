@@ -30,6 +30,7 @@ layout: default
 * _[Ng Bootstrap](https://ng-bootstrap.github.io/)_
 * _[Ng2 Translate](https://www.npmjs.com/package/ng2-translate)_
 * _[Angular Flex Layout](https://www.npmjs.com/package/@angular/flex-layout)_
+* _[PrimeNG](https://www.primefaces.org/primeng/#/)_
 
 #### Training
 
