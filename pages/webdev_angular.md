@@ -6,8 +6,6 @@ layout: default
 
 ### Angular
 
-#### Main
-
 * _[Angular.io](https://angular.io/)_
 * _[Angular Material](https://material.angular.io/)_
 * _[Angular CLI](https://cli.angular.io/)_
@@ -49,8 +47,7 @@ layout: default
 
 ### Reactive Programming
 
-* _[ReactiveX](http://reactivex.io/)_: an API for asynchronous programming
-with observable streams
+* _[ReactiveX](http://reactivex.io/)_: an API for asynchronous programming with observable streams
 * _[RxJS](https://rxjs-dev.firebaseapp.com/)_: reactive extensions Library for JavaScript
 
 ### TypeScript
@@ -59,18 +56,16 @@ with observable streams
 
 ### Ionic
 
-#### Main
-
 * _[Website](https://ionicframework.com/)_
 * _[Ionic Docs](https://ionicframework.com/docs/)_
 * _[Ionic Pro Docs](https://ionicframework.com/docs/pro/)_
 
-#### Tools
+#### Ionic Tools
 
 * _[StencilJs](https://stenciljs.com/)_
 * _[Capacitor](https://capacitor.ionicframework.com/)_
 
-#### Frameworks
+#### Ionic Frameworks
 
 * _[Ionic Material](http://ionicmaterial.com/)_
 
