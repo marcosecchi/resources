@@ -11,6 +11,10 @@ layout: default
 * _[Twitter](https://twitter.com/tic_computer)_
 * _[Discord](https://discordapp.com/invite/DkD73dP)_
 
+### Cheatsheets
+
+* _[TIC-80 Reference](https://wow.thanos.church/i/9hx9.png)_
+
 ### Plugin Integrations
 
 * _[tic80-vscode](https://marketplace.visualstudio.com/items?itemName=Gi972.tic80-vscode)_: an extension for running lua files in tic80 for mac
