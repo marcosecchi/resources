@@ -8,7 +8,7 @@ layout: default
 
 * _[Official Page](https://tic.computer/)_
 * _[Manual](https://github.com/nesbox/TIC-80/wiki)_
-* _[Twitter](https://github.com/nesbox/TIC-80/wiki)_
+* _[Twitter](https://twitter.com/tic_computer)_
 * _[Discord](https://discordapp.com/invite/DkD73dP)_
 
 ### Plugin Integrations
