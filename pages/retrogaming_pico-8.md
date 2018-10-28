@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## PICO-8 Resources
+## PICO-8 Fantasy Console
 
 ### Main
 

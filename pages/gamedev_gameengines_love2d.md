@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## LÖVE Resources
+## LÖVE Game Engine
 
 ### Main
 

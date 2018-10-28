@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## MagicaVoxel Resources
+## MagicaVoxel
 
 ### Main
 

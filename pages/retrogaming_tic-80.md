@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## TIC-80 Resources
+## TIC-80 Fantasy Console
 
 ### Main
 

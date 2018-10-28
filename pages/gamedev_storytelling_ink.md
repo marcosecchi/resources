@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Ink Resources
+## Ink
 
 A repository of links for **Ink**, the powerful scripting language behind [Heaven's Vault](https://www.inklestudios.com/heavensvault/), [80 Days Favorite](https://www.inklestudios.com/80days/) and [Sorcery!](https://www.inklestudios.com/sorcery/).
 
