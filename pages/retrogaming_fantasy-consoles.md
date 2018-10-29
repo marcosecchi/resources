@@ -8,7 +8,6 @@ layout: default
 
 * _[Fantasy consoles](https://github.com/paladin-t/fantasy)_ by paladin-t
 * _[BASIC8](https://github.com/paladin-t/b8)_ by paladin-t
-* _[LIKO-12](https://github.com/RamiLego4Game/LIKO-12)_: an open source fantasy computer made using LÖVE
 * _[PicoLove](https://github.com/gamax92/picolove)_: PICO-8 Reimplementation in Love2D
 * _[Unicorn Console](https://github.com/Gigoteur/UnicornConsole)_: a quick and dirty engine that let you do what you want with a resolution of 400x240 pixels
 * _[TIC-80](https://nesbox.itch.io/tic)_: a fantasy computer for making, playing and sharing tiny games
@@ -26,6 +25,14 @@ PV8 is a platform that standardizes 8-bit fantasy console limitations built on t
 * _[Repository](https://pixelvision8.itch.io/)_: repository
 * _[PV8 on Itch.io](https://pixelvision8.itch.io/)_
 * _[Twitter](https://twitter.com/pixelvision8)_
+
+### LIKO-12
+
+* _[LIKO-12](https://liko-12.github.io/#/)_
+* _[Repository](https://github.com/LIKO-12/LIKO-12)_
+* _[Cheatsheet](https://raw.githubusercontent.com/LIKO-12/Cheatsheets/master/GPU/LIKO-12%20GPU%20Cheatsheet.png)_
+
+LIKO-12 is an open source fantasy computer made using LÖVE
 
 ### Hardware & OS
 
