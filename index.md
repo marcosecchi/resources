@@ -9,6 +9,7 @@ layout: default
 * _[Game Programming](./pages/gamedev_game-programming.html)_
 * _[Game Design](./pages/gamedev_game-design.html)_
 * _[Level Design](./pages/gamedev_level-design.html)_
+* _[General Resources](./pages/gamedev_general-resources.html)_
 
 #### Unity
 
