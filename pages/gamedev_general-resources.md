@@ -24,14 +24,11 @@ layout: default
 
 * _[Twitch](https://www.twitch.tv/)_
 * _[GameLoop](https://forum.gameloop.it/)_
-* _[]()_
-* _[]()_
 
 ### Crowdfunding
 
 * _[Kickstarter](https://www.kickstarter.com/)_
 * _[Indiegogo](https://www.indiegogo.com/)_
 * _[Beerpay](https://beerpay.io/)_
-* _[]()_
 
 [back](../)
