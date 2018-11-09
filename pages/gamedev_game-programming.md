@@ -25,6 +25,10 @@ layout: default
 * _[Unity Shader Reference](https://docs.unity3d.com/Manual/SL-Reference.html)_
 * _[Resources for Writing Shaders in Unity](https://github.com/VoxelBoy/Resources-for-Writing-Shaders-in-Unity)_
 
+#### Videos
+
+* _[ShaderGraph Tutorial](https://www.youtube.com/watch?v=V5XFrIhLpGQ&list=PLX2vGYjWbI0RyhAsNJg4sLLKgCZsRSim2)_ by Unity
+
 #### Shader Tools
 
 * _[ShaderToy](https://www.shadertoy.com/)_ online editor
