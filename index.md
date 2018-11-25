@@ -14,9 +14,11 @@ layout: default
 #### Unity
 
 * _[C#](./pages/gamedev_csharp.html)_
+* _[ECS](./pages/gamedev_game-programming_unity_ecs.html)_
 
 #### Storytelling
 
+* _[Storytelling](./pages/gamedev_storytelling.html)_
 * _[Ink](./pages/gamedev_storytelling_ink.html)_
 
 #### Game Engines
