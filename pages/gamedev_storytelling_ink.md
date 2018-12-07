@@ -70,6 +70,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 * _[Dialogue System for Unity](http://www.pixelcrushers.com/dialogue_system/manual/html/ink.html)_
 * _[Ink Integration for Godot Engine](https://github.com/paulloz/godot-ink)_
+* _[InkPhone](https://github.com/tskaufma/inkphone)_: InkJS combined with PhoneGap to make Ink powered mobile apps
 
 ### Games
 
