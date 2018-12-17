@@ -38,8 +38,8 @@ layout: default
 
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./programming_machine-learning.html)_
-* _[Lua](./programming_lua.html)_
-* _[Git](./programming_git.html)_
+* _[Lua](./pages/programming_lua.html)_
+* _[Git](./pages/programming_git.html)_
 
 ### Graphics
 
