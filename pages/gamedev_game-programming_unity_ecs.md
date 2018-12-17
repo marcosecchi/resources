@@ -23,6 +23,7 @@ layout: default
 * _[Unity ECS: Pure vs Hybrid (walkthrough)](https://www.youtube.com/watch?v=Q-52mBy2mow)_
 * _[Optimizing Code using Unity's C# Job System (Tech Demo))](https://www.youtube.com/watch?v=gibqhg0wMA0)_
 * _[ECS for Small Things](hthttps://www.youtube.com/watch?v=EWVU6cFdmr0)_
+* _[Unity ECS Basics - Getting Started - With 100,000 Tacos](https://www.youtube.com/watch?v=lDTyCYAtQyQ)_
 
 ### Presentations and Walkthroughs
 
