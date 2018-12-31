@@ -22,6 +22,7 @@ layout: default
 * _[Tutorials by Michael Ebens](http://ebens.me/categories/tutorials/)_
 * _[Video Tutorials by recursor](https://www.youtube.com/watch?v=Jte9o4S6rlo&list=PLZVNxI_lsRW2kXnJh2BMb6D82HCAoSTUB)_
 * _[LÖVE Tile Tutorial](https://github.com/kikito/love-tile-tutorial/wiki)_
+* _[How to Program Games with the LÖVE Gaming Engine on the Raspberry Pi](https://opensource.com/article/17/4/how-program-games-raspberry-pi)_
 
 ### Hardware
 
