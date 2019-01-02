@@ -12,7 +12,7 @@ layout: default
 * _[PicaVoxel](http://picavoxel.com/)_
 * _[Goxel](https://guillaumechereau.github.io/goxel/)_
 * _[VoxelMade](http://www.voxelmade.com/)_
-* _[MArmoset Hexels](https://marmoset.co/hexels/)_
+* _[Marmoset Hexels](https://marmoset.co/hexels/)_
 
 ### Minecraft
 
