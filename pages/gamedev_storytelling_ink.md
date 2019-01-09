@@ -65,6 +65,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Open Sourcing 80 Days' Narrative Scripting Language: Ink](https://www.gamasutra.com/blogs/JosephHumfrey/20160330/268974/Open_sourcing_80_Days_narrative_scripting_language_ink.php)_
 * _[From the “Vault” of Inkle’s Jon Ingold](https://www.autosave.tv/2018/07/10/from-the-vault-of-inkles-jon-ingold/)_
 * _[Traveler's Tale™ - Devlog](https://forum.unity.com/threads/travelers-tale-a-party-based-procedural-storytelling-travel-game.505682/)_: a Party-Based, Procedural Storytelling Travel Game
+* _[Twine 2 vs Ink vs Yarn Unity Integration](https://medium.com/@haikus_by_KN/twine-2-vs-ink-a-quick-and-dirty-unity-integration-comparison-99fe1e4549d)_
 
 ### Plugin Integrations
 
