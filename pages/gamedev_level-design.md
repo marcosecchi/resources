@@ -8,6 +8,10 @@ layout: default
 
 * _[World of Level Design](https://www.worldofleveldesign.com/)_
 
+### Videos
+
+* _[Interior Design and Environment Art: Mastering Space, Mastering Place](https://www.youtube.com/watch?v=WWXsmnlmADc)_ at 2015 GDC
+
 ### Articles
 
 #### Prototyping
