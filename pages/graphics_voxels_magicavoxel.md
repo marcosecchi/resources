@@ -27,6 +27,8 @@ layout: default
 * _[MagicaVoxel / Introduction to 3D](https://www.youtube.com/watch?v=VLPlgJnplL4)_
 * _[Prototype with MagicaVoxel](https://www.youtube.com/watch?v=ZxYVJ52_wlI)_
 * _[3D speed drawing + Tiny Review](https://www.youtube.com/watch?v=Oh_pkLHVW8o)_
+* _[MagicaVoxel Crash Course](https://www.youtube.com/watch?v=uymtWch5RCA)_
+* _[[MagicaVoxel] Testing Tatterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
 
 ### Tutorials
 
@@ -88,6 +90,9 @@ layout: default
 * _[Stone Character](https://www.youtube.com/watch?v=WGv37JXKAkg)_
 * _[Tiny Canyon](https://www.youtube.com/watch?v=I-VxX0Ks_ZM)_
 * _[Tiny Island](https://www.youtube.com/watch?v=OiMWp7Ql7nc)_
+* _[Island 1/4](https://www.youtube.com/watch?v=WwG-d7ZxqLk)_
+* _[Island 2/4](https://www.youtube.com/watch?v=sN7afJvE1_Q)_
+* _[[MagicaVoxel] Walking robot](https://www.youtube.com/watch?v=snY9KDKgzko)_
 
 ### Models
 
