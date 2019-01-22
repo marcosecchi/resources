@@ -14,6 +14,7 @@ layout: default
 
 ### Tech Articles and Videos
 
+* _[PRACTICE 2018: Joseph White](https://www.youtube.com/watch?v=87jfTIWosBw)_
 * _[Token Optimizations](https://github.com/seleb/PICO-8-Token-Optimizations)_
 * _[Doodle Insights](https://trasevol.dog/category/doodle-insights/)_ by trasevol
 * _[Clear Code Series](http://blog.jvscott.net/post/128051478244/clear-code)_ by jvscott
