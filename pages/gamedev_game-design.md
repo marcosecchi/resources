@@ -22,7 +22,6 @@ layout: default
 * _[HtBoxes](https://www.flickr.com/photos/96872887@N07/sets/72157650671215997)_ by Chris Wagar
 * _[Game Mechanics Explorer](https://gamemechanicexplorer.com/)_
 * _[Three Hundred Mechanics](http://www.squidi.net/three/)_
-* _[]()_
 
 ### Tools
 
@@ -30,10 +29,13 @@ layout: default
 * _[Tiny Game Design Tool](http://tinygdtool.urustar.net/)_: a poor people's booklet to carry around
 * _[Dundoc](http://www.dundoc.com/)_: get Started quickly with a Game Design starter Template
 * _[Inform7](http://inform7.com/)_: a design system for interactive fiction based on natural language
-* _[]()_
 
 ### Game Jams
 
 * _[Ludum Dare](https://ldjam.com/)_
+
+### Videos
+
+* _[Best Practices for fast game design in Unity - Unite LA 2018](https://www.youtube.com/watch?v=NU29QKag8a0)_
 
 [back](../)

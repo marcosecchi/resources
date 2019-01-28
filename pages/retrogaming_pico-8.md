@@ -200,6 +200,7 @@ layout: default
 * _[Piezo and PICO-8](https://hackaday.io/project/20152-gameboy-zero-but-smaller/log/54847-piezo-and-pico-8)_
 * _[PI0CKET Tiny PI](https://www.raspberrypi.org/magpi/pi0cket-game-boy/)_
 * _[PICO-8 Raspberry PI](https://www.lexaloffle.com/bbs/?tid=3085)_
+* _[PICOPi](https://guillermoamaral.com/read/picopi/)_
 
 ### Apps
 
