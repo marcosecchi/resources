@@ -34,6 +34,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[PalimpsestNW](https://github.com/isakgrozny/PalimpsestNW)_: a basic template for deploying a game written in ink as a stand-alone desktop app
 * _[Ink & Paper Engine](https://github.com/inkle/ink/issues/408)_: a tool designed to allow game writers to create (nearly) their entire (more than Text) game without ever leaving Ink
 * _[ink-vn-engine](https://github.com/paulloz/ink-vn-engine)_: a tool to make visual novels using Ink
+* _[ink-unity-tools](https://github.com/deviant-dev/ink-unity-tools)_: tools to help create projects using Ink and Unity
 
 ### Tips & Tricks
 
