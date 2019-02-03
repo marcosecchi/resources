@@ -17,7 +17,7 @@ layout: default
 
 ### Videos
 
-* _[Intro To The Entity Component System And C# Job System]_(https://www.youtube.com/watch?v=WLfhUKp2gag&list=PLX2vGYjWbI0S4yHZwjDI1boIrYStpBCdN) by Unity
+* _[Intro To The Entity Component System And C# Job System](https://www.youtube.com/watch?v=WLfhUKp2gag&list=PLX2vGYjWbI0S4yHZwjDI1boIrYStpBCdN)_ by Unity
 * _[New way of CODING in Unity! ECS Tutorial](https://www.youtube.com/watch?v=_U9wRgQyy6s)_ by Brackeys
 * _[ECS architecture with Unity by Example](https://www.youtube.com/watch?v=lNTaC-JWmdI)_ - Unite Europe 2016
 * _[Unity ECS: Pure vs Hybrid (walkthrough)](https://www.youtube.com/watch?v=Q-52mBy2mow)_
