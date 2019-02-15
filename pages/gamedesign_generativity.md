@@ -9,6 +9,7 @@ layout: default
 * _[Main Website](http://www.galaxykate.com/generominos/)_
 * _[GitHub Repo](https://github.com/galaxykate/generominos)_
 * _[Printable Cards](http://www.galaxykate.com/generominos/generominos.pdf)_
+* _[Online Editor](http://www.galaxykate.com/generominos/editor-dev/)_
 
 #### Articles and Papers
 
