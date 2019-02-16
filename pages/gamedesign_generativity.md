@@ -23,6 +23,11 @@ layout: default
 
 * _[A Generative Framework of Generativity](http://www.galaxykate.com/pdfs/ComptonMateas-Generative%20Framework%20For%20Generativity.pdf)_
 * _[Generominos: Ideation Cards for Interactive Generativity](http://www.galaxykate.com/pdfs/ComptonMelcerMateas-Generominos.pdf)_
+* _[Generominos (Kate Compton)](https://emshort.blog/2018/05/22/geronimos-kate-compton/)_ by Emily Short
+
+#### Videos
+
+* _[EXAG 2017 Live Stream - Day 1, Session 4 (Short Papers)](https://youtu.be/uI2wUiYuU8U?t=3317)_
 
 
 [back](../)
