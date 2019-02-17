@@ -6,6 +6,7 @@ layout: default
 
 ### Tools
 
+* _[Trigger Cards](https://www.trytriggers.com/)_
 * _[Tracery](http://tracery.io/)_
 
 ### Magazines
