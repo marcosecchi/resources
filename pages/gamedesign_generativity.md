@@ -29,5 +29,4 @@ layout: default
 
 * _[EXAG 2017 Live Stream - Day 1, Session 4 (Short Papers)](https://youtu.be/uI2wUiYuU8U?t=3317)_
 
-
 [back](../)

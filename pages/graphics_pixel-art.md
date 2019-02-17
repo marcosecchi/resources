@@ -19,6 +19,8 @@ layout: default
 * _[PixelArt Tutorial Series](https://www.deviantart.com/vanmall)_ by vanmall
 * _[The Big List Of Pixel Art Tutorials](http://www.pixelprospector.com/the-big-list-of-pixel-art-tutorials/)_ on PixelProspector
 * _[Pedro Medeiros is creating Pixel Art and other Game Dev stuff](https://www.patreon.com/saint11/posts)_
+* _[Pixel Logic Book](http://pixellogicbook.com/)_
+* _[MortMort](https://www.mortmort.net/)_
 
 ### Assets
 
@@ -26,6 +28,7 @@ layout: default
 * _[Pixeljoint](http://pixeljoint.com/)_
 * _[Sprite Database](http://spritedatabase.net/)_
 * _[The Spriters Resource](https://www.spriters-resource.com/)_
+* _[Lospec](https://lospec.com/)_
 
 ### Showcase
 

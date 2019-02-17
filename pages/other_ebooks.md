@@ -24,6 +24,7 @@ layout: default
 * _[PressBooks](https://pressbooks.com/)_: an easy-to-use book writing software that lets you create a book in all the formats you need to publish
 * _[YouCanPrint](https://www.youcanprint.it/)_
 * _[Lulu](https://www.lulu.com/)_
+* _[FlyerAlarm](https://www.flyeralarm.com/it)_
 
 #### Digital Libraries
 

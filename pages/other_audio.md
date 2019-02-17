@@ -36,6 +36,9 @@ layout: default
 * _[ClassicCat](https://www.classiccat.net/)_
 * _[VGMusic](https://www.vgmusic.com/)_: VideoGame Music Archive
 * _[SundSnap](https://www.soundsnap.com/)_
-* _[]()_
+
+### AudioBooks
+
+* _[Loyal Books](http://www.loyalbooks.com/language/Italian)_
 
 [back](../)
