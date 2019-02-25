@@ -15,6 +15,7 @@ layout: default
 * _[Tech.io](https://tech.io/)_
 * _[Embed.ly](https://embed.ly/)_
 * _[HackerRank](https://www.hackerrank.com/dashboard)_
+* _[Edabit](https://edabit.com/)_
 
 #### GitHub Education
 
