@@ -13,6 +13,8 @@ layout: default
 * _[Goxel](https://guillaumechereau.github.io/goxel/)_
 * _[VoxelMade](http://www.voxelmade.com/)_
 * _[Marmoset Hexels](https://marmoset.co/hexels/)_
+* _[VoxEdit](https://www.voxedit.io/)_
+* _[The Sandbox](https://www.sandbox.game/)_
 
 ### Minecraft
 

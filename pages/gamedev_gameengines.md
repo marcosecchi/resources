@@ -42,9 +42,10 @@ layout: default
 * _[Atomic](https://github.com/AtomicGameEngine/AtomicGameEngine)_
 * _[Xenko](https://xenko.com/)_
 * _[Turbulenz](http://www.turbulenz.biz/)_ (no longer maintained)
+* _[Manu VideoGame Maker](https://manu.co/)_
 
 ### Online
 
-* _[WIMI5](http://wimi5.com/)_
+* _[WIMI5](http://wimi5.com/)_ (no longer maintained)
 
 [back](../)
