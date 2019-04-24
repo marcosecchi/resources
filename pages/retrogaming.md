@@ -12,6 +12,7 @@ layout: default
 ### Tools
 
 * _[ScummVM](https://www.scummvm.org/)_
+* _[GB Studio](https://www.gbstudio.dev/)_
 
 ### Magazines
 
