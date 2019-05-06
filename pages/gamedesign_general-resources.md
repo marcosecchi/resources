@@ -13,6 +13,7 @@ layout: default
 * _[PixelProspector](http://www.pixelprospector.com/)_
 * _[IndieGames+](http://indiegamesplus.com/)_
 * _[The Game Design Forum](http://thegamedesignforum.com/)_
+* _[GameDesigning](https://www.gamedesigning.org/)_
 
 ### Game Mechanics
 
