@@ -19,5 +19,6 @@ layout: default
 
 * _[Blocktober: Your Quick Start Guide to Blockouts](https://www.worldofleveldesign.com/categories/level_design_tutorials/guide-to-blocktober.php)_
 * _[White Boxing Your Game](https://www.gamasutra.com/blogs/SaraCasen/20160713/276970/White_Boxing_Your_Game.php)_
+* _[3 Important Tips for Greybox Level Design (Video)](https://www.youtube.com/watch?v=4wziE0AYCoo)_
 
 [back](../)
