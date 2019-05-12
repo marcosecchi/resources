@@ -31,5 +31,10 @@ layout: default
 ### Reviews and Walkthroughs
 
 * _[Voxatron Alpha: Adventure Mode Commentary](https://www.youtube.com/watch?v=wDDKUCVfRXA)_ by KnewbGaming
+* _[Vision of the Future: Voxatron's High-Priced Gamble](https://www.polygon.com/features/2013/8/28/4460616/voxatron-lexaloffle)_ by KnewbGaming
+
+### Hardware
+
+* _[The Looking Glass](https://lookingglassfactory.com/)_
 
 [back](../)
