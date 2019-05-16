@@ -37,6 +37,7 @@ layout: default
 
 ### Video Tutorials
 
+* _[doc_robs](https://www.youtube.com/channel/UCAY9qxuOLj82c4TmLoVKnJg/)_
 * _[Pico-8 Hero](https://www.youtube.com/playlist?list=PLYND9uft5u_1YCkmXiMrPU7tiBG3hIKAZ)_
 * _[PICO-8 Intro and Player Movement Demo](https://www.youtube.com/watch?v=OM7Xa7Dqlpg)_
 * _[Pico-8 Music Tutorials](https://www.youtube.com/watch?v=Pzt0h0ErNAM&list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)_
