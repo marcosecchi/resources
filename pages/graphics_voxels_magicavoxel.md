@@ -12,6 +12,10 @@ layout: default
 
 * _[File Format Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt)_
 
+### Articles
+
+* _[Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)_
+
 ### Video Tutorials
 
 * _[Brush & Edit (v0.98)](https://www.youtube.com/watch?v=d_WymsNdRBA)_
