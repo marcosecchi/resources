@@ -17,6 +17,7 @@ layout: default
 * _[PX8](https://hallucino.itch.io/px8)_: an open-source Fantasy Console (128x128 pixels default resolution) in Rust
 * _[lowres-nx](https://github.com/timoinutilis/lowres-nx)_: a simulated retro game console, which can be programmed in the classic BASIC language
 * _[VectorBoy](https://davidjalbert.itch.io/vectorboy)_: a minimalist vectorial fantasy console
+* _[Nano Jammer](https://morgan3d.github.io/nano/)_: runs in a browser, and connects to Google Drive
 
 ### PixelVision8
 
