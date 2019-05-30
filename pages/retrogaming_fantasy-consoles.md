@@ -39,6 +39,7 @@ LIKO-12 is an open source fantasy computer made using LÖVE
 
 ### Hardware & OS
 
+* _[GameShell](https://www.clockworkpi.com/)_: opensource portable game console
 * _[RecalBox](https://www.recalbox.com/)_: retrogaming open source operating system for Raspberry Pi, Odroid and PC
 * _[RetroPie](https://www.retropie.it/)_
 * _[PiLove](http://pilove.mitako.eu/)_: Raspberry Pi bootable image
