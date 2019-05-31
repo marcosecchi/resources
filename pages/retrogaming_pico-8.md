@@ -12,6 +12,10 @@ layout: default
 * _[YouTube](https://www.youtube.com/user/lexaloffletv/videos)_
 * _[Wikia](http://pico-8.wikia.com/wiki/Pico-8_Wikia)_
 
+### Non Official
+
+* _[awesome-PICO-8](https://pico-8.github.io/awesome-PICO-8/)_: a curated list of awesome PICO-8 resources, carts, tools and more
+
 ### Tech Articles and Videos
 
 * _[PRACTICE 2018: Joseph White](https://www.youtube.com/watch?v=87jfTIWosBw)_
@@ -132,6 +136,7 @@ layout: default
 
 #### Generic
 
+* _[PICO-8 (GitHub)](https://github.com/pico-8)_: a bunch of useful resources
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
 * _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * _[pico8utils](https://github.com/josefnpat/pico8utils)_: a set of utilities made for the .p8 PICO-8 file format

@@ -34,6 +34,7 @@ layout: default
 * _[PICO-8](./pages/retrogaming_pico-8.html)_
 * _[TIC-80](./pages/retrogaming_tic-80.html)_
 * _[RetroArch](./pages/retrogaming_libretro.html)_
+* _[GB Studio](./pages/retrogaming_gbstudio.html)_
 
 ### Programming
 
