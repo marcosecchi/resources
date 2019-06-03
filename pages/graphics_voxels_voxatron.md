@@ -14,6 +14,7 @@ layout: default
 
 * _[Scripting Notes](https://www.lexaloffle.com/bbs/?tid=32744)_ by Elyeron
 * _[Treasure Box (Object Aliasing)](https://www.lexaloffle.com/bbs/?tid=1699)_
+* _[Modifiers and Monster Attacks](https://www.lexaloffle.com/bbs/?tid=1448)_
 
 #### Tech Demos
 

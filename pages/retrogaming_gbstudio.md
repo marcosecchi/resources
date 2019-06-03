@@ -16,5 +16,4 @@ layout: default
 * _[Make a real GameBoy game easy & user friendly](https://www.youtube.com/watch?v=0xO5jCqs3As)_ by MortMort
 * _[GB Studio Tutorials](https://www.youtube.com/watch?v=hNXlV2tt7eE&list=PLmac3HPrav--Q4QKUVknwwMSNk1YECFKT)_ by Peter Milko
 
-
 [back](../)
