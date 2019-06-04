@@ -18,7 +18,8 @@ layout: default
 
 #### Tech Demos
 
-* _[Sphere Cube](https://www.lexaloffle.com/bbs/?tid=32833)_ by Elyeron
+* _[Sphere Color Palettes Cube](https://www.lexaloffle.com/bbs/?tid=33095)_ by MBoffin
+* _[Short Lua Scripts Collection](https://www.lexaloffle.com/bbs/?tid=33320)_ by digitalmonkey
 * _[Issues with Pseudo-Modules](https://www.lexaloffle.com/bbs/?tid=32775)_ by Elyeron
 * _[Sphere (Vox)](https://www.lexaloffle.com/bbs/?tid=32747)_ by Elyeron
 

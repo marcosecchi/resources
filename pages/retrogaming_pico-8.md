@@ -15,6 +15,7 @@ layout: default
 ### Non Official
 
 * _[awesome-PICO-8](https://pico-8.github.io/awesome-PICO-8/)_: a curated list of awesome PICO-8 resources, carts, tools and more
+* _[PICO-ATE](http://pico-ate.com/)_: altruistic template Encyclopedia
 
 ### Tech Articles and Videos
 
@@ -76,6 +77,7 @@ layout: default
 * _[PICO-8 Fanzine - Issue 3](https://sectordub.itch.io/pico-8-fanzine-3)_
 * _[PICO-8 Fanzine - Issue 4](https://sectordub.itch.io/pico-8-fanzine-4)_
 * _[PICO-8 Fanzine - Printed](https://pico8fanzine.bigcartel.com/)_
+* _[Game Development with PICO-8](https://mboffin.itch.io/gamedev-with-pico-8-issue1)_
 * _[How to Make Games with PICO-8](https://www.kickstarter.com/projects/bumblebee/how-to-make-games-with-pico-8-english-and-german)_
 
 ### Tech Demos
