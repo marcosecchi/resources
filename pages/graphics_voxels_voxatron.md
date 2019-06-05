@@ -15,6 +15,8 @@ layout: default
 * _[Scripting Notes](https://www.lexaloffle.com/bbs/?tid=32744)_ by Elyeron
 * _[Treasure Box (Object Aliasing)](https://www.lexaloffle.com/bbs/?tid=1699)_
 * _[Modifiers and Monster Attacks](https://www.lexaloffle.com/bbs/?tid=1448)_
+* _[Short Lua Scripts Collection](https://www.lexaloffle.com/bbs/?tid=33320)_
+* _[How to Import Music](https://www.lexaloffle.com/bbs/?tid=1580)_
 
 #### Tech Demos
 
