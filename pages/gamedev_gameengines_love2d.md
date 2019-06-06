@@ -24,6 +24,15 @@ layout: default
 * _[LÖVE Tile Tutorial](https://github.com/kikito/love-tile-tutorial/wiki)_
 * _[How to Program Games with the LÖVE Gaming Engine on the Raspberry Pi](https://opensource.com/article/17/4/how-program-games-raspberry-pi)_
 
+#### Repositories
+
+* _[lessons_love2d](https://notabug.org/seth/lessons_love2d)_
+* _[Develop-Games-Raspberry-Pi-Lua-LOVE](https://github.com/Apress/Develop-Games-Raspberry-Pi-Lua-LOVE)_
+
+### Books
+
+* _[Developing Games on the Raspberry Pi](https://www.apress.com/gp/book/9781484241691)_
+
 ### Hardware
 
 * _[PiLove](http://pilove.mitako.eu/)_: Raspberry Pi bootable image
