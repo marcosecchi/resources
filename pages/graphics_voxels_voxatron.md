@@ -40,5 +40,6 @@ layout: default
 ### Hardware
 
 * _[The Looking Glass](https://lookingglassfactory.com/)_
+* _[The Looking Glass - Docs](https://docs.lookingglassfactory.com/)_
 
 [back](../)
