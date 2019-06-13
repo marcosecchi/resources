@@ -54,6 +54,13 @@ layout: default
 * _[PICO-8 Month (Fr)](https://www.youtube.com/playlist?list=PL0H9-oZl_QOFdOBUwg1WLV4hikPq4ofoT)_
 * _[Programmer un Jeu (Fr)](https://www.youtube.com/playlist?list=PLqihHB3m2p01mFT3SH9NZM6DKX9oGsdo2)_
 
+#### Audio
+
+* _[Waveform Editor](https://www.youtube.com/watch?v=Wj1LJQutMCY)_: by Matt Tuttle
+* _[Tracker View](https://www.youtube.com/watch?v=Kv6n2ehBpo4)_: by Matt Tuttle
+* _[Tips & Techniques](https://www.youtube.com/watch?v=2c4aLuo0SsQ)_: by Matt Tuttle
+* _[Music Editor](https://www.youtube.com/watch?v=gwo9jY4ccB4)_: by Matt Tuttle
+
 ### Tips&Tricks
 
 * _[Bounces and Sines](https://twitter.com/iLkKke/status/857905180385214464)_
@@ -161,7 +168,7 @@ layout: default
 * _[PiCAD](https://www.lexaloffle.com/bbs/?tid=28272)_: vector Authoring/Display
 * _[Retroart](http://reboot-network.de/retroart/#/)_: a tiny pixel-editor
 
-#### Audio
+#### Audio Tools
 
 * _[midi2pico](https://github.com/gamax92/midi2pico)_: Midi to PICO-8 converter
 * _[midi-to-pico8](https://github.com/andmatand/midi-to-pico8)_: MIDI to PICO-8 tracker translator
