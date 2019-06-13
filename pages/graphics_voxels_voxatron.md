@@ -32,6 +32,11 @@ layout: default
 * _[Voxatron Tutorials](https://www.youtube.com/playlist?list=PL9PPB6mawOBWzuPQAz_qPI6lWKMJBiwi1)_ by digitalmonkeyschool
 * _[Voxatron Editor Tutorials](https://www.youtube.com/playlist?list=PL59C1C593D2CD991B)_ by KnewbGaming
 
+#### Audio
+
+* _[Music Tutorials](https://www.youtube.com/watch?v=Pzt0h0ErNAM&list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)_ by Gruber
+* _[Editing Audio](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)_ by Matt Tuttle
+
 ### Reviews and Walkthroughs
 
 * _[Voxatron Alpha: Adventure Mode Commentary](https://www.youtube.com/watch?v=wDDKUCVfRXA)_ by KnewbGaming

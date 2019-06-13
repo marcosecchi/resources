@@ -45,8 +45,6 @@ layout: default
 * _[doc_robs](https://www.youtube.com/channel/UCAY9qxuOLj82c4TmLoVKnJg/)_
 * _[Pico-8 Hero](https://www.youtube.com/playlist?list=PLYND9uft5u_1YCkmXiMrPU7tiBG3hIKAZ)_
 * _[PICO-8 Intro and Player Movement Demo](https://www.youtube.com/watch?v=OM7Xa7Dqlpg)_
-* _[Pico-8 Music Tutorials](https://www.youtube.com/watch?v=Pzt0h0ErNAM&list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)_
-* _[Editing Audio](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)_
 * _[Tron Lightcycle Game - Pt. 1](https://www.youtube.com/watch?v=ZuaLuMhwcc8&feature=youtu.be)_
 * _[Tron Lightcycle Game - Pt. 2](https://www.youtube.com/watch?v=Cjxzjc0NFpw)_
 * _[How To make Something Juicy](https://www.youtube.com/watch?v=Kut0dirprmU)_
@@ -56,10 +54,8 @@ layout: default
 
 #### Audio
 
-* _[Waveform Editor](https://www.youtube.com/watch?v=Wj1LJQutMCY)_: by Matt Tuttle
-* _[Tracker View](https://www.youtube.com/watch?v=Kv6n2ehBpo4)_: by Matt Tuttle
-* _[Tips & Techniques](https://www.youtube.com/watch?v=2c4aLuo0SsQ)_: by Matt Tuttle
-* _[Music Editor](https://www.youtube.com/watch?v=gwo9jY4ccB4)_: by Matt Tuttle
+* _[Pico-8 Music Tutorials](https://www.youtube.com/watch?v=Pzt0h0ErNAM&list=PLur95ujyAigsqZR1aNTrVGAvXD7EqywdS)_ by Gruber
+* _[Editing Audio](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg)_ by Matt Tuttle
 
 ### Tips&Tricks
 
