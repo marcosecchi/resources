@@ -10,7 +10,7 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 
 * _[Ink Official Page](https://www.inklestudios.com/ink/)_
 * _[Patreon Support](https://www.patreon.com/inkle)_
-* _[Documentation](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)_
+* _[Documentation](https://github.com/inkle/ink/tree/master/Documentation)_
 * _[Download Page](https://github.com/inkle/inky/releases)_
 
 ### Repositories

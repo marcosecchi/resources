@@ -142,6 +142,7 @@ layout: default
 #### Generic
 
 * _[PICO-8 (GitHub)](https://github.com/pico-8)_: a bunch of useful resources
+* _[pico8-to-lua](https://github.com/benwiley4000/pico8-to-lua)_: converts PICO-8 extended Lua syntax to standard Lua syntax
 * _[Animation Editor](https://www.lexaloffle.com/bbs/?tid=31425)_
 * _[P8Coder](https://github.com/movAX13h/P8Coder)_: a programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 * _[pico8utils](https://github.com/josefnpat/pico8utils)_: a set of utilities made for the .p8 PICO-8 file format
@@ -212,6 +213,7 @@ layout: default
 * _[PI0CKET Tiny PI](https://www.raspberrypi.org/magpi/pi0cket-game-boy/)_
 * _[PICO-8 Raspberry PI](https://www.lexaloffle.com/bbs/?tid=3085)_
 * _[PICOPi](https://guillermoamaral.com/read/picopi/)_
+* _[Low Mem Sky - PICO-8 "Physical" Release](https://www.patreon.com/posts/27158829)_
 
 ### Apps
 
