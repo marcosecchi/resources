@@ -48,7 +48,7 @@ layout: default
 * _[Pixel Art](./pages/graphics_pixel-art.html)_
 * _[Sprite Editors](./pages/graphics_sprite-editors.html)_
 * _[2D Animation](./pages/graphics_2d-animation.html)_
-* _[2D Animation](./pages/graphics_3d-tools.html)_
+* _[3D Tools](./pages/graphics_3d-tools.html)_
 
 #### Voxels
 
