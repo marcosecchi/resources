@@ -60,7 +60,6 @@ layout: default
 
 #### Web and Hybrid Apps
 
-* _[Angular & Ionic](./pages/webdev_angular.html)_
 * _[Static Websites](./pages/webdev_static-websites.html)_
 * _[WebTools](./pages/webdev_webtools.html)_
 
