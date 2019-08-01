@@ -188,6 +188,7 @@ layout: default
 * _[@InfiniteLimitZn](https://twitter.com/InfiniteLimitZn)_
 * _[Lexaloffle on Facebook](https://www.facebook.com/lexaloffle/)_
 * _[Ludum Dare](http://ludumdare.com/compo/tag/pico8/)_
+* _[PICO-8 Group on Facebook](https://www.facebook.com/groups/443670315990079/)_
 
 ### Blogs and Podcasts
 

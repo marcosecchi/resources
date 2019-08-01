@@ -68,6 +68,10 @@ A repository of links for **Ink**, the powerful scripting language behind [Heave
 * _[Traveler's Tale™ - Devlog](https://forum.unity.com/threads/travelers-tale-a-party-based-procedural-storytelling-travel-game.505682/)_: a Party-Based, Procedural Storytelling Travel Game
 * _[Twine 2 vs Ink vs Yarn Unity Integration](https://medium.com/@haikus_by_KN/twine-2-vs-ink-a-quick-and-dirty-unity-integration-comparison-99fe1e4549d)_
 
+#### Tech Articles
+
+* _[Implementing Ink in ocaml: thoughts](https://sketch.sh/s/j9ctH9CjzEOKejdRw385TL/)_
+
 ### Plugin Integrations
 
 * _[Dialogue System for Unity](http://www.pixelcrushers.com/dialogue_system/manual/html/ink.html)_
