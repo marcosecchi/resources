@@ -16,6 +16,7 @@ layout: default
 
 * _[C#](./pages/gamedev_csharp.html)_
 * _[ECS](./pages/unity_ecs.html)_
+* _[AI](./pages/unity_ai.html)_
 
 #### Storytelling
 
@@ -39,7 +40,7 @@ layout: default
 ### Programming
 
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
-* _[Machine Learning](./programming_machine-learning.html)_
+* _[Machine Learning](./pages/programming_machine-learning.html)_
 * _[Lua](./pages/programming_lua.html)_
 * _[Git](./pages/programming_git.html)_
 

@@ -13,6 +13,11 @@ layout: default
 * _[Twine](http://twinery.org/)_
 * _[Undum](https://github.com/idmillington/undum)_
 
+### Physical Tools
+
+* _[Fabula](https://fabuladeck.com/)_: Fabula is based on the Hero's Journey and helps you analyze, organize and build your stories.
+* _[Intuiti](https://intuiti.it)_: A tool for Creativity born in the Polytechnic University of Milan. A synthesis of Design, Tarot and Gestalt Psychology.
+
 ### Videos
 
 #### GDC
