@@ -32,7 +32,7 @@ layout: default
 * _[Prototype with MagicaVoxel](https://www.youtube.com/watch?v=ZxYVJ52_wlI)_
 * _[3D speed drawing + Tiny Review](https://www.youtube.com/watch?v=Oh_pkLHVW8o)_
 * _[MagicaVoxel Crash Course](https://www.youtube.com/watch?v=uymtWch5RCA)_
-* _[[MagicaVoxel] Testing Tatterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
+* _[[MagicaVoxel] Testing Patterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
 
 ### Tutorials
 
