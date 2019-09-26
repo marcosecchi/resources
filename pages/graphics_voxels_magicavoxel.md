@@ -33,6 +33,8 @@ layout: default
 * _[3D speed drawing + Tiny Review](https://www.youtube.com/watch?v=Oh_pkLHVW8o)_
 * _[MagicaVoxel Crash Course](https://www.youtube.com/watch?v=uymtWch5RCA)_
 * _[[MagicaVoxel] Testing Patterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
+* _[Overview of the New MagicaVoxel's .97.1 Features](https://www.youtube.com/watch?v=y_4BeMVCkvA)_
+* _[Animation tutorial in magicavoxel 0.98.2](https://www.youtube.com/watch?v=bllLWX9xGmY)_
 
 ### Tutorials
 
