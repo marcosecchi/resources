@@ -8,6 +8,7 @@ layout: default
 
 * _[Game Programming](./pages/gamedev_game-programming.html)_
 * _[General Resources](./pages/gamedev_general-resources.html)_
+* _[General Resources](./pages/gamedev_documentaries.html)_
 * _[Game Design](./pages/gamedesign_general-resources.html)_
 * _[Level Design](./pages/gamedesign_level-design.html)_
 * _[Generativity](./pages/gamedesign_generativity.html)_
