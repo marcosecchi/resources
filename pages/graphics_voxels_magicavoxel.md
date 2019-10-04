@@ -35,6 +35,7 @@ layout: default
 * _[[MagicaVoxel] Testing Patterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
 * _[Overview of the New MagicaVoxel's .97.1 Features](https://www.youtube.com/watch?v=y_4BeMVCkvA)_
 * _[Animation tutorial in magicavoxel 0.98.2](https://www.youtube.com/watch?v=bllLWX9xGmY)_
+* _[MegaBuilds](https://www.youtube.com/playlist?list=PLUBvJsG9xX8c2f1l2dD1LKDXjGk29taoQ)_ by Voxelize
 
 ### Tutorials
 
