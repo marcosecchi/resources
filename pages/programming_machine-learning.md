@@ -18,6 +18,8 @@ layout: default
 * _[Main Page](https://unity3d.com/machine-learning)_
 * _[GitHub Repository](https://github.com/Unity-Technologies/ml-agents)_
 * _[Unity ML-Agents Toolkit Documentation](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)_
+* _[Using Machine Learning Agents Toolkit in a real game: a beginner’s guide](https://blogs.unity3d.com/2017/12/11/using-machine-learning-agents-in-a-real-game-a-beginners-guide/)_
+* _[Unity AI-themed Blog Entries](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-blog-entries/)_
 
 ## Blog Posts
 
