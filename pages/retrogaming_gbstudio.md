@@ -17,8 +17,19 @@ layout: default
 * _[GB Studio Tutorials](https://www.youtube.com/watch?v=hNXlV2tt7eE&list=PLmac3HPrav--Q4QKUVknwwMSNk1YECFKT)_ by Pixel Pete
 * _[Creating a Menu and Inventory System](https://www.youtube.com/watch?v=fkNkVr3Lpzw)_ by Flashingflash
 
-### Tech Demos
+### Utilities
 
-* _[Toxworks](https://toxworks.itch.io)_
+* _[RealTime Combat](https://manugamesdev.itch.io/real-time-combat)_ by ManuGamesDev
+
+### Demos
+
+* _[Gurbs Adventure](https://petermilko.itch.io/gurbs-adventure)_ by Pixel Pete
+* _[Text Input System](https://toxworks.itch.io/text-input-system-in-gb)_ by Pixel Pete
+* _[Portal System](https://toxworks.itch.io/portal-gun-system-in-gb)_ by Pixel Pete
+* _[Dungeon Crawler Template](https://toxworks.itch.io/dungeon-crawler-in-gb)_ by Pixel Pete
+* _[Menu/Inventory System](https://toxworks.itch.io/menu-system-in-gb)_ by Pixel Pete
+* _[Turn Battle System](https://toxworks.itch.io/rock-paper-scissors)_ by Pixel Pete
+* _[Desert Machine](https://toxworks.itch.io/desert-machine)_ by Pixel Pete
+* _[Crate Hunter](https://toxworks.itch.io/crate-hunter)_ by Pixel Pete
 
 [back](../)
