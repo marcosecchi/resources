@@ -20,6 +20,8 @@ layout: default
 ### Utilities
 
 * _[RealTime Combat](https://manugamesdev.itch.io/real-time-combat)_ by ManuGamesDev
+* _[Menu/Inventory System](https://toxworks.itch.io/menu-system-in-gb)_ by Pixel Pete
+* _[Turn Battle System](https://toxworks.itch.io/rock-paper-scissors)_ by Pixel Pete
 
 ### Demos
 
@@ -27,8 +29,6 @@ layout: default
 * _[Text Input System](https://toxworks.itch.io/text-input-system-in-gb)_ by Pixel Pete
 * _[Portal System](https://toxworks.itch.io/portal-gun-system-in-gb)_ by Pixel Pete
 * _[Dungeon Crawler Template](https://toxworks.itch.io/dungeon-crawler-in-gb)_ by Pixel Pete
-* _[Menu/Inventory System](https://toxworks.itch.io/menu-system-in-gb)_ by Pixel Pete
-* _[Turn Battle System](https://toxworks.itch.io/rock-paper-scissors)_ by Pixel Pete
 * _[Desert Machine](https://toxworks.itch.io/desert-machine)_ by Pixel Pete
 * _[Crate Hunter](https://toxworks.itch.io/crate-hunter)_ by Pixel Pete
 * _[Simple Platformer Example](https://vonkykong.itch.io/platformergbstudio)_ by VonkyKong
