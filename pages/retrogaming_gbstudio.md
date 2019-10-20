@@ -43,6 +43,13 @@ layout: default
 
 ### Tools
 
+#### Graphics
+
 * _[Piskel](https://www.piskelapp.com)_: online pixel editor
+
+#### Audio
+
+* _[gbt-player](https://github.com/AntonioND/gbt-player)_: a music player library for Game Boy
+* _[OpenMPT](https://openmpt.org)_: a music player library for Game Boy
 
 [back](../)
