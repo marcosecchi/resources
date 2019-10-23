@@ -18,6 +18,7 @@ layout: default
 * _[lowres-nx](https://github.com/timoinutilis/lowres-nx)_: a simulated retro game console, which can be programmed in the classic BASIC language
 * _[VectorBoy](https://davidjalbert.itch.io/vectorboy)_: a minimalist vectorial fantasy console
 * _[Nano Jammer](https://morgan3d.github.io/nano/)_: runs in a browser, and connects to Google Drive
+* _[LowRes NX](https://lowresnx.inutilis.com)_: program in the classic BASIC language and create sprites, tile maps, sound and music with the included tools
 
 ### PixelVision8
 
