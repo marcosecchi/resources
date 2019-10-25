@@ -46,6 +46,7 @@ layout: default
 #### Graphics
 
 * _[Piskel](https://www.piskelapp.com)_: online pixel editor
+* _[Tiled](https://www.mapeditor.org)_: level editor
 
 #### Audio
 
