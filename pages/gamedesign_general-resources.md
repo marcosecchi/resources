@@ -37,6 +37,12 @@ layout: default
 
 ### Videos
 
+#### Prototyping
+
 * _[Best Practices for fast game design in Unity - Unite LA 2018](https://www.youtube.com/watch?v=NU29QKag8a0)_
+* _[How to design with feedback and game feel in mind - Unite Copenhagen 2019](https://www.youtube.com/watch?v=yCKI9T3sSv0)_
+* _[Juice it or lose it - a talk by Martin Jonasson & Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)_
+* _[Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)_
+* _[Make your game feel juicy with Unity - Unite 2015](https://www.youtube.com/watch?v=WfwRBwNz2bg)_
 
 [back](../)
