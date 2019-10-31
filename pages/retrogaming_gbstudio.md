@@ -23,7 +23,7 @@ layout: default
 * _[Menu/Inventory System](https://toxworks.itch.io/menu-system-in-gb)_ by Pixel Pete
 * _[Turn Battle System](https://toxworks.itch.io/rock-paper-scissors)_ by Pixel Pete
 
-### Demos
+### Games & Demos
 
 * _[Gurbs Adventure](https://petermilko.itch.io/gurbs-adventure)_ by Pixel Pete
 * _[Text Input System](https://toxworks.itch.io/text-input-system-in-gb)_ by Pixel Pete
@@ -32,6 +32,8 @@ layout: default
 * _[Desert Machine](https://toxworks.itch.io/desert-machine)_ by Pixel Pete
 * _[Crate Hunter](https://toxworks.itch.io/crate-hunter)_ by Pixel Pete
 * _[Simple Platformer Example](https://vonkykong.itch.io/platformergbstudio)_ by VonkyKong
+* _[Pokémon Luna](https://originalfei.itch.io/pkemon-luna)_ by OriginalFei
+* _[Espadazo](https://monicapo.itch.io/espadazo)_ by Diego
 
 ### Assets
 
