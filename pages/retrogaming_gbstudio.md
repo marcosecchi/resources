@@ -35,6 +35,12 @@ layout: default
 * _[Pokémon Luna](https://originalfei.itch.io/pkemon-luna)_ by OriginalFei
 * _[Espadazo](https://monicapo.itch.io/espadazo)_ by Diego
 
+#### Game Jams
+
+* _[GB Jam 5](https://itch.io/jam/gbjam-5)_
+* _[GB Jam 6](https://itch.io/jam/gbjam-6)_
+* _[GB Jam 7](https://itch.io/jam/gbjam-7)_
+
 ### Assets
 
 * _[GB Studio Community Assets](https://github.com/DeerTears/GB-Studio-Community-Assets)_ by DeerTears
