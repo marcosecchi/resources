@@ -10,6 +10,10 @@ layout: default
 * _[GitHub](https://github.com/chrismaltby/gb-studio)_
 * _[Video Trailer](https://www.youtube.com/watch?v=9k3RPaziVcw)_
 
+### Reference
+
+* _[GB Dev](https://github.com/gbdev)_: Game Boy development community
+
 ### Videos
 
 * _[GB Studio -- A Free GameBoy Open Source JRPG Game Engine](https://www.youtube.com/watch?v=LcGMT2uZBUY)_ by Gamefromscratch
