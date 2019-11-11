@@ -10,9 +10,10 @@ layout: default
 * _[GitHub](https://github.com/chrismaltby/gb-studio)_
 * _[Video Trailer](https://www.youtube.com/watch?v=9k3RPaziVcw)_
 
-### Reference
+### Tech Reference
 
 * _[GB Dev](https://github.com/gbdev)_: Game Boy development community
+* _[How Graphics worked on the Nintendo Game Boy](https://www.youtube.com/watch?v=zQE1K074v3s)_
 
 ### Videos
 
