@@ -27,6 +27,7 @@ layout: default
 * _[RealTime Combat](https://manugamesdev.itch.io/real-time-combat)_ by ManuGamesDev
 * _[Menu/Inventory System](https://toxworks.itch.io/menu-system-in-gb)_ by Pixel Pete
 * _[Turn Battle System](https://toxworks.itch.io/rock-paper-scissors)_ by Pixel Pete
+* _[Dungeon Generator](https://zipon.itch.io/gb-studio-dungeon-generator)_ by Zipon
 
 ### Games & Demos
 
