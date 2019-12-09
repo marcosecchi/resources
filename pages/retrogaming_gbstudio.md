@@ -21,6 +21,7 @@ layout: default
 * _[Make a real GameBoy game easy & user friendly](https://www.youtube.com/watch?v=0xO5jCqs3As)_ by MortMort
 * _[GB Studio Tutorials](https://www.youtube.com/watch?v=hNXlV2tt7eE&list=PLmac3HPrav--Q4QKUVknwwMSNk1YECFKT)_ by Pixel Pete
 * _[Creating a Menu and Inventory System](https://www.youtube.com/watch?v=fkNkVr3Lpzw)_ by Flashingflash
+* _[MilkyTracker Tutorial for GB Studio!](https://www.youtube.com/watch?v=cLQ3ybY_ACA&feature=youtu.be)_ by Goodnight Girl
 
 ### Utilities
 
