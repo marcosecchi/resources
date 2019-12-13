@@ -60,7 +60,7 @@ layout: default
 
 #### Graphics
 
-* _[GameBoy Tools](https://momeka.itch.io/gameboy-tools)_: sprite exporter and Ogmo tile editor
+* _[GameBoy Tools](https://momeka.itch.io/gameboy-tools)_: sprite exporter and Ogmo map converter
 * _[Piskel](https://www.piskelapp.com)_: online pixel editor
 * _[Tiled](https://www.mapeditor.org)_: level editor
 
