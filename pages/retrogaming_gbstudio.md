@@ -32,6 +32,7 @@ layout: default
 
 ### Games & Demos
 
+* _[Merry Sample Project](https://github.com/chrismaltby/gbs-merry-sample-project)_ by Cris Maltby
 * _[Gurbs Adventure](https://petermilko.itch.io/gurbs-adventure)_ by Pixel Pete
 * _[Text Input System](https://toxworks.itch.io/text-input-system-in-gb)_ by Pixel Pete
 * _[Portal System](https://toxworks.itch.io/portal-gun-system-in-gb)_ by Pixel Pete
