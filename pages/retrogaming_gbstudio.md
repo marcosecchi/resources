@@ -59,6 +59,8 @@ layout: default
 
 ### Tools
 
+* _[WasmBoy](https://wasmboy.app/)_: Game Boy/Game Boy Color emulation library
+
 #### Graphics
 
 * _[GameBoy Tools](https://momeka.itch.io/gameboy-tools)_: sprite exporter and Ogmo map converter
