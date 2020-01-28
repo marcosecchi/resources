@@ -18,7 +18,6 @@ layout: default
 * _[ECS](./pages/unity.html)_
 * _[C#](./pages/gamedev_csharp.html)_
 * _[ECS](./pages/unity_ecs.html)_
-* _[AI](./pages/unity_ai.html)_
 * _[ProBuilder](./pages/unity_probuilder.html)_
 
 #### Storytelling

@@ -25,4 +25,12 @@ layout: default
 * _[Storytelling Tools to Boost Your Indie Game's Narrative and Gameplay](https://www.youtube.com/watch?v=8fXE-E1hjKk)_
 * _[Building a Paper Prototype For Your Narrative Design](https://www.youtube.com/watch?v=taxcb_5lEI8)_
 
+### Courses
+
+* _[Pixar in a Box: The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling)_
+
+### Computational Narrative
+
+* _[Computational Narrative](https://dl.acm.org/doi/10.1145/3084873.3084931)_
+
 [back](../)

@@ -8,6 +8,11 @@ layout: default
 
 * _[Official Website](https://git-scm.com/)_
 
+### GitFlow
+
+* _[GitFlow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)_ by BitBucket
+* _[GitFlow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)_
+
 ### Tools
 
 * _[RawGit](https://rawgit.com/)_: serves raw files directly from GitHub with proper Content-Type headers
@@ -37,5 +42,12 @@ layout: default
 * _[ProGit](https://git-scm.com/book/en/v2)_
 * _[Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)_
 * _[GitMagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html)_
+
+### Clients
+
+* _[GitHub Desktop](https://desktop.github.com/)_
+* _[Fork](https://git-fork.com/)_
+* _[GitFiend](https://gitfiend.com/)_
+* _[SourceTree](https://www.sourcetreeapp.com/)_
 
 [back](../)
