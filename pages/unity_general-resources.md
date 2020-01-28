@@ -23,6 +23,8 @@ layout: default
 
 * _[AudioKinetic](https://www.audiokinetic.com/)_: interactive sound engine
 * _[FMOD](https://fmod.com/)_: solution for adaptive audio
+* _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
+* _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
 
 ### Tutorials
 
