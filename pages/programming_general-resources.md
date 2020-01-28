@@ -12,4 +12,10 @@ layout: default
 
 * _[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)_
 
+### Documentation
+
+* _[DocFX](https://dotnet.github.io/docfx/index.html)_
+* _[GitBook](https://www.gitbook.com/)_
+* _[Doxygen](http://doxygen.nl/)_
+
 [back](../)

@@ -15,6 +15,10 @@ layout: default
 * _[The Game Design Forum](http://thegamedesignforum.com/)_
 * _[GameDesigning](https://www.gamedesigning.org/)_
 
+#### Reference
+
+* _[Game FAQs](https://gamefaqs.gamespot.com/)_
+
 ### Game Mechanics
 
 * _[Nicky Case Website](https://ncase.me/)_: The Evolution of Trust and other resources

@@ -39,6 +39,7 @@ layout: default
 
 #### Plugins
 
+* _[fAutonomy](http://fautonomy.ai/)_
 * _[NodeCanvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914?aid=1011lHJn)_
 * _[NodeCanvas Lite](https://assetstore.unity.com/packages/tools/ai/nodecanvas-lite-behaviour-trees-40072?aid=1011lHJn)_
 * _[Apex AI](https://assetstore.unity.com/packages/tools/visual-scripting/apex-utility-ai-personal-edition-56306)_
