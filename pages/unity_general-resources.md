@@ -4,10 +4,18 @@ layout: default
 
 ## Unity
 
+* _[Creator's Corner](https://unity.com/creators-corner)_
+* _[Developer's Corner](https://unity.com/developers-corner)_
+
 ### Project Repositories
 
 * _[UnityList](https://unitylist.com/)_: opensource search engine
 * _[LMH Poly](https://lmhpoly.com/)_
+* _[Google APIs for Unity](https://developers.google.com/unity/)_
+
+### Tools
+
+* _[Mod.io](https://mod.io/)_: API for developers to add mod support to their games
 
 ### Script Collections
 
@@ -24,7 +32,6 @@ layout: default
 * _[AudioKinetic](https://www.audiokinetic.com/)_: interactive sound engine
 * _[FMOD](https://fmod.com/)_: solution for adaptive audio
 * _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
-* _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
 
 ### Tutorials
 
@@ -32,6 +39,9 @@ layout: default
 
 ### Optimization
 
+* _[Unity3D Best Practices](http://www.glenstevens.ca/unity3d-best-practices/)_
+* _[Memory Management in Unity](https://learn.unity.com/tutorial/memory-management-in-unity)_
 * _[Maximizing Your Unity Game's Performance](https://cgcookie.com/2017/04/26/maximizing-your-unity-games-performance/)_
+* _Optimize yourself! [[Part 1]](https://blog.theknightsofunity.com/optimize-part-1/)/[[Part 2](https://blog.theknightsofunity.com/optimize-part-2/)_ by The Knights of Unity
 
 [back](../)
