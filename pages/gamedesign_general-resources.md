@@ -34,6 +34,8 @@ layout: default
 * _[Tiny Game Design Tool](http://tinygdtool.urustar.net/)_: a poor people's booklet to carry around
 * _[Dundoc](http://www.dundoc.com/)_: get Started quickly with a Game Design starter Template
 * _[Inform7](http://inform7.com/)_: a design system for interactive fiction based on natural language
+* _[Machinations](https://machinations.io/)_: browser-based platform to design, balance and simulate game systems
+* _[Sentient Sketchbook](http://www.sentientsketchbook.com/)_: tool which supports the design of map sketches
 
 ### Game Jams
 

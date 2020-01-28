@@ -11,6 +11,17 @@ layout: default
 ### Best Practices
 
 * _[Keep a Changelog](https://keepachangelog.com/en/1.0.0/)_
+* _[Semantic Versioning](https://semver.org/)_
+* _[A Guide to the New Continuous Agile](http://www.continuousagile.com/unblock/index.html)_
+* _[Contributor Covenant](https://www.contributor-covenant.org/)_: a code of conduct for opensource projects
+
+#### Debugging
+
+* _[How to Debug](https://blog.regehr.org/archives/199)_ by John Regehr
+
+##### Videos
+
+* _[The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)_
 
 ### Documentation
 
