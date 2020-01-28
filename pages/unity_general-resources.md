@@ -11,6 +11,11 @@ layout: default
 
 * _[UnityList](https://unitylist.com/)_: opensource search engine
 * _[LMH Poly](https://lmhpoly.com/)_
+* _[Google APIs for Unity](https://developers.google.com/unity/)_
+
+### Tools
+
+* _[Mod.io](https://mod.io/)_: API for developers to add mod support to their games
 
 ### Script Collections
 
@@ -26,7 +31,6 @@ layout: default
 
 * _[AudioKinetic](https://www.audiokinetic.com/)_: interactive sound engine
 * _[FMOD](https://fmod.com/)_: solution for adaptive audio
-* _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
 * _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
 
 ### Tutorials
