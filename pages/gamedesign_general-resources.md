@@ -34,8 +34,17 @@ layout: default
 ### Game Jams
 
 * _[Ludum Dare](https://ldjam.com/)_
+* _[Global GameJam](https://globalgamejam.org/)_
+* _[Itch.io](https://itch.io/jams)_
 
 ### Videos
+
+#### Game Feel
+
+* _[Juice it or lose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg)_: a talk by Martin Jonasson & Petri Purho
+* _[The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)_: a talk by Jan Willem Nijman
+* _[How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=AJdEqssNZ-U)_: a talk by Renaud Forestie
+* _[Best Practices for fast game design in Unity - Unite LA](https://www.youtube.com/watch?v=NU29QKag8a0)_: a talk by Renaud Forestie
 
 #### Prototyping
 
