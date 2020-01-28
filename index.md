@@ -15,7 +15,7 @@ layout: default
 
 #### Unity
 
-* _[ECS](./pages/unity.html)_
+* _[ECS](./pages/unity_general-resources.html)_
 * _[C#](./pages/gamedev_csharp.html)_
 * _[ECS](./pages/unity_ecs.html)_
 * _[ProBuilder](./pages/unity_probuilder.html)_
@@ -41,6 +41,7 @@ layout: default
 
 ### Programming
 
+* _[General Resources](./pages/programming_general-resources.html)_
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./pages/programming_machine-learning.html)_
 * _[Lua](./pages/programming_lua.html)_

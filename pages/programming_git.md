@@ -17,6 +17,7 @@ layout: default
 
 * _[RawGit](https://rawgit.com/)_: serves raw files directly from GitHub with proper Content-Type headers
 * _[Travis CI](https://travis-ci.org/)_
+* _[SonarCloud](https://sonarcloud.io/)_: analyzes branches and decorates pull requests
 
 ### GitHub Related
 

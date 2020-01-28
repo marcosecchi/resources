@@ -22,6 +22,7 @@ layout: default
 * _[Piskel](https://www.piskelapp.com/)_: a free online editor for animated sprites & pixel art
 * _[Universal LPC Sprite Sheet Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/)_: character sprite sheet for games using 100% open art
 * _[Lospec](https://lospec.com/pixel-editor)_: free pixel art program that you can use right here in your web browser
+* _[SpriteStack](https://spritestack.io/)_: voxel editor suited for 2D artists
 
 ### Palettes
 
