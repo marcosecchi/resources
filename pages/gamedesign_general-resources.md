@@ -19,6 +19,10 @@ layout: default
 
 * _[Game FAQs](https://gamefaqs.gamespot.com/)_
 
+#### Articles
+
+* _[The Chemistry Of Game Design](https://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php)_: about Skill Atoms
+
 ### Game Mechanics
 
 * _[Nicky Case Website](https://ncase.me/)_: The Evolution of Trust and other resources
