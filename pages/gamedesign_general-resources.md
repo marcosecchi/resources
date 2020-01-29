@@ -33,8 +33,16 @@ layout: default
 * _[Generominos](http://www.galaxykate.com/generominos/)_: a construction set for generative interactive artwork
 * _[Tiny Game Design Tool](http://tinygdtool.urustar.net/)_: a poor people's booklet to carry around
 * _[Dundoc](http://www.dundoc.com/)_: get Started quickly with a Game Design starter Template
+* _[Donjon](https://donjon.bin.sh/)_: generators
 * _[Inform7](http://inform7.com/)_: a design system for interactive fiction based on natural language
+
+#### Machinations
+
 * _[Machinations](https://machinations.io/)_: browser-based platform to design, balance and simulate game systems
+* _[A Tutorial to Machinations Diagrams](https://www.gamasutra.com/blogs/CarstenKisslat/20130814/198216/A_Tutorial_to_Machinations_Diagrams.php)
+
+#### Sentient Sketchbook
+
 * _[Sentient Sketchbook](http://www.sentientsketchbook.com/)_: tool which supports the design of map sketches
 
 ### Game Jams
