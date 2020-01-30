@@ -55,6 +55,7 @@ layout: default
 * _[Sprite Editors](./pages/graphics_sprite-editors.html)_
 * _[2D Animation](./pages/graphics_2d-animation.html)_
 * _[3D Tools](./pages/graphics_3d-tools.html)_
+* _[Textures](./pages/graphics_textures.html)_
 
 #### Voxels
 
