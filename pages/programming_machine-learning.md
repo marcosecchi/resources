@@ -58,6 +58,10 @@ layout: default
 * _[Unity Blog on ML](https://blogs.unity3d.com/category/machine-learning/)_
 * _Artificial locomotion in Unity using Machine Learning [Pt. 1](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-1/)/[Pt. 2](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-2/)/[Pt. 3](https://blog.theknightsofunity.com/artificial-locomotion-unity-using-machine-learning-part-3/)_
 
+### Books
+
+* _[Game AI Pro](http://www.gameaipro.com/)_
+
 #### Articles
 
 * _[Unity: A General Platform for Intelligent Agents](https://arxiv.org/abs/1809.02627)_
