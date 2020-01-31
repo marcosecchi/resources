@@ -36,6 +36,8 @@ layout: default
 * _[ClassicCat](https://www.classiccat.net/)_
 * _[VGMusic](https://www.vgmusic.com/)_: VideoGame Music Archive
 * _[SundSnap](https://www.soundsnap.com/)_
+* _[9Sounds](http://99sounds.org/)_
+* _[NoiseForFun](https://www.noiseforfun.com/)_
 
 ### AudioBooks
 

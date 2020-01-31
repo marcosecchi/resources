@@ -24,6 +24,10 @@ layout: default
 * _[Lospec](https://lospec.com/pixel-editor)_: free pixel art program that you can use right here in your web browser
 * _[SpriteStack](https://spritestack.io/)_: voxel editor suited for 2D artists
 
+### Level Editors
+
+* _[Ogmo](https://ogmo-editor-3.github.io/)_: open source, project oriented level editor
+
 ### Palettes
 
 * _[Palette List](https://lospec.com/palette-list)_: a database of palettes for pixel art

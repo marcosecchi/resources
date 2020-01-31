@@ -12,6 +12,7 @@ layout: default
 * _[Game Design](./pages/gamedesign_general-resources.html)_
 * _[Level Design](./pages/gamedesign_level-design.html)_
 * _[Generativity](./pages/gamedesign_generativity.html)_
+* _[2D Animation](./pages/graphics_animation.html)_
 
 #### Unity
 
@@ -53,7 +54,6 @@ layout: default
 
 * _[Pixel Art](./pages/graphics_pixel-art.html)_
 * _[Sprite Editors](./pages/graphics_sprite-editors.html)_
-* _[2D Animation](./pages/graphics_2d-animation.html)_
 * _[3D Tools](./pages/graphics_3d-tools.html)_
 * _[Textures](./pages/graphics_textures.html)_
 
