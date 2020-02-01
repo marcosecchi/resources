@@ -50,5 +50,6 @@ layout: default
 * _[Fork](https://git-fork.com/)_
 * _[GitFiend](https://gitfiend.com/)_
 * _[SourceTree](https://www.sourcetreeapp.com/)_
+* _[Git Extensions](https://gitextensions.github.io/)_
 
 [back](../)

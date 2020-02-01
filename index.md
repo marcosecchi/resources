@@ -59,7 +59,7 @@ layout: default
 
 #### Voxels
 
-* _[Voxels](./pages/graphics_voxels_voxels.html)_
+* _[Voxels](./pages/graphics_voxels_general-resources.html)_
 * _[MagicaVoxel](./pages/graphics_voxels_magicavoxel.html)_
 * _[Voxatron](./pages/graphics_voxels_voxatron.html)_
 

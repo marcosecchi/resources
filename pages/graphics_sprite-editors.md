@@ -31,6 +31,7 @@ layout: default
 ### Palettes
 
 * _[Palette List](https://lospec.com/palette-list)_: a database of palettes for pixel art
+* _[Paletton](http://paletton.com/)_
 
 ### Tools
 
