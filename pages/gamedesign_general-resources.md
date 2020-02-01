@@ -28,7 +28,7 @@ layout: default
 * _[Nicky Case Website](https://ncase.me/)_: The Evolution of Trust and other resources
 * _[Game Design](https://simonschreibt.de/)_ by Simon Schreibt
 * _[The Big List of PostMortem](http://www.pixelprospector.com/the-big-list-of-postmortems/)_
-* _[HtBoxes](https://www.flickr.com/photos/96872887@N07/sets/72157650671215997)_ by Chris Wagar
+* _[HitBoxes](https://www.flickr.com/photos/96872887@N07/sets/72157650671215997)_ by Chris Wagar
 * _[Game Mechanics Explorer](https://gamemechanicexplorer.com/)_
 * _[Three Hundred Mechanics](http://www.squidi.net/three/)_
 
