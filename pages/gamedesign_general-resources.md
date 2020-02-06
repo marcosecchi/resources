@@ -44,6 +44,7 @@ layout: default
 * _[Machinations](https://machinations.io/)_: browser-based platform to design, balance and simulate game systems
 * _[Game Mechanics: Advanced Game Design](https://www.amazon.co.uk/gp/product/0321820274)_
 * _[A Tutorial to Machinations Diagrams](https://www.gamasutra.com/blogs/CarstenKisslat/20130814/198216/A_Tutorial_to_Machinations_Diagrams.php)_
+* _[Machinations.io -- Game Design Software](https://www.youtube.com/watch?v=7kR5VHh2yjo)_ by Gamefromscratch
 
 #### Sentient Sketchbook
 
