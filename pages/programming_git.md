@@ -22,6 +22,8 @@ layout: default
 ### GitHub Related
 
 * _[GitHub Pages](https://pages.github.com/)_: websites for you and your projects
+* _[GitHub Learning Lab](https://lab.github.com/)_: learn new skills by completing fun, realistic projects in your very own GitHub repository
+* _[Git Large File Storage](https://git-lfs.github.com/)_: an open source Git extension for versioning large files
 * _[Astral](https://app.astralapp.com/auth)_
 * _[GitBook](https://www.gitbook.com/)_: makes it easy for your team to write and maintain high-quality documentation
 * _[ReadTheDocs](https://readthedocs.org/)_: simplifies software documentation by automating building, versioning, and hosting of your docs for you

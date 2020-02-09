@@ -13,9 +13,12 @@ layout: default
 * _[OpenCulture](http://www.openculture.com/free_ebooks)_
 * _[AudioBookTreasury](http://www.audiobooktreasury.com/)_
 
-#### Editors
+#### Editors and Libraries
 
 * _[Sigil Ebook](https://sigil-ebook.com/)_: multi-platform EPUB ebook Editor
+* _[Carnegie Mellon University - ETC Press](https://press.etc.cmu.edu/)_
+* _[Core](https://core.ac.uk/)_: the world’s largest collection of open access research papers
+* _[ACM Digital Library](https://dl.acm.org/)_: a community engaged with a repository of resources to support computing research and practice
 
 #### Self-Publishing
 

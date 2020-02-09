@@ -11,4 +11,8 @@ layout: default
 * _[GPU Lightmapper: A Technical Deep Dive](https://blogs.unity3d.com/2019/05/20/gpu-lightmapper-a-technical-deep-dive/)_
 * _[Awesome Realtime GI on desktops and consoles](https://blogs.unity3d.com/2015/11/05/awesome-realtime-gi-on-desktops-and-consoles/)_
 
+### Videos
+
+* _[Bake it 'til you make it: An intro to Lightmaps](https://www.youtube.com/watch?v=u5RTVMBWabg)_ at Unite Europe 2018
+
 [back](../)

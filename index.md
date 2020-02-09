@@ -22,6 +22,7 @@ layout: default
 * _[Shaders](./pages/unity_shaders.html)_
 * _[Lightning](./pages/unity_lightning.html)_
 * _[ProBuilder](./pages/unity_probuilder.html)_
+* _[ScriptableObjects](./pages/unity_scriptable-objects.html)_
 
 #### Storytelling
 
@@ -49,6 +50,7 @@ layout: default
 * _[Machine Learning](./pages/programming_machine-learning.html)_
 * _[Lua](./pages/programming_lua.html)_
 * _[Git](./pages/programming_git.html)_
+* _[Creative Coding](./pages/programming_creative-coding.html)_
 
 ### Graphics
 

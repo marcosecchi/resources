@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+## Scriptable Objects
+
+* _[Making cool stuff with ScriptableObjects](https://blogs.unity3d.com/2017/11/20/making-cool-stuff-with-scriptableobjects/)_
+* _[3 cool ways to architect your game with Scriptable Objects](https://unity3d.com/how-to/architect-with-scriptable-objects)_
+
+### Videos
+
+* _[Overthrowing the MonoBehaviour tyranny in a glorious ScriptableObject revolution](https://www.youtube.com/watch?v=VBA1QCoEAX4)_ at Unite Europe 2016
+* _[Game Architecture with Scriptable Objects](https://www.youtube.com/watch?v=raQ3iHhE_Kk&feature=youtu.be)_ at Unite Austin 2017
+
+### Repositories
+
+* _[Unity Atoms](https://adamramberg.github.io/unity-atoms/)_
+* _[ScriptableObjects Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)_
+* _[Inline ScriptableObject editing](https://gist.github.com/tomkail/ba4136e6aa990f4dc94e0d39ec6a058c)_: displays the fields of a ScriptableObject in the inspector
+
+[back](../)
