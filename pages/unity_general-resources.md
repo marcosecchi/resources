@@ -9,6 +9,7 @@ layout: default
 
 ### Project Repositories
 
+* _[OpenUPM](https://openupm.com/)_: opensource Unity Package Registry
 * _[UnityList](https://unitylist.com/)_: opensource search engine
 * _[LMH Poly](https://lmhpoly.com/)_
 * _[Google APIs for Unity](https://developers.google.com/unity/)_

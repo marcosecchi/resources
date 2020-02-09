@@ -6,9 +6,9 @@ layout: default
 
 ### Gaming
 
-* _[Game Programming](./pages/gamedev_game-programming.html)_
 * _[General Resources](./pages/gamedev_general-resources.html)_
-* _[General Resources](./pages/gamedev_documentaries.html)_
+* _[Game Programming](./pages/gamedev_game-programming.html)_
+* _[Documentaries](./pages/gamedev_documentaries.html)_
 * _[Game Design](./pages/gamedesign_general-resources.html)_
 * _[Level Design](./pages/gamedesign_level-design.html)_
 * _[Generativity](./pages/gamedesign_generativity.html)_
@@ -16,7 +16,7 @@ layout: default
 
 #### Unity
 
-* _[ECS](./pages/unity_general-resources.html)_
+* _[General Resources](./pages/unity_general-resources.html)_
 * _[C#](./pages/gamedev_csharp.html)_
 * _[ECS](./pages/unity_ecs.html)_
 * _[Shaders](./pages/unity_shaders.html)_
