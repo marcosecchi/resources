@@ -14,8 +14,16 @@ layout: default
 
 ### Repositories
 
-* _[Unity Atoms](https://adamramberg.github.io/unity-atoms/)_
-* _[ScriptableObjects Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)_
 * _[Inline ScriptableObject editing](https://gist.github.com/tomkail/ba4136e6aa990f4dc94e0d39ec6a058c)_: displays the fields of a ScriptableObject in the inspector
+
+#### Unity Atoms
+
+* _[Unity Atoms](https://adamramberg.github.io/unity-atoms/)_
+* _[GitHub Repository](https://github.com/AdamRamberg/unity-atoms)_
+* _[Unity Atoms — Tiny modular pieces utilizing the power of Scriptable Objects](https://medium.com/@adamramberg/unity-atoms-tiny-modular-pieces-utilizing-the-power-of-scriptable-objects-e8add1b95201)_
+
+#### ScriptableObject Architecture
+
+* _[ScriptableObjects Architecture](https://github.com/DanielEverland/ScriptableObject-Architecture)_
 
 [back](../)
