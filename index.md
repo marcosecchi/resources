@@ -36,7 +36,7 @@ layout: default
 
 #### Retro Gaming
 
-* _[Retrogaming](./pages/retrogaming.html)_
+* _[Retrogaming](./pages/retrogaming_general-resources.html)_
 * _[Fantasy Consoles](./pages/retrogaming_fantasy-consoles.html)_
 * _[PICO-8](./pages/retrogaming_pico-8.html)_
 * _[TIC-80](./pages/retrogaming_tic-80.html)_

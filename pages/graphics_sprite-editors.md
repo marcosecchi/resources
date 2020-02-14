@@ -23,6 +23,9 @@ layout: default
 * _[Universal LPC Sprite Sheet Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator/)_: character sprite sheet for games using 100% open art
 * _[Lospec](https://lospec.com/pixel-editor)_: free pixel art program that you can use right here in your web browser
 * _[SpriteStack](https://spritestack.io/)_: voxel editor suited for 2D artists
+* _[Dither Machine](https://lunarlabs.itch.io/dither-machine)_: a tool to help you generate dithering automatically
+* _[Smear FX](https://codemanu.itch.io/smear-fx)_: make your animations extra juice by adding some smearing to them
+* _[Juice FX](https://codemanu.itch.io/juicefx)_: flash, scale, skew, shake, wobble, jump, wave even you can add an outline effect with any disered color
 
 ### Level Editors
 
