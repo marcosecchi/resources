@@ -22,6 +22,7 @@ layout: default
 * _[GitHub Classroom](https://classroom.github.com)_
 * _[GitHub Education Community](https://education.github.community/)_
 * _[GitHub's Teacher Community](https://github.com/education/teachers)_
+* _[GitHub Learning Lab](https://lab.github.com/)_
 
 #### Game Design & Programming
 
