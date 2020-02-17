@@ -51,6 +51,7 @@ layout: default
 * _[Lua](./pages/programming_lua.html)_
 * _[Git](./pages/programming_git.html)_
 * _[Creative Coding](./pages/programming_creative-coding.html)_
+* _[C++](./pages/gamedev_cpp.html)_
 
 ### Graphics
 

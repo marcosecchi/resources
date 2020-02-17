@@ -73,4 +73,15 @@ layout: default
 * _[Jan Willem Nijman - Vlambeer - "The art of screenshake"](https://www.youtube.com/watch?v=AJdEqssNZ-U)_
 * _[Make your game feel juicy with Unity - Unite 2015](https://www.youtube.com/watch?v=WfwRBwNz2bg)_
 
+### Stats
+
+* _[SteamDB](https://steamdb.info/)_
+* _[SteamSpy](https://steamspy.com/)_
+* _[Game Marketing CheatSheet](http://gamedevelopertips.com/game-marketing-cheat-sheet/)_
+
+### Controller Tools
+
+* _[360 Controller](https://github.com/360Controller/360Controller)_: this driver supports the Microsoft Xbox series
+* _[HTML5GamePad](http://html5gamepad.com/)_: when connected, this tool displays the current state of your gamepads, inputs, joysticks
+
 [back](../)

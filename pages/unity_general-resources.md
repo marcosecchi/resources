@@ -18,6 +18,13 @@ layout: default
 
 * _[Mod.io](https://mod.io/)_: API for developers to add mod support to their games
 
+### Plugins and Extensions
+
+* _[NUnit](http://www.nunit.org/)_: a unit-testing framework for all .Net languages
+* _[UniRx](https://github.com/neuecc/UniRx)_: reactive extensions for Unity
+* _[MoonScript](https://moonscript.org/)_: a dynamic scripting language that compiles into Lua
+* _[MoonSharp](http://www.moonsharp.org/)_: a Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms
+
 ### Script Collections
 
 * _[Unify Community](http://wiki.unity3d.com/index.php/Main_Page)_
