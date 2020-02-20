@@ -124,6 +124,10 @@ layout: default
 * _[Paul Riehle (@paulriehle)](https://twitter.com/paulriehle)_
 * _[Alex Florez (@KamiSawZe)](https://twitter.com/KamiSawZe)_
 * _[Christophe Tritz (@TritzChristophe)](https://twitter.com/TritzChristophe)_
+* _[France Mansiaux (@FranceMSX)](https://twitter.com/FranceMSX)_
+* _[(G) (@armyoftrolls)](https://twitter.com/armyoftrolls)_
+* _[Zach Soares (@voxels)](https://twitter.com/voxels)_
+* _[Funsho (@funabab)](https://twitter.com/funabab)_
 
 ### Blogs
 
