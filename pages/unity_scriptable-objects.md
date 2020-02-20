@@ -15,6 +15,7 @@ layout: default
 ### Repositories
 
 * _[Inline ScriptableObject editing](https://gist.github.com/tomkail/ba4136e6aa990f4dc94e0d39ec6a058c)_: displays the fields of a ScriptableObject in the inspector
+* _[Unite Austin 2017 Examples](https://github.com/roboryantron/Unite2017)_: sample project for game architecture with scriptable objects
 
 #### Unity Atoms
 
