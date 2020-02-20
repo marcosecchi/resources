@@ -68,6 +68,11 @@ layout: default
 * _[Island 1/4](https://www.youtube.com/watch?v=WwG-d7ZxqLk)_
 * _[Island 2/4](https://www.youtube.com/watch?v=sN7afJvE1_Q)_
 * _[[MagicaVoxel] Walking robot](https://www.youtube.com/watch?v=snY9KDKgzko)_
+* _[Anna Lepeshkina Yuotube Channel](https://www.youtube.com/channel/UCOka-ILmhM6DWaxZNNsL4tQ/featured)_
+* _[Super Mario Bros](https://www.youtube.com/watch?v=bPtw7L-lV7Y)_
+* _[Bakery](https://www.youtube.com/watch?v=ou_nteHaC8Q)_
+* _[Layton Casino](https://www.youtube.com/watch?v=6Td7LAnQl40)_
+* _[Omegafoxx YouTube Channel](https://www.youtube.com/watch?v=KTScM_0jEdk&list=PLK696-uKzkYQgPFlXWzvfhvkDFLFkh3Pv)_
 
 #### Video Demos
 
@@ -75,6 +80,7 @@ layout: default
 * _[Voxel Church](https://www.youtube.com/watch?v=X2sllnWOXBo)_
 * _[The Cave](https://www.youtube.com/watch?v=wYaRiNOtOLQ)_
 * _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
+* _[Voxel Satisfaction Video](https://www.youtube.com/watch?v=3-c4pGSGmC8)_
 
 ### Palettes
 
@@ -128,9 +134,11 @@ layout: default
 * _[(G) (@armyoftrolls)](https://twitter.com/armyoftrolls)_
 * _[Zach Soares (@voxels)](https://twitter.com/voxels)_
 * _[Funsho (@funabab)](https://twitter.com/funabab)_
+* _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
 
-### Blogs
+### Blogs & Portfolkios
 
+* _[Omegafoxx](https://www.omegafoxx.com/)_
 * _[Voxelmade](http://www.voxelmade.com/)_
 * _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
 
@@ -141,5 +149,6 @@ layout: default
 * _[VoxelShop](https://blackflux.com/node/11)_
 * _[Goxel](https://guillaumechereau.github.io/goxel/)_
 * _[Voxelise](http://www.voxelmade.com/voxelise/)_
+* _[VoxEdit](https://www.voxedit.io/)_
 
 [back](../)
