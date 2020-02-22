@@ -26,6 +26,7 @@ layout: default
 * _[Tutorial - Trove Edition](https://ritztales.wordpress.com/2014/07/18/magicavoxel-tutorial-trove-edition/)_
 * _[How I Did my First 3D Model](https://medium.com/@Tiagojdferreira/how-i-did-my-first-3d-model-magicavoxel-tutorial-6273319486e6)_
 * _[HLoading MagicaVoxel models in Three.js](https://luciopaiva.com/magicavoxel-threejs-howto/)_
+* _[MagicaVoxel 3D Art Tutorial](https://www.raywenderlich.com/375-magicavoxel-3d-art-tutorial)_ by Chris Language
 
 #### Video Tutorials
 
@@ -47,6 +48,7 @@ layout: default
 * _[Overview of the New MagicaVoxel's .97.1 Features](https://www.youtube.com/watch?v=y_4BeMVCkvA)_
 * _[Animation tutorial in magicavoxel 0.98.2](https://www.youtube.com/watch?v=bllLWX9xGmY)_
 * _[MegaBuilds](https://www.youtube.com/playlist?list=PLUBvJsG9xX8c2f1l2dD1LKDXjGk29taoQ)_ by Voxelize
+* _[William Santacruz YouTube Channel](https://www.youtube.com/channel/UCfNyESJTDoZ6POPSo0AAC0g/videos)_
 
 #### Speed Art
 
@@ -118,7 +120,7 @@ layout: default
 
 ### Voxel Shaders
 
-* _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader (for MagicaVoxel) from a custom Cellular Automata rule
+* _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader from a custom Cellular Automata rule
 * _[Lachlan McDonald Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)_: shaders for MagicaVoxel to simplify common and repetitive tasks
 * _[Kchapelier Voxel Shaders](https://github.com/kchapelier/voxelShaders)_: small collection of Voxel Shaders for MagicaVoxel
 * _[Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders)_: shaders for MagicaVoxel including Terrain Generator, Life Game, Waterflow Emulator, Advanced Flood System etc.
@@ -156,10 +158,11 @@ layout: default
 * _[Funsho (@funabab)](https://twitter.com/funabab)_
 * _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
 
-### Blogs & Portfolkios
+### Blogs & Portfolios
 
 * _[Omegafoxx](https://www.omegafoxx.com/)_
 * _[Voxelmade](http://www.voxelmade.com/)_
+* _[MegaVoxels)](https://www.megavoxels.com/p/home.html)_
 * _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
 
 ### Alternatives
