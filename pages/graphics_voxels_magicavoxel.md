@@ -25,6 +25,7 @@ layout: default
 * _[Animate MagicaVoxel](http://drinkdecaf.com/magicavoxel_animate)_
 * _[Tutorial - Trove Edition](https://ritztales.wordpress.com/2014/07/18/magicavoxel-tutorial-trove-edition/)_
 * _[How I Did my First 3D Model](https://medium.com/@Tiagojdferreira/how-i-did-my-first-3d-model-magicavoxel-tutorial-6273319486e6)_
+* _[HLoading MagicaVoxel models in Three.js](https://luciopaiva.com/magicavoxel-threejs-howto/)_
 
 #### Video Tutorials
 
@@ -98,21 +99,40 @@ layout: default
 * _[VoxJs](http://github.dev7.jp/vox.js/)_: JavaScript MagicaVoxel library
 * _[Voxcom compositor](https://github.com/larvalabs/voxcom)_: a voxel compositor for MagicaVoxel models
 * _[vox2png](https://github.com/StijnBrouwer/vox2png)_: converts a MagicaVoxel _.vox_ file into layered sprites and writes them to a _.png_ file
+* _[VoxMerger](https://github.com/Zarbuz/VoxMerger)_: console program for merge multiple MagicaVoxel scenes
+* _[Parse MagicaVoxel](https://github.com/kevzettler/parse-magica-voxel)_: parses MagicaVoxel _.vox_ files to javascript objects works in browser or server
+* _[OpenGameTools](https://github.com/jpaver/opengametools)_: a set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader
+* _[Houdini Geo Vox](https://github.com/ttvd/houdini-geo-vox)_: Houdini HDK GEO node which lets you load MagicaVoxel _.vox_ files as volumes
+
+#### Unity3D
+
 * _[MagicaVoxelUnity](https://github.com/darkfall/MagicaVoxelUnity)_: Unity3D plugin for MagicaVoxel's _.vox_ format
 * _[MagicaGN00T for Unity](https://github.com/GN00T/MagicaGN00T)_: MagicaVoxel importer mesher and simple animation system for Unity
+* _[MagicaVoxel Unity Splitter](https://github.com/tkeene/MagicaVoxelUnitySplitter)_: takes imported MagicaVoxel OBJ meshes and splits them into separate meshes based on their voxel color
+* _[C# VoxReader](https://github.com/barraudf/CsharpVoxReader)_: a generic C# reader for MagicaVoxel's _.vox_ file format
+* _[VoxToVFX](https://github.com/Zarbuz/VoxToVFX)_: import a MagicaVoxel project to Unity using the VFX Graph
+
+#### Unreal Engine
+
+* _[VOX4U](https://github.com/mik14a/VOX4U)_: VOX format import plugin for Unreal Engine 4
 
 ### Voxel Shaders
 
 * _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader (for MagicaVoxel) from a custom Cellular Automata rule
 * _[Lachlan McDonald Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)_: shaders for MagicaVoxel to simplify common and repetitive tasks
 * _[Kchapelier Voxel Shaders](https://github.com/kchapelier/voxelShaders)_: small collection of Voxel Shaders for MagicaVoxel
+* _[Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders)_: shaders for MagicaVoxel including Terrain Generator, Life Game, Waterflow Emulator, Advanced Flood System etc.
+* _[PseudoFractals Voxel Shader](https://github.com/kchapelier/pseudofractals-voxel-shader)_: voxel shader (for MagicaVoxel) to generate pseudofractals volumes
+* _[MagicaPlane](https://github.com/chaojian-zhang/MagicaPlane)_: a tool to generate MagicaVoxel shaders from plain csv layers
 
 ### Models
 
-* _[Ephtracy Voxel Model](https://github.com/ephtracy/voxel-model)_
-* _[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)_
-* _[Concerto per AI Assets](https://github.com/marcosecchi/naba-2016-workshop-assets)_
-* _[Kluchek Vox Models](https://github.com/kluchek/vox-models)_
+* _[Ephtracy Voxel Model](https://github.com/ephtracy/voxel-model)_ by ephtracy
+* _[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)_ by mikelovesrobots
+* _[Concerto per AI Assets](https://github.com/marcosecchi/naba-2016-workshop-assets)_ by marcosecchi
+* _[Kluchek Vox Models](https://github.com/kluchek/vox-models)_ by kluchek
+* _[MagicaVoxel Library](https://github.com/IForgeDe/MagicaVoxelLibrary)_ by IForgeDe
+* _[Voxel Art](https://github.com/mattyace/voxel-art)_ by mattyace
 
 ### Social
 
