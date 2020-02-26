@@ -114,6 +114,13 @@ layout: default
 * _[C# VoxReader](https://github.com/barraudf/CsharpVoxReader)_: a generic C# reader for MagicaVoxel's _.vox_ file format
 * _[VoxToVFX](https://github.com/Zarbuz/VoxToVFX)_: import a MagicaVoxel project to Unity using the VFX Graph
 
+#### Unity3D AssetStore Plugins
+
+* _[MagicaVoxel Tools](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-131046?aid=1011lHJn)_: import/export tools
+* _[MagicaVoxel Tools Free](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-free-146116?aid=1011lHJn)_: import/export tools
+* _[MagicaVoxel To Unity](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-to-unity-63336?aid=1011lHJn)_: create prefab from vox and qb file with optimized mesh
+* _[MagicaVoxel Import Tools](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-import-tools-143489?aid=1011lHJn)_: Create optimized prefabs from _.vox_ files
+
 #### Unreal Engine
 
 * _[VOX4U](https://github.com/mik14a/VOX4U)_: VOX format import plugin for Unreal Engine 4
