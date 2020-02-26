@@ -169,7 +169,7 @@ layout: default
 
 * _[Omegafoxx](https://www.omegafoxx.com/)_
 * _[Voxelmade](http://www.voxelmade.com/)_
-* _[MegaVoxels)](https://www.megavoxels.com/p/home.html)_
+* _[MegaVoxels](https://www.megavoxels.com/p/home.html)_
 * _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
 
 ### Alternatives
