@@ -110,9 +110,16 @@ layout: default
 
 * _[MagicaVoxelUnity](https://github.com/darkfall/MagicaVoxelUnity)_: Unity3D plugin for MagicaVoxel's _.vox_ format
 * _[MagicaGN00T for Unity](https://github.com/GN00T/MagicaGN00T)_: MagicaVoxel importer mesher and simple animation system for Unity
-* _[MagicaVoxel Unity Splitter](https://github.com/tkeene/MagicaVoxelUnitySplitter)_: takes imported MagicaVoxel OBJ meshes and splits them into separate meshes based on their voxel color
+* _[MagicaVoxel Unity Splitter](https://github.com/tkeene/MagicaVoxelUnitySplitter)_: takes imported MagicaVoxel _.obj_ meshes and splits them into separate meshes based on their voxel color
 * _[C# VoxReader](https://github.com/barraudf/CsharpVoxReader)_: a generic C# reader for MagicaVoxel's _.vox_ file format
 * _[VoxToVFX](https://github.com/Zarbuz/VoxToVFX)_: import a MagicaVoxel project to Unity using the VFX Graph
+
+#### Unity3D AssetStore Plugins
+
+* _[MagicaVoxel Tools](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-131046?aid=1011lHJn)_: import/export tools
+* _[MagicaVoxel Tools Free](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-free-146116?aid=1011lHJn)_: import/export tools
+* _[MagicaVoxel To Unity](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-to-unity-63336?aid=1011lHJn)_: create prefab from vox and qb file with optimized mesh
+* _[MagicaVoxel Import Tools](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-import-tools-143489?aid=1011lHJn)_: Create optimized prefabs from _.vox_ files
 
 #### Unreal Engine
 
@@ -157,6 +164,7 @@ layout: default
 * _[Zach Soares (@voxels)](https://twitter.com/voxels)_
 * _[Funsho (@funabab)](https://twitter.com/funabab)_
 * _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
+* _[楠呱Moenen (@_Moenen)](https://twitter.com/_Moenen)_
 
 ### Blogs & Portfolios
 
