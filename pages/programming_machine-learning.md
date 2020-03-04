@@ -34,33 +34,14 @@ layout: default
 * _[Unity AI-themed Blog Entries](https://blogs.unity3d.com/2017/06/26/unity-ai-themed-blog-entries/)_
 * _[Accord Framework](http://accord-framework.net/)_
 
-#### Behaviour Trees
-
-* _[Fluent behavior trees for AI and game-logic](http://www.what-could-possibly-go-wrong.com/fluent-behavior-trees-for-ai-and-game-logic/)_
-
 #### Plugins
 
 * _[fAutonomy](http://fautonomy.ai/)_
-* _[NodeCanvas](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914?aid=1011lHJn)_
-* _[NodeCanvas Lite](https://assetstore.unity.com/packages/tools/ai/nodecanvas-lite-behaviour-trees-40072?aid=1011lHJn)_
-* _[Apex AI](https://assetstore.unity.com/packages/tools/visual-scripting/apex-utility-ai-personal-edition-56306)_
-* _[Apex Game Tools](https://github.com/ApexGameTools/Apex-Game-Tools)_
-* _[NP Behave](https://assetstore.unity.com/packages/tools/ai/npbehave-event-driven-code-based-behaviour-trees-75884)_
-
-#### xNode
-
-* _[xNode](https://github.com/Siccity/xNode)_: lets you view and edit node graphs inside Unity
-* _[qAI](https://github.com/jlreymendez/qAI)_: a xNode based tool for designing AI Graphs like Behavior Trees and Finite State Machines in Unity
-* _[xNodeUtilityAI](https://github.com/FBast/xNodeUtilityAI)_: Provide a basic framework to build an Utility IA using the xNode editor of Siccity in Unity
 
 #### Blog Posts
 
 * _[Unity Blog on ML](https://blogs.unity3d.com/category/machine-learning/)_
 * _Artificial locomotion in Unity using Machine Learning [Pt. 1](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-1/)/[Pt. 2](https://blog.theknightsofunity.com/artificial-locomotion-in-unity-using-machine-learning-part-2/)/[Pt. 3](https://blog.theknightsofunity.com/artificial-locomotion-unity-using-machine-learning-part-3/)_
-
-### Books
-
-* _[Game AI Pro](http://www.gameaipro.com/)_
 
 #### Articles
 

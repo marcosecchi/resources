@@ -49,6 +49,7 @@ layout: default
 * _[General Resources](./pages/programming_general-resources.html)_
 * _[Rective Programming](./pages/programming_reactive-programming.html)_
 * _[Machine Learning](./pages/programming_machine-learning.html)_
+* _[AI](./pages/programming_ai.html)_
 * _[Lua](./pages/programming_lua.html)_
 * _[Git](./pages/programming_git.html)_
 * _[Creative Coding](./pages/programming_creative-coding.html)_
