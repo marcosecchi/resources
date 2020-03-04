@@ -69,6 +69,7 @@ layout: default
 * _[Checking for Overlap](https://mboffin.itch.io/pico8-overlap)_
 * _[Maze Algorithm](https://mboffin.itch.io/pico8-maze-algorithm)_
 * _[Update Frame by Frame](https://twitter.com/lexaloffle/status/1183193533965983744?s=20)_
+* _[pico8-table-string](https://github.com/benwiley4000/pico8-table-string)_
 
 ### Magazines and Books
 
