@@ -7,6 +7,7 @@ layout: default
 ### Main
 
 * _[MagicaVoxel Official Page](https://ephtracy.github.io/)_
+* _[Reddit](https://www.reddit.com/r/MagicaVoxel/)_
 
 ### Articles
 
@@ -165,6 +166,7 @@ layout: default
 * _[Funsho (@funabab)](https://twitter.com/funabab)_
 * _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
 * _[楠呱Moenen (@_Moenen)](https://twitter.com/_Moenen)_
+* _[楠呱Moenen (Google Photos)](https://photos.google.com/share/AF1QipP6uOWkcfqbGh268HLv99CYOZHT36bHSdrL_bX21Yt_zzMtscG_qMHtqmQZ11sb7Q?key=QnNUQmRSLWlRd3ViT1VrYVhJaHlYWTBtYmRNc1lR)_
 
 ### Blogs & Portfolios
 
