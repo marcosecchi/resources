@@ -155,6 +155,7 @@ layout: default
 * _[picotool](https://github.com/dansanderson/picotool)_: tools and Python libraries for manipulating PICO-8 game files
 * _[p8dl](https://github.com/franciscod/p8dl)_: PICO-8 cartridge downloader
 * _[pico-8-carts-bash-downloader](https://github.com/kikookoubis/pico-8-carts-bash-downloader)_: download & automatically rename Pico-8 carts from the Lexaloffle BBS threads
+* _[pico-build](https://github.com/ianjsikes/pico-build)_: An all-purpose command-line tool for building PICO-8 games. Write your game as multiple lua files, and have them compiled into tabs within your _.p8_ cart
 
 #### Graphics
 
