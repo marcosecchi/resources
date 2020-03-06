@@ -33,7 +33,9 @@ layout: default
 
 * _[Brush & Edit (v0.98)](https://www.youtube.com/watch?v=d_WymsNdRBA)_
 * _[MagicaVoxel 0.99 Preview](https://www.youtube.com/watch?v=9NG7cFc-ddQ)_
-* _[Aaron's Tutorials](https://www.youtube.com/playlist?list=PLHtmobOgsDvlikllA1MBk7pk_DWlmtR_S)_
+* _[Aaron Robbins - Tutorials](https://www.youtube.com/playlist?list=PLHtmobOgsDvlikllA1MBk7pk_DWlmtR_S)_
+* _[Aaron Robbins - Timelapse](https://www.youtube.com/watch?v=vlVsrgcV4bM&list=PLHtmobOgsDvk3roGAV-WJ6HL3d33o5gci)_
+* _[Aaron Robbins - MagicaVoxel + Unity](https://www.youtube.com/watch?v=p1a-NlfeMIA&list=PLHtmobOgsDvkcPzGyQTPLCvtEs0XDafx6)_
 * _[Elliot Kid (Fr)](https://www.youtube.com/playlist?list=PLYmCMg3QL20-jQNEyAAmKjGteZDxVesmy)_
 * _[Le Temple Perdu (Fr)](https://www.youtube.com/watch?v=bdROMzu3gw0)_
 * _[Making of bridge scene](https://www.youtube.com/watch?v=zoj2AkXe94g)_
