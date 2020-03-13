@@ -81,5 +81,5 @@ layout: default
 
 ### Other
 
-* _[Ebooks](./pages/other-ebooks.html)_
+* _[Ebooks](./pages/other_ebooks.html)_
 * _[Audio](./pages/other_audio.html)_
