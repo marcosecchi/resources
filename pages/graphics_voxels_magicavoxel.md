@@ -108,6 +108,7 @@ layout: default
 * _[Parse MagicaVoxel](https://github.com/kevzettler/parse-magica-voxel)_: parses MagicaVoxel _.vox_ files to javascript objects works in browser or server
 * _[OpenGameTools](https://github.com/jpaver/opengametools)_: a set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader
 * _[Houdini Geo Vox](https://github.com/ttvd/houdini-geo-vox)_: Houdini HDK GEO node which lets you load MagicaVoxel _.vox_ files as volumes
+* _[FileToVox](https://github.com/Zarbuz/FileToVox)_: converts files into MagicaVoxel file
 
 #### Unity3D
 
@@ -166,6 +167,7 @@ layout: default
 * _[(G) (@armyoftrolls)](https://twitter.com/armyoftrolls)_
 * _[Zach Soares (@voxels)](https://twitter.com/voxels)_
 * _[Funsho (@funabab)](https://twitter.com/funabab)_
+* _[Nicolas Perrier (@Zarbuz)](https://twitter.com/Zarbuz)_
 * _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
 * _[楠呱Moenen (@_Moenen)](https://twitter.com/_Moenen)_
 * _[楠呱Moenen (Google Photos)](https://photos.google.com/share/AF1QipP6uOWkcfqbGh268HLv99CYOZHT36bHSdrL_bX21Yt_zzMtscG_qMHtqmQZ11sb7Q?key=QnNUQmRSLWlRd3ViT1VrYVhJaHlYWTBtYmRNc1lR)_
