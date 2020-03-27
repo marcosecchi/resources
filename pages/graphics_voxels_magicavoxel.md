@@ -109,6 +109,7 @@ layout: default
 * _[OpenGameTools](https://github.com/jpaver/opengametools)_: a set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader
 * _[Houdini Geo Vox](https://github.com/ttvd/houdini-geo-vox)_: Houdini HDK GEO node which lets you load MagicaVoxel _.vox_ files as volumes
 * _[FileToVox](https://github.com/Zarbuz/FileToVox)_: converts files into MagicaVoxel file
+* _[FileToVox-LazyGUI](https://github.com/patrikroy/FileToVox-LazyGUI)_: a minimal GUI for [Zarbuz's FileToVox](https://github.com/Zarbuz/FileToVox)
 
 #### Unity3D
 
