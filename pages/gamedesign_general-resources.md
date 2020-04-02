@@ -14,6 +14,7 @@ layout: default
 * _[IndieGames+](http://indiegamesplus.com/)_
 * _[The Game Design Forum](http://thegamedesignforum.com/)_
 * _[GameDesigning](https://www.gamedesigning.org/)_
+* _[Programming Guide for VideoGamers](http://ithare.com/programming-guide-for-video-gamers/)_
 
 #### Reference
 
