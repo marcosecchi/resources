@@ -30,6 +30,7 @@ layout: default
 * _[HitBoxes](https://www.flickr.com/photos/96872887@N07/sets/72157650671215997)_ by Chris Wagar
 * _[Game Mechanics Explorer](https://gamemechanicexplorer.com/)_
 * _[Three Hundred Mechanics](http://www.squidi.net/three/)_
+* _[Reverse Design Books](http://thegamedesignforum.com/features/featureshome.html)_
 
 ### Tools
 
