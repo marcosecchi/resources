@@ -53,6 +53,7 @@ layout: default
 * _[Animation tutorial in magicavoxel 0.98.2](https://www.youtube.com/watch?v=bllLWX9xGmY)_
 * _[MegaBuilds](https://www.youtube.com/playlist?list=PLUBvJsG9xX8c2f1l2dD1LKDXjGk29taoQ)_ by Voxelize
 * _[William Santacruz YouTube Channel](https://www.youtube.com/channel/UCfNyESJTDoZ6POPSo0AAC0g/videos)_
+* _[Le Voxelarium YouTube Channel (Fr)](https://www.youtube.com/channel/UCfz11eLtqBgcAb8F2vttEmA)_
 
 #### Speed Art
 
