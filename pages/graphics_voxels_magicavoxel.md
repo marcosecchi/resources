@@ -8,7 +8,7 @@ layout: default
 
 * _[MagicaVoxel Official Page](https://ephtracy.github.io/)_
 * _[Reddit](https://www.reddit.com/r/MagicaVoxel/)_
-* _[MAgicaVoxel Community Wiki](https://mvc.wiki/m/Home/)_
+* _[MagicaVoxel Community Wiki](https://mvc.wiki/m/Home/)_
 
 ### Articles
 
