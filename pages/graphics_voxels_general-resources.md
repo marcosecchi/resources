@@ -15,6 +15,8 @@ layout: default
 * _[Marmoset Hexels](https://marmoset.co/hexels/)_
 * _[VoxEdit](https://www.voxedit.io/)_
 * _[The Sandbox](https://www.sandbox.game/)_
+* _[VoxVR](https://voxvr.net/)_: a virtual reality voxel art editor
+* _[Voxelise](http://www.voxelmade.com/voxelise/)_
 
 ### Minecraft
 

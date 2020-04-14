@@ -102,16 +102,11 @@ layout: default
 
 ### Tools
 
-* _[IsoVoxel](https://github.com/tommyettinger/IsoVoxel)_: generates isometric pixel art from MagicaVoxel _.vox_ files
 * _[VoxJs](http://github.dev7.jp/vox.js/)_: JavaScript MagicaVoxel library
 * _[Voxcom compositor](https://github.com/larvalabs/voxcom)_: a voxel compositor for MagicaVoxel models
-* _[vox2png](https://github.com/StijnBrouwer/vox2png)_: converts a MagicaVoxel _.vox_ file into layered sprites and writes them to a _.png_ file
-* _[VoxMerger](https://github.com/Zarbuz/VoxMerger)_: console program for merge multiple MagicaVoxel scenes
 * _[Parse MagicaVoxel](https://github.com/kevzettler/parse-magica-voxel)_: parses MagicaVoxel _.vox_ files to javascript objects works in browser or server
 * _[OpenGameTools](https://github.com/jpaver/opengametools)_: a set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader
 * _[Houdini Geo Vox](https://github.com/ttvd/houdini-geo-vox)_: Houdini HDK GEO node which lets you load MagicaVoxel _.vox_ files as volumes
-* _[FileToVox](https://github.com/Zarbuz/FileToVox)_: converts files into MagicaVoxel file
-* _[FileToVox-LazyGUI](https://github.com/patrikroy/FileToVox-LazyGUI)_: a minimal GUI for [Zarbuz's FileToVox](https://github.com/Zarbuz/FileToVox)
 
 #### Unity3D
 
@@ -127,10 +122,6 @@ layout: default
 * _[MagicaVoxel Tools Free](https://assetstore.unity.com/packages/tools/utilities/magicavoxel-tools-free-146116?aid=1011lHJn)_: import/export tools
 * _[MagicaVoxel To Unity](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-to-unity-63336?aid=1011lHJn)_: create prefab from vox and qb file with optimized mesh
 * _[MagicaVoxel Import Tools](https://assetstore.unity.com/packages/tools/modeling/magicavoxel-import-tools-143489?aid=1011lHJn)_: Create optimized prefabs from _.vox_ files
-
-#### Unreal Engine
-
-* _[VOX4U](https://github.com/mik14a/VOX4U)_: VOX format import plugin for Unreal Engine 4
 
 ### Voxel Shaders
 
@@ -181,14 +172,5 @@ layout: default
 * _[Voxelmade](http://www.voxelmade.com/)_
 * _[MegaVoxels](https://www.megavoxels.com/p/home.html)_
 * _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
-
-### Alternatives
-
-* _[VoxVR](https://voxvr.net/)_: a virtual reality voxel art editor
-* _[Qubicle Voxel Editor](http://www.minddesk.com/)_
-* _[VoxelShop](https://blackflux.com/node/11)_
-* _[Goxel](https://guillaumechereau.github.io/goxel/)_
-* _[Voxelise](http://www.voxelmade.com/voxelise/)_
-* _[VoxEdit](https://www.voxedit.io/)_
 
 [back](../)
