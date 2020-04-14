@@ -100,14 +100,6 @@ layout: default
 * _[Official Cheatsheet](https://ephtracy.github.io/index.html?page=mv_controls)_
 * _[Vibri's MagicaVoxel Tips](http://i.imgur.com/8DSXaDR.png)_
 
-### Tools
-
-* _[VoxJs](http://github.dev7.jp/vox.js/)_: JavaScript MagicaVoxel library
-* _[Voxcom compositor](https://github.com/larvalabs/voxcom)_: a voxel compositor for MagicaVoxel models
-* _[Parse MagicaVoxel](https://github.com/kevzettler/parse-magica-voxel)_: parses MagicaVoxel _.vox_ files to javascript objects works in browser or server
-* _[OpenGameTools](https://github.com/jpaver/opengametools)_: a set of open c++ game development tools that are lightweight, easy-to-integrate and free to use. Currently hosting a magicavoxel .vox full scene loader
-* _[Houdini Geo Vox](https://github.com/ttvd/houdini-geo-vox)_: Houdini HDK GEO node which lets you load MagicaVoxel _.vox_ files as volumes
-
 #### Unity3D
 
 * _[MagicaVoxelUnity](https://github.com/darkfall/MagicaVoxelUnity)_: Unity3D plugin for MagicaVoxel's _.vox_ format
