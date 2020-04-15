@@ -90,16 +90,6 @@ layout: default
 * _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
 * _[Voxel Satisfaction Video](https://www.youtube.com/watch?v=3-c4pGSGmC8)_
 
-### Palettes
-
-* _[Matt Perrin Palettes](https://github.com/mattperrin/MagicaVoxelPalettes)_
-* _[Zingot Retro Palette](http://www.zingot.com/personal.html)_
-
-### Cheatsheets
-
-* _[Official Cheatsheet](https://ephtracy.github.io/index.html?page=mv_controls)_
-* _[Vibri's MagicaVoxel Tips](http://i.imgur.com/8DSXaDR.png)_
-
 ### Voxel Shaders
 
 * _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader from a custom Cellular Automata rule
