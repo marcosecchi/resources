@@ -4,12 +4,6 @@ layout: default
 
 ## MagicaVoxel
 
-### Main
-
-* _[MagicaVoxel Official Page](https://ephtracy.github.io/)_
-* _[Reddit](https://www.reddit.com/r/MagicaVoxel/)_
-* _[MagicaVoxel Community Wiki](https://mvc.wiki/m/Home/)_
-
 ### Articles
 
 * _[Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)_
@@ -90,18 +84,8 @@ layout: default
 * _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
 * _[Voxel Satisfaction Video](https://www.youtube.com/watch?v=3-c4pGSGmC8)_
 
-### Voxel Shaders
-
-* _[Cellular Automata](https://github.com/kchapelier/cellular-automata-voxel-shader)_: generate a voxel shader from a custom Cellular Automata rule
-* _[Lachlan McDonald Shaders](https://github.com/lachlanmcdonald/magicavoxel-shaders)_: shaders for MagicaVoxel to simplify common and repetitive tasks
-* _[Kchapelier Voxel Shaders](https://github.com/kchapelier/voxelShaders)_: small collection of Voxel Shaders for MagicaVoxel
-* _[Eric's MagicaVoxel Shaders](https://github.com/CodingEric/Erics-MagicaVoxel-Shaders)_: shaders for MagicaVoxel including Terrain Generator, Life Game, Waterflow Emulator, Advanced Flood System etc.
-* _[PseudoFractals Voxel Shader](https://github.com/kchapelier/pseudofractals-voxel-shader)_: voxel shader (for MagicaVoxel) to generate pseudofractals volumes
-* _[MagicaPlane](https://github.com/chaojian-zhang/MagicaPlane)_: a tool to generate MagicaVoxel shaders from plain csv layers
-
 ### Models
 
-* _[Ephtracy Voxel Model](https://github.com/ephtracy/voxel-model)_ by ephtracy
 * _[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)_ by mikelovesrobots
 * _[Concerto per AI Assets](https://github.com/marcosecchi/naba-2016-workshop-assets)_ by marcosecchi
 * _[Kluchek Vox Models](https://github.com/kluchek/vox-models)_ by kluchek
