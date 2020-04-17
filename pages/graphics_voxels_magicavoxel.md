@@ -5,7 +5,7 @@ layout: default
 ## MagicaVoxel
 
 ### Articles
-
+ 
 * _[Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)_
 
 #### Tech Articles
