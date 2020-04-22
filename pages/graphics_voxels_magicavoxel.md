@@ -51,11 +51,7 @@ layout: default
 
 #### Speed Art
 
-* _[Back to the Future](https://www.youtube.com/watch?v=Rvhfi7eEbB4)_
-* _[Building a Cathedral [Pt. 1]](https://www.youtube.com/watch?v=czqohAi9CcA)_: modeling
-* _[Building a Cathedral [Pt. 2]](https://www.youtube.com/watch?v=WFHU0Vx1gWw)_: painting
 * _[Colouring a Futuristic Scene](https://www.youtube.com/watch?v=msi69zgJNx8)_
-* _[Escorial Monastery](https://www.youtube.com/watch?v=kdH1nnh711w)_
 * _[Floating Island](https://www.youtube.com/watch?v=cTUjnG2Frvo)_
 * _[Futuristic Building](https://www.youtube.com/watch?v=cAj2h1E_yJ8)_
 * _[Hulk](https://www.youtube.com/watch?v=mp1seUAtXVg)_
