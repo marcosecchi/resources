@@ -5,7 +5,7 @@ layout: default
 ## MagicaVoxel
 
 ### Articles
-
+ 
 * _[Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)_
 
 #### Tech Articles
@@ -14,12 +14,7 @@ layout: default
 
 ### Tutorials
 
-* _[Publishing Voxel Designs from MagicaVoxel to Sketchfab](https://blog.sketchfab.com/publishing-voxel-designs-from-magicavoxel-to-sketchfab/)_
-* _[Creating a 3D Star Wars scene in voxels using MagicaVoxel, Blender and VoxelShop](https://blog.sketchfab.com/tutorial-creating-a-3d-star-wars-scene-in-voxels-using-magicavoxel-blender-and-voxelshop/)_
-* _[A complete guide to importing from MagicaVoxel to Sketchfab](https://blog.sketchfab.com/complete-guide-importing-magicavoxel-sketchfab/)_
-* _[A-Frame: Building with MagicaVoxel](https://aframe.io/docs/0.8.0/guides/building-with-magicavoxel.html)_
 * _[Animate MagicaVoxel](http://drinkdecaf.com/magicavoxel_animate)_
-* _[Tutorial - Trove Edition](https://ritztales.wordpress.com/2014/07/18/magicavoxel-tutorial-trove-edition/)_
 * _[How I Did my First 3D Model](https://medium.com/@Tiagojdferreira/how-i-did-my-first-3d-model-magicavoxel-tutorial-6273319486e6)_
 * _[HLoading MagicaVoxel models in Three.js](https://luciopaiva.com/magicavoxel-threejs-howto/)_
 * _[MagicaVoxel 3D Art Tutorial](https://www.raywenderlich.com/375-magicavoxel-3d-art-tutorial)_ by Chris Language
