@@ -16,6 +16,7 @@ layout: default
 * _[Embed.ly](https://embed.ly/)_
 * _[HackerRank](https://www.hackerrank.com/dashboard)_
 * _[Edabit](https://edabit.com/)_
+* _[JetBrains Academy](https://www.jetbrains.com/academy/)_
 
 #### GitHub Education
 
@@ -50,6 +51,8 @@ layout: default
 
 #### Other
 
+* _[Khan Academy](https://www.khanacademy.org/)_
+* _[edX](https://www.edx.org/)_
 * _[Seekhana](https://www.seekhana.com/)_
 * _[Udemy](https://www.udemy.com/)_
 * _[Zenva](https://academy.zenva.com/)_
