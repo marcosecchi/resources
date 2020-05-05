@@ -4,14 +4,6 @@ layout: default
 
 ## MagicaVoxel
 
-### Articles
- 
-* _[Art Design Deep Dive: The gorgeous voxel creatures of Fugl](https://www.gamasutra.com/view/news/342524/Art_Design_Deep_Dive_The_gorgeous_voxel_creatures_of_Fugl.php)_
-
-#### Tech Articles
-
-* _[File Format Specification](https://github.com/ephtracy/voxel-model/blob/master/MagicaVoxel-file-format-vox.txt)_
-
 ### Tutorials
 
 * _[Animate MagicaVoxel](http://drinkdecaf.com/magicavoxel_animate)_
@@ -85,11 +77,6 @@ layout: default
 
 ### Social
 
-* _[ephtracy (@ephtracy)](https://twitter.com/ephtracy)_
-* _[Ingen (@zmei23)](https://twitter.com/zmei23)_
-* _[Sir_carma (@Sir_carma)](https://twitter.com/Sir_carma)_
-* _[JonLee (@einschnellboot)](https://twitter.com/einschnellboot)_
-* _[Exmachina (@thibaultsimar)](https://twitter.com/thibaultsimar)_
 * _[John Kearney (@HuntingFluff)](https://twitter.com/HuntingFluff)_
 * _[Maryam (@MadMaraca)](https://twitter.com/MadMaraca)_
 * _[Lucas Rgznsk (@Rgznsk_)](https://twitter.com/Rgznsk_)_
@@ -107,12 +94,5 @@ layout: default
 * _[Mathis Lesieur (@Omegafoxxx)](https://twitter.com/Omegafoxxx)_
 * _[楠呱Moenen (@_Moenen)](https://twitter.com/_Moenen)_
 * _[楠呱Moenen (Google Photos)](https://photos.google.com/share/AF1QipP6uOWkcfqbGh268HLv99CYOZHT36bHSdrL_bX21Yt_zzMtscG_qMHtqmQZ11sb7Q?key=QnNUQmRSLWlRd3ViT1VrYVhJaHlYWTBtYmRNc1lR)_
-
-### Blogs & Portfolios
-
-* _[Omegafoxx](https://www.omegafoxx.com/)_
-* _[Voxelmade](http://www.voxelmade.com/)_
-* _[MegaVoxels](https://www.megavoxels.com/p/home.html)_
-* _[Daishi Blog (Jp)](http://github.dev7.jp/b/tags/MagicaVoxel/)_
 
 [back](../)
