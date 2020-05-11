@@ -18,4 +18,8 @@ layout: default
 * _[ProBuilder Simple Objects - Crates and Barrels](https://www.youtube.com/watch?v=lmLG4nC9tm0)_
 * _[MAKING YOUR FIRST LEVEL in Unity with ProBuilder!](https://www.youtube.com/watch?v=YtzIXCKr8Wo)_ by Brackeys
 
+#### Non-ProBuilder
+
+* _[How to create a low poly cliff in Blender 2.8](https://www.youtube.com/watch?v=Os3SYeD6R3k)_
+
 [back](../)
