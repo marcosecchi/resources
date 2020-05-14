@@ -20,6 +20,12 @@ layout: default
 
 #### Non-ProBuilder
 
+##### Blender
+
 * _[How to create a low poly cliff in Blender 2.8](https://www.youtube.com/watch?v=Os3SYeD6R3k)_
+
+##### Cinema4D
+
+* _[Low Poly Planet Earth Speed Art](https://www.youtube.com/watch?v=ap_QfXhEGyE)_
 
 [back](../)
