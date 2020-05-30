@@ -4,13 +4,6 @@ layout: default
 
 ## MagicaVoxel
 
-### Tutorials
-
-* _[Animate MagicaVoxel](http://drinkdecaf.com/magicavoxel_animate)_
-* _[How I Did my First 3D Model](https://medium.com/@Tiagojdferreira/how-i-did-my-first-3d-model-magicavoxel-tutorial-6273319486e6)_
-* _[HLoading MagicaVoxel models in Three.js](https://luciopaiva.com/magicavoxel-threejs-howto/)_
-* _[MagicaVoxel 3D Art Tutorial](https://www.raywenderlich.com/375-magicavoxel-3d-art-tutorial)_ by Chris Language
-
 #### Video Tutorials
 
 * _[Brush & Edit (v0.98)](https://www.youtube.com/watch?v=d_WymsNdRBA)_
