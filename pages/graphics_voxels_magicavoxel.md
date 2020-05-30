@@ -27,14 +27,6 @@ layout: default
 * _[Layton Casino](https://www.youtube.com/watch?v=6Td7LAnQl40)_
 * _[Omegafoxx YouTube Channel](https://www.youtube.com/watch?v=KTScM_0jEdk&list=PLK696-uKzkYQgPFlXWzvfhvkDFLFkh3Pv)_
 
-#### Video Demos
-
-* _[Throne Room](https://www.youtube.com/watch?v=7J0KwhTGreE)_
-* _[Voxel Church](https://www.youtube.com/watch?v=X2sllnWOXBo)_
-* _[The Cave](https://www.youtube.com/watch?v=wYaRiNOtOLQ)_
-* _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
-* _[Voxel Satisfaction Video](https://www.youtube.com/watch?v=3-c4pGSGmC8)_
-
 ### Social
 
 * _[John Kearney (@HuntingFluff)](https://twitter.com/HuntingFluff)_
