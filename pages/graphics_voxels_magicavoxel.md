@@ -4,31 +4,6 @@ layout: default
 
 ## MagicaVoxel
 
-#### Video Tutorials
-
-* _[Brush & Edit (v0.98)](https://www.youtube.com/watch?v=d_WymsNdRBA)_
-* _[MagicaVoxel 0.99 Preview](https://www.youtube.com/watch?v=9NG7cFc-ddQ)_
-* _[Aaron Robbins - Tutorials](https://www.youtube.com/playlist?list=PLHtmobOgsDvlikllA1MBk7pk_DWlmtR_S)_
-* _[Aaron Robbins - Timelapse](https://www.youtube.com/watch?v=vlVsrgcV4bM&list=PLHtmobOgsDvk3roGAV-WJ6HL3d33o5gci)_
-* _[Aaron Robbins - MagicaVoxel + Unity](https://www.youtube.com/watch?v=p1a-NlfeMIA&list=PLHtmobOgsDvkcPzGyQTPLCvtEs0XDafx6)_
-* _[Elliot Kid (Fr)](https://www.youtube.com/playlist?list=PLYmCMg3QL20-jQNEyAAmKjGteZDxVesmy)_
-* _[Le Temple Perdu (Fr)](https://www.youtube.com/watch?v=bdROMzu3gw0)_
-* _[Making of bridge scene](https://www.youtube.com/watch?v=zoj2AkXe94g)_
-* _[MagicaVoxel/Mixamo/C4D](https://www.youtube.com/watch?v=URTGCZtuCcc)_
-* _[Creating the Crossy Road Unihorse](https://www.youtube.com/watch?v=u6q_CWQNyek)_
-* _[MagicaVoxel Tricks](https://www.youtube.com/watch?v=Yb1RJLhz0kE)_
-* _[Modeling in MagicaVoxel](https://www.youtube.com/watch?v=9f57Y_xZ3ao)_
-* _[MagicaVoxel / Introduction to 3D](https://www.youtube.com/watch?v=VLPlgJnplL4)_
-* _[Prototype with MagicaVoxel](https://www.youtube.com/watch?v=ZxYVJ52_wlI)_
-* _[3D speed drawing + Tiny Review](https://www.youtube.com/watch?v=Oh_pkLHVW8o)_
-* _[MagicaVoxel Crash Course](https://www.youtube.com/watch?v=uymtWch5RCA)_
-* _[[MagicaVoxel] Testing Patterns](https://www.youtube.com/watch?v=9Km8ouDV7zA)_
-* _[Overview of the New MagicaVoxel's .97.1 Features](https://www.youtube.com/watch?v=y_4BeMVCkvA)_
-* _[Animation tutorial in magicavoxel 0.98.2](https://www.youtube.com/watch?v=bllLWX9xGmY)_
-* _[MegaBuilds](https://www.youtube.com/playlist?list=PLUBvJsG9xX8c2f1l2dD1LKDXjGk29taoQ)_ by Voxelize
-* _[William Santacruz YouTube Channel](https://www.youtube.com/channel/UCfNyESJTDoZ6POPSo0AAC0g/videos)_
-* _[Le Voxelarium YouTube Channel (Fr)](https://www.youtube.com/channel/UCfz11eLtqBgcAb8F2vttEmA)_
-
 #### Speed Art
 
 * _[Colouring a Futuristic Scene](https://www.youtube.com/watch?v=msi69zgJNx8)_
@@ -59,14 +34,6 @@ layout: default
 * _[The Cave](https://www.youtube.com/watch?v=wYaRiNOtOLQ)_
 * _[Petra Temple - Jordania](https://www.youtube.com/watch?v=GM28jApLRJg)_
 * _[Voxel Satisfaction Video](https://www.youtube.com/watch?v=3-c4pGSGmC8)_
-
-### Models
-
-* _[Mini Mike's Metro Minis](https://github.com/mikelovesrobots/mmmm)_ by mikelovesrobots
-* _[Concerto per AI Assets](https://github.com/marcosecchi/naba-2016-workshop-assets)_ by marcosecchi
-* _[Kluchek Vox Models](https://github.com/kluchek/vox-models)_ by kluchek
-* _[MagicaVoxel Library](https://github.com/IForgeDe/MagicaVoxelLibrary)_ by IForgeDe
-* _[Voxel Art](https://github.com/mattyace/voxel-art)_ by mattyace
 
 ### Social
 
