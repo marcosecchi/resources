@@ -23,6 +23,7 @@ layout: default
 * _[raylib](https://www.raylib.com/)_
 * _[GB Studio](https://www.gbstudio.dev/)_
 * _[ct.js](https://ctjs.rocks/)_
+* _[Boardgame.IO](https://boardgame.io/)_
 
 #### Lua
 
