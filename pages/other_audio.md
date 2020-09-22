@@ -10,6 +10,7 @@ layout: default
 * _[Wwise](https://www.audiokinetic.com/)_: An interactive sound engine empowering audio creators
 * _[Helm](https://tytel.org/helm/)_: Run Helm as a standalone synthesizer or as an LV2, VST, VST3 or AU plugin
 * _[LMMS](https://lmms.io/)_: free cross-platform software which allows to produce music with a computer
+* _[Zrythm](https://www.zrythm.org/en/index.html)_: cross-platform digital audio workstation (DAW) designed to be featureful and easy to use with a computer
 
 #### Procedural
 

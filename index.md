@@ -91,4 +91,5 @@ layout: default
 
 * _[Ebooks](./pages/other_ebooks.html)_
 * _[Audio](./pages/other_audio.html)_
+* _[OSC](./pages/other_osc.html)_
 * _[Streaming Tools](./pages/other_streaming.html)_
