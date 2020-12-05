@@ -66,10 +66,6 @@ layout: default
 * _[3D Tools](./pages/graphics_3d-tools.html)_
 * _[Textures](./pages/graphics_textures.html)_
 
-### VFX
-
-* _[Virtual Production](./pages/vfx_virtual-production.html)_
-
 #### Voxels
 
 * _[Voxels](./pages/graphics_voxels_general-resources.html)_
