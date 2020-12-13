@@ -19,6 +19,7 @@ layout: default
 * _[VectorBoy](https://davidjalbert.itch.io/vectorboy)_: a minimalist vectorial fantasy console
 * _[Nano Jammer](https://morgan3d.github.io/nano/)_: runs in a browser, and connects to Google Drive
 * _[LowRes NX](https://lowresnx.inutilis.com)_: program in the classic BASIC language and create sprites, tile maps, sound and music with the included tools
+* _[quadplay](https://github.com/morgan3d/quadplay)_: create and play games on any laptop, desktop, tablet, or phone. Or, build your own programmable arcade machine from a Raspberry Pi, Tegra, or old computer
 
 ### PixelVision8
 
