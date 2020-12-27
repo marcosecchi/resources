@@ -19,6 +19,7 @@ layout: default
 * _[Customize the Unity Editor with UIElements!](https://www.youtube.com/watch?v=CZ39btQ0XlE)_
 * _[Intro To UIElements](https://www.youtube.com/watch?v=sVEmJ5-dr5E)_ for version 2018.3 - Experimental
 * _[The science behind the UIElements Renderer](https://www.youtube.com/watch?v=zeCdVmfGUN0)_ - Unite Copenhagen
+* _[UIElements, a new UI system for the editor](https://www.youtube.com/watch?v=MNNURw0LeoQ&feature=youtu.be)_ - Unite LA
 
 ### Repositories
 

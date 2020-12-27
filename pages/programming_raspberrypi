@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+## Raspberry PI
+
+### Main
+
+* [Official Website](https://www.raspberrypi.org/)
+* [Official Documentation](https://www.raspberrypi.org/documentation/)
+* [The MagPI](https://magpi.raspberrypi.org/)
+
+### Tools
+
+* [Etcher](https://www.balena.io/etcher/): flash OS images to SD cards & USB drives, safely and easily
+
+### NOOBS
+
+* [Easy retro gaming on a Raspberry Pi with Lakka and NOOBS](https://magpi.raspberrypi.org/articles/easy-retro-gaming-lakka)
+* [Beginner's Guide to NOOBS](https://magpi.raspberrypi.org/articles/beginners-guide-noobs)
+* [How to install NOOBS on a Raspberry Pi](https://magpi.raspberrypi.org/articles/install-noobs-raspberry-pi)
+
+
+### LAKKA
+
+* [Official Website](http://www.lakka.tv/)
+* [The ultimate Raspberry Pi Lakka tutorial](https://raspberrytips.com/lakka-guide-raspberry-pi/)
+
+[back](../)

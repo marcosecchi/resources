@@ -29,6 +29,7 @@ layout: default
 
 * _[Unify Community](http://wiki.unity3d.com/index.php/Main_Page)_
 * _[Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)_
+* _[MathUtilities](https://github.com/zalo/MathUtilities)_ by zalo
 
 ### Version Control
 
@@ -37,7 +38,7 @@ layout: default
 
 ### Audio
 
-* _[AudioKinetic](https://www.audiokinetic.com/)_: interactive sound engine
+* _[AudioKinetic](https://www.audiokinetic.com/)_: Wwise interactive sound engine
 * _[FMOD](https://fmod.com/)_: solution for adaptive audio
 * _[MasterAudio](https://www.dtdevtools.com/docs/masteraudio/TOC.htm)_
 
@@ -47,6 +48,7 @@ layout: default
 
 ### Optimization
 
+* _[Arm Guide for Unity Developers](https://developer.arm.com/solutions/graphics-and-gaming/gaming-engine/unity/arm-guide-for-unity-developers)_
 * _[Unity3D Best Practices](http://www.glenstevens.ca/unity3d-best-practices/)_
 * _[Memory Management in Unity](https://learn.unity.com/tutorial/memory-management-in-unity)_
 * _[Maximizing Your Unity Game's Performance](https://cgcookie.com/2017/04/26/maximizing-your-unity-games-performance/)_
