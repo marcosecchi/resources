@@ -24,6 +24,7 @@ layout: default
 * _[ProBuilder](./pages/unity_probuilder.html)_
 * _[ScriptableObjects](./pages/unity_scriptable-objects.html)_
 * _[UI Elements](./pages/unity_uielements.html)_
+* _[Rendering](./pages/unity_rendering.html)_
 
 #### Unreal Engine
 
