@@ -16,5 +16,4 @@ layout: default
 
 * _[Manual](https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@10.2/manual/index.html)_
 
-
 [back](../)
