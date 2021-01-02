@@ -74,6 +74,10 @@ layout: default
 * _[OpenMPT](https://openmpt.org)_: a music player library for Game Boy
 * _[Milky Tracker](https://milkytracker.titandemo.org/downloads/)_: open source, multi-platform music application for creating .MOD and .XM module files
 
+#### Fonts
+
+* _[Fonts for GB Studio](https://jeremyoduber.itch.io/fonts-for-gb-studio)_ by Jeremy Oduber
+
 #### Emulators
 
 * _[SameBoy](https://sameboy.github.io/)_: a Friendly and Powerful Game Boy Emulator
