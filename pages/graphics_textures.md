@@ -17,7 +17,8 @@ layout: default
 
 #### Skyboxes
 
-* _[CustomMapMakers](http://www.custommapmakers.org/skyboxes.php)_
+* _[Roelz'n Boel](https://reije081.home.xs4all.nl/skyboxes/)_
+* _[Lemuria Skyes](https://www.lemuria.org/Unity/Skyboxes/Skyboxes/Skyboxes_List.html)_
 
 ### Materials
 
