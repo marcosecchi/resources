@@ -13,6 +13,7 @@ layout: default
 ### Tools
 
 * _[Etcher](https://www.balena.io/etcher/)_: flash OS images to SD cards & USB drives, safely and easily
+* _[PI Apps](https://github.com/Botspot/pi-apps)_: distributes over 50 app install scripts that are executed with one click of the mouse
 
 ### NOOBS
 
