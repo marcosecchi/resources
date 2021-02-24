@@ -30,6 +30,7 @@ layout: default
 ### Level Editors
 
 * _[Ogmo](https://ogmo-editor-3.github.io/)_: open source, project oriented level editor
+* _[LDtk](https://ldtk.io/)_: An open-source 2D level
 
 ### Palettes
 
