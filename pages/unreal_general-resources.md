@@ -22,10 +22,12 @@ layout: default
 ### Plugins
 
 * _[UE4 Plugins on GitHub](https://github.com/ue4plugins)_
+* _[UE4GitPlugin](https://srombauts.github.io/UE4GitPlugin/)_: simple Git Source Control Plugin for Unreal Engine
 
 #### Online Tools
 
 * _[BlueprintUE](https://blueprintue.com/)_: pastebin for Blueprints
+* _[Unreal Bucket](https://unrealbucket.com/)_: library with high quality native Unreal Engine assets
 
 ### Level Design
 
