@@ -67,7 +67,7 @@ layout: default
 * _[The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)_: a talk by Jan Willem Nijman
 * _[How to design with feedback and game feel in mind - Unite Copenhagen](https://www.youtube.com/watch?v=yCKI9T3sSv0)_: a talk by Renaud Forestie
 * _[Best Practices for fast game design in Unity - Unite LA](https://www.youtube.com/watch?v=NU29QKag8a0)_: a talk by Renaud Forestie
-* _[I segreti del Game Feel e del Juice | Game Maker's Toolkit](https://www.youtube.com/watch?v=216_5nu4aVQ&feature=share)_
+* _[I segreti del Game Feel e del Juice - Game Maker's Toolkit](https://www.youtube.com/watch?v=216_5nu4aVQ&feature=share)_
 
 #### Prototyping
 
