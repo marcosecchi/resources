@@ -57,6 +57,7 @@ layout: default
 * _[GameBoy Style Dark Forest Tileset](https://cluly.itch.io/gameboy-style-dark-forest-tileset)_ by Cluly
 * _[Gameboys](https://kicked-in-teeth.itch.io/gameboy-items)_ by Kicked-In-Teeth
 * _[GB RPG Series](https://itch.io/c/605611/gb-rpg-series)_ by chasergaming
+* _[Monochrome RPG](https://kenney.nl/assets/monochrome-rpg)_ by Kenney
 
 ### Tools
 
