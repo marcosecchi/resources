@@ -10,6 +10,7 @@ layout: default
 * _[GitHub](https://github.com/chrismaltby/gb-studio)_
 * _[Video Trailer](https://www.youtube.com/watch?v=9k3RPaziVcw)_
 * _[GBStudio Central](https://gbstudiocentral.com/)_
+* _[GB Dev](https://gbdev.io/)_
 
 ### Tech Reference
 
