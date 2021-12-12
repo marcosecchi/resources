@@ -21,6 +21,7 @@ layout: default
 
 * _[WFC Explained](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)_
 * _[WFC Tips and Tricks](https://www.boristhebrave.com/2020/02/08/wave-function-collapse-tips-and-tricks/)_
+* _[Generating Worlds with WFC](https://www.procjam.com/tutorials/wfc/)_
 
 ### Videos
 
