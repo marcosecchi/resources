@@ -18,6 +18,11 @@ layout: default
 
 #### Libraries
 
-* [Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse) by Maxim Gumin
+* _[Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)_ by Maxim Gumin
+* _[De Broglie](https://github.com/BorisTheBrave/DeBroglie)_ by BorisTheBrave: C# library implementing the Wave Function Collapse algorithm
+
+### Demos
+
+* _[Wave](https://oskarstalberg.com/game/wave/wave.html)_ by Oskar Stålberg
 
 [back](../)
