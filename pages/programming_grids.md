@@ -24,5 +24,6 @@ layout: default
 ### Demos
 
 * _[Wave](https://oskarstalberg.com/game/wave/wave.html)_ by Oskar Stålberg
+* _[Polygonal Planet](https://oskarstalberg.com/game/planet/planet.html)_ by Oskar Stålberg
 
 [back](../)
