@@ -23,6 +23,12 @@ layout: default
 * _[WFC Tips and Tricks](https://www.boristhebrave.com/2020/02/08/wave-function-collapse-tips-and-tricks/)_
 * _[Generating Worlds with WFC](https://www.procjam.com/tutorials/wfc/)_
 
+#### Map Generation
+
+* _[End-to-End Procedural Generation in Caves of Qod](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)]_ - GDC 2019
+* _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)]_ - GDC 2019
+* _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)]_
+
 ### Videos
 
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021

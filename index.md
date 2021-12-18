@@ -60,7 +60,7 @@ layout: default
 * _[Git](./pages/programming_git.html)_
 * _[Creative Coding](./pages/programming_creative-coding.html)_
 * _[C++](./pages/gamedev_cpp.html)_
-* _[Grid systems](./pages/programming_grids.html)_
+* _[Map Generation](./pages/programming_map_generation.html)_
 * _[Raspberry PI](./pages/programming_raspberrypi.html)_
 
 ### Graphics
