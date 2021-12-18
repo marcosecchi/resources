@@ -31,6 +31,7 @@ layout: default
 ### Libraries
 
 * _[Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)_ by Maxim Gumin
+* _[Unity Wave Function Collapse](https://selfsame.itch.io/unitywfc)_ by selfsame
 * _[De Broglie](https://github.com/BorisTheBrave/DeBroglie)_ by BorisTheBrave: C# library implementing the Wave Function Collapse algorithm
 
 ### Demos
