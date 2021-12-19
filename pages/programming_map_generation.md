@@ -29,6 +29,11 @@ layout: default
 * _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)]_ - GDC 2019
 * _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)]_
 
+#### Marching Squares
+
+*[Wikipedia PAge](https://en.wikipedia.org/wiki/Marching_squares)
+*[Marching Squares](https://www.huderlem.com/demos/marchingsquares.html) by Marcus Huderle
+
 ### Videos
 
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
