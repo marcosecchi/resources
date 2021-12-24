@@ -25,13 +25,13 @@ layout: default
 
 #### Map Generation
 
-* _[End-to-End Procedural Generation in Caves of Qod](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)]_ - GDC 2019
-* _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)]_ - GDC 2019
-* _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)]_
+* _[End-to-End Procedural Generation in Caves of Qod](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)_ - GDC 2019
+* _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)_ - GDC 2019
+* _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)_
 
 #### Marching Squares
 
-*[Wikipedia PAge](https://en.wikipedia.org/wiki/Marching_squares)
+*[Wikipedia Page](https://en.wikipedia.org/wiki/Marching_squares)
 *[Marching Squares](https://www.huderlem.com/demos/marchingsquares.html) by Marcus Huderle
 
 ### Videos
