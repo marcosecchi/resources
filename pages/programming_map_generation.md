@@ -34,6 +34,13 @@ layout: default
 * [Wikipedia Page](https://en.wikipedia.org/wiki/Marching_squares)
 * [Marching Squares](https://www.huderlem.com/demos/marchingsquares.html) by Marcus Huderle
 
+#### Voronoi Diagram
+
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Voronoi_diagram)
+* [Fortune's Algorithm](https://en.wikipedia.org/wiki/Fortune's_algorithm)
+* [Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)
+* [Delaunay Triangulation - Height Interpolation](cs.uu.nl/geobook/interpolation.pdf)
+
 ### Videos
 
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
@@ -44,6 +51,7 @@ layout: default
 * _[Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)_ by Maxim Gumin
 * _[Unity Wave Function Collapse](https://selfsame.itch.io/unitywfc)_ by selfsame
 * _[De Broglie](https://github.com/BorisTheBrave/DeBroglie)_ by BorisTheBrave: C# library implementing the Wave Function Collapse algorithm
+* _[Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi)_ by Scrawk: Hull, Delaunay and Voronoi algorithms in Unity
 
 ### Demos
 
