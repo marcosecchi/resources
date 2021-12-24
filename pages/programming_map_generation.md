@@ -31,8 +31,8 @@ layout: default
 
 #### Marching Squares
 
-*[Wikipedia Page](https://en.wikipedia.org/wiki/Marching_squares)
-*[Marching Squares](https://www.huderlem.com/demos/marchingsquares.html) by Marcus Huderle
+* [Wikipedia Page](https://en.wikipedia.org/wiki/Marching_squares)
+* [Marching Squares](https://www.huderlem.com/demos/marchingsquares.html) by Marcus Huderle
 
 ### Videos
 
