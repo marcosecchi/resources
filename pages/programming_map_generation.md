@@ -33,6 +33,7 @@ layout: default
 ### Voronoi Diagram
 
 * _[Wikipedia - Voronoi Diagram](https://en.wikipedia.org/wiki/Voronoi_diagram)_
+* _[Wikipedia - Weighted Voronoi Diagram](https://en.wikipedia.org/wiki/Weighted_Voronoi_diagram)_
 * _[Delaunay Triangulation - Height Interpolation](cs.uu.nl/geobook/interpolation.pdf)_
 * _[Alternatives to Voronoi Diagrams](https://www.redblobgames.com/x/1721-voronoi-alternative/)_
 * _[Wikipedia - Lloyd's algorithm](https://en.wikipedia.org/wiki/Lloyd's_algorithm)_
@@ -51,6 +52,7 @@ layout: default
 * _[Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)_
 * _[Wikipedia- Euclidean Tilings by Convex Regular Polygons](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)_
 * _[Triangle Grids](https://www.boristhebrave.com/2021/05/23/triangle-grids/)_
+* _[Grids in Games](http://www.zarkonnen.com/grids_in_games)_
 
 ## Videos
 
