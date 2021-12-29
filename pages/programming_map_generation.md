@@ -11,7 +11,7 @@ layout: default
 
 ### Constraint Programming
 
-* _[Wikipedia Pages](https://en.wikipedia.org/wiki/Constraint_programming)_
+* _[Wikipedia - Constraint Programming](https://en.wikipedia.org/wiki/Constraint_programming)_
 
 ### Wave Function Collapse
 
@@ -27,18 +27,24 @@ layout: default
 
 ### Marching Squares
 
-* _[Wikipedia Page](https://en.wikipedia.org/wiki/Marching_squares)_
+* _[Wikipedia - Marching Squares](https://en.wikipedia.org/wiki/Marching_squares)_
 * _[Marching Squares](https://www.huderlem.com/demos/marchingsquares.html)_ by Marcus Huderle
 
 ### Voronoi Diagram
 
-* _[Wikipedia Page](https://en.wikipedia.org/wiki/Voronoi_diagram)_
+* _[Wikipedia - Voronoi Diagram](https://en.wikipedia.org/wiki/Voronoi_diagram)_
 * _[Delaunay Triangulation - Height Interpolation](cs.uu.nl/geobook/interpolation.pdf)_
 * _[Alternatives to Voronoi Diagrams](https://www.redblobgames.com/x/1721-voronoi-alternative/)_
-* _[Lloyd's algorithm](https://en.wikipedia.org/wiki/Lloyd's_algorithm)_
-* _[Centroid](https://en.wikipedia.org/wiki/Centroid#Centroid_of_polygon)_
-* _[Fortune's Algorithm](https://en.wikipedia.org/wiki/Fortune's_algorithm)_
-* _[Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)_
+* _[Wikipedia - Lloyd's algorithm](https://en.wikipedia.org/wiki/Lloyd's_algorithm)_
+* _[Wikipedia - Centroid](https://en.wikipedia.org/wiki/Centroid#Centroid_of_polygon)_
+* _[Wikipedia - Fortune's Algorithm](https://en.wikipedia.org/wiki/Fortune's_algorithm)_
+* _[Wikipedia - Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)_
+* _[Wikipedia - Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)_
+
+### Grid System
+
+* _[Grid Parts and Relationships](https://www.redblobgames.com/grids/parts/)_
+* _[Wikipedia- Euclidean Tilings by Convex Regular Polygons](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)_
 
 ## Videos
 
