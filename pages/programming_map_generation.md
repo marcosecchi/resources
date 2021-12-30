@@ -44,15 +44,20 @@ layout: default
 
 ### Grid System
 
-* _[Grid Parts and Relationships](https://www.redblobgames.com/grids/parts/)_
 * _[Grid Index](http://gamelogic.co.za/grids/documentation-contents/quick-start-tutorial/grid-index/)_ by GameLogic
-* _[Grid Edges](https://www.redblobgames.com/grids/edges/)_
-* _[Line Drawing on a Grid](https://www.redblobgames.com/grids/line-drawing.html)_
-* _[Circle Fill on a Grid](https://www.redblobgames.com/grids/circle-drawing/)_
-* _[Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)_
 * _[Wikipedia- Euclidean Tilings by Convex Regular Polygons](https://en.wikipedia.org/wiki/Euclidean_tilings_by_convex_regular_polygons)_
 * _[Triangle Grids](https://www.boristhebrave.com/2021/05/23/triangle-grids/)_
 * _[Grids in Games](http://www.zarkonnen.com/grids_in_games)_
+
+#### Articles from RedBlobGames
+
+* _[Grid Parts and Relationships](https://www.redblobgames.com/grids/parts/)_
+* _[Grid Edges](https://www.redblobgames.com/grids/edges/)_
+* _[Grids and Graphs](https://www.redblobgames.com/pathfinding/grids/graphs.html)_
+* _[Map Representations](https://theory.stanford.edu/~amitp/GameProgramming/MapRepresentations.html)_
+* _[Line Drawing on a Grid](https://www.redblobgames.com/grids/line-drawing.html)_
+* _[Circle Fill on a Grid](https://www.redblobgames.com/grids/circle-drawing/)_
+* _[Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)_
 
 ## Videos
 
