@@ -36,11 +36,17 @@ layout: default
 * _[Wikipedia - Weighted Voronoi Diagram](https://en.wikipedia.org/wiki/Weighted_Voronoi_diagram)_
 * _[Delaunay Triangulation - Height Interpolation](cs.uu.nl/geobook/interpolation.pdf)_
 * _[Alternatives to Voronoi Diagrams](https://www.redblobgames.com/x/1721-voronoi-alternative/)_
+* _[Fortune’s Algorithm and Implementation](http://blog.ivank.net/fortunes-algorithm-and-implementation.html)_
 * _[Wikipedia - Lloyd's algorithm](https://en.wikipedia.org/wiki/Lloyd's_algorithm)_
 * _[Wikipedia - Centroid](https://en.wikipedia.org/wiki/Centroid#Centroid_of_polygon)_
 * _[Wikipedia - Fortune's Algorithm](https://en.wikipedia.org/wiki/Fortune's_algorithm)_
 * _[Wikipedia - Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)_
+
+### Graph Theory
+
 * _[Wikipedia - Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)_
+* _[Wikipedia - Planar Graph](https://en.wikipedia.org/wiki/Planar_graph)_
+* _[Wikipedia - Dual Graph](https://en.wikipedia.org/wiki/Dual_graph)_
 
 ### Grid System
 
@@ -63,6 +69,7 @@ layout: default
 
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
 * _[Godot - Procedural Terrain on Irregular Grid. Coding Adventure. Devlog.](https://www.youtube.com/watch?v=Jm3pLya3d9c)_
+* _[Awesome Grid Building System! (City Builder, RTS, Factorio, Survival)](https://unitycodemonkey.com/video.php?v=dulosHPl82A)_
 
 ## Libraries
 
@@ -70,6 +77,7 @@ layout: default
 * _[Unity Wave Function Collapse](https://selfsame.itch.io/unitywfc)_ by selfsame
 * _[De Broglie](https://github.com/BorisTheBrave/DeBroglie)_ by BorisTheBrave: C# library implementing the Wave Function Collapse algorithm
 * _[Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi)_ by Scrawk: Hull, Delaunay and Voronoi algorithms in Unity
+* _[VoronoiLib](https://github.com/Zalgo2462/VoronoiLib)_ by Zalgo2462: C# implementation of Fortune's Algorithm
 
 ## Demos
 
