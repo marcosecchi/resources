@@ -24,6 +24,7 @@ layout: default
 * _[End-to-End Procedural Generation in Caves of Qod](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)_ - GDC 2019
 * _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)_ - GDC 2019
 * _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)_
+* _[Classification of Tilesets](https://www.boristhebrave.com/2021/11/14/classification-of-tilesets/)_
 
 ### Marching Squares
 
@@ -67,7 +68,10 @@ layout: default
 
 ## Videos
 
+* _[Oskar Stålberg - Wave Function Collapse in Bad North](https://www.youtube.com/watch?v=0bcZb-SsnrA)_: EPC 2018
+* _[Oskar Stålberg - Organic Towns from Square Tiles](https://www.youtube.com/watch?v=1hqt8JkYRdI)_: Indiecade Europe 2019
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
+* _[Maxim Gumin - Procedural Generation from a Single Example with WaveFunctionCollapse](https://www.youtube.com/watch?v=DOQTr2Xmlz0)_
 * _[Godot - Procedural Terrain on Irregular Grid. Coding Adventure. Devlog.](https://www.youtube.com/watch?v=Jm3pLya3d9c)_
 * _[Awesome Grid Building System! (City Builder, RTS, Factorio, Survival)](https://unitycodemonkey.com/video.php?v=dulosHPl82A)_
 
