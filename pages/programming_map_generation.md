@@ -12,6 +12,8 @@ layout: default
 ### Constraint Programming
 
 * _[Wikipedia - Constraint Programming](https://en.wikipedia.org/wiki/Constraint_programming)_
+* _[Association for Constraint Programming](https://www.a4cp.org/)_
+* _[Constraint Programming](http://kti.ms.mff.cuni.cz/~bartak/constraints/index.html)_ by Roman Barták
 
 ### Wave Function Collapse
 
@@ -73,13 +75,15 @@ layout: default
 * _[Oskar Stålberg - Organic Towns from Square Tiles](https://www.youtube.com/watch?v=1hqt8JkYRdI)_: Indiecade Europe 2019
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
 * _[Maxim Gumin - Procedural Generation from a Single Example with WaveFunctionCollapse](https://www.youtube.com/watch?v=DOQTr2Xmlz0)_
+* _[Brian Bucklew - Dungeon Generation via Wave Function Collapse](https://www.youtube.com/watch?v=fnFj3dOKcIQ)_
+* _[Brian Bucklew - Math for Game Developers Tile Based Map Generation using Wave Function Collapse](https://www.youtube.com/watch?v=t1O0_yHe-6Y)_: GDC 2019
 * _[Godot - Procedural Terrain on Irregular Grid. Coding Adventure. Devlog.](https://www.youtube.com/watch?v=Jm3pLya3d9c)_
 * _[Awesome Grid Building System! (City Builder, RTS, Factorio, Survival)](https://unitycodemonkey.com/video.php?v=dulosHPl82A)_
 
 ## Libraries
 
 * _[Wave Function Collapse](https://github.com/mxgmn/WaveFunctionCollapse)_ by Maxim Gumin
-* _[Unity Wave Function Collapse](https://selfsame.itch.io/unitywfc)_ by selfsame
+* _[Unity Wave Function Collapse](https://selfsame.itch.io/unitywfc)_/[GitHub Repo](https://github.com/selfsame/unity-wave-function-collapse/) by selfsame
 * _[De Broglie](https://github.com/BorisTheBrave/DeBroglie)_ by BorisTheBrave: C# library implementing the Wave Function Collapse algorithm
 * _[Hull-Delaunay-Voronoi](https://github.com/Scrawk/Hull-Delaunay-Voronoi)_ by Scrawk: Hull, Delaunay and Voronoi algorithms in Unity
 * _[VoronoiLib](https://github.com/Zalgo2462/VoronoiLib)_ by Zalgo2462: C# implementation of Fortune's Algorithm
