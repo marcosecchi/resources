@@ -59,7 +59,12 @@ layout: default
 * _[Triangle Grids](https://www.boristhebrave.com/2021/05/23/triangle-grids/)_
 * _[Grids in Games](http://www.zarkonnen.com/grids_in_games)_
 
-#### Articles from RedBlobGames
+### Articles
+
+* _[Infinite Procedurally Generated City with the Wave Function Collapse Algorithm](https://marian42.de/article/wfc/)_ by Marian42
+* _[The Wave Function Collapse Algorithm Explained Very Clearly](https://robertheaton.com/2018/12/17/wavefunction-collapse-algorithm/)_ by Robert Heaton
+
+#### RedBlobGames
 
 * _[Grid Parts and Relationships](https://www.redblobgames.com/grids/parts/)_
 * _[Grid Edges](https://www.redblobgames.com/grids/edges/)_
@@ -79,9 +84,9 @@ layout: default
 * _[Brian Bucklew - Dungeon Generation via Wave Function Collapse](https://www.youtube.com/watch?v=fnFj3dOKcIQ)_
 * _[Brian Bucklew - Math for Game Developers Tile Based Map Generation using Wave Function Collapse](https://www.youtube.com/watch?v=t1O0_yHe-6Y)_: GDC 2019
 * _[Pronay Peddiraju - Markov Chain based Wave Function Collapse)](https://www.youtube.com/watch?v=0W7yCuwlrbU)_
+* _[Martin Donald - Superpositions, Sudoku, the Wave Function Collapse algorithm)](https://www.youtube.com/watch?v=2SuvO4Gi7uY)_
 * _[Godot - Procedural Terrain on Irregular Grid. Coding Adventure. Devlog.](https://www.youtube.com/watch?v=Jm3pLya3d9c)_
 * _[Awesome Grid Building System! (City Builder, RTS, Factorio, Survival)](https://unitycodemonkey.com/video.php?v=dulosHPl82A)_
-* _[Superpositions, Sudoku, the Wave Function Collapse algorithm)](https://www.youtube.com/watch?v=2SuvO4Gi7uY)_
 
 ## Libraries
 
@@ -95,5 +100,7 @@ layout: default
 
 * _[Wave](https://oskarstalberg.com/game/wave/wave.html)_ by Oskar Stålberg
 * _[Polygonal Planet](https://oskarstalberg.com/game/planet/planet.html)_ by Oskar Stålberg
+* _[Wave Function Collapse](https://bolddunkley.itch.io/wave-function-collapse)_ by Martin Donald
+* _[Wave Function Collapse Mixed](https://bolddunkley.itch.io/wfc-mixed)_ by Martin Donald
 
 [back](../)
