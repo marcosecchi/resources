@@ -69,6 +69,7 @@ layout: default
 ## Videos
 
 * _[Oskar Stålberg - Wave Function Collapse in Bad North](https://www.youtube.com/watch?v=0bcZb-SsnrA)_: EPC 2018
+* _[Oskar Stålberg - Developing The Bad North Look](https://www.youtube.com/watch?v=6JcFbivo8dQ)_: Konsoll 2018
 * _[Oskar Stålberg - Organic Towns from Square Tiles](https://www.youtube.com/watch?v=1hqt8JkYRdI)_: Indiecade Europe 2019
 * _[Oskar Stålberg - Beyond Townscapers](https://www.youtube.com/watch?v=Uxeo9c-PX-w)_: SGC 2021
 * _[Maxim Gumin - Procedural Generation from a Single Example with WaveFunctionCollapse](https://www.youtube.com/watch?v=DOQTr2Xmlz0)_
