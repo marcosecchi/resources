@@ -20,6 +20,7 @@ layout: default
 * _[WFC Explained](https://www.boristhebrave.com/2020/04/13/wave-function-collapse-explained/)_
 * _[WFC Tips and Tricks](https://www.boristhebrave.com/2020/02/08/wave-function-collapse-tips-and-tricks/)_
 * _[Generating Worlds with WFC](https://www.procjam.com/tutorials/wfc/)_
+* _[WaveFunctionCollapse is Constraint Solving in the Wild](https://isaackarth.com/papers/wfc_is_constraint_solving_in_the_wild/)_ by Isaack Arth
 
 ### Map Generation
 
@@ -77,8 +78,10 @@ layout: default
 * _[Maxim Gumin - Procedural Generation from a Single Example with WaveFunctionCollapse](https://www.youtube.com/watch?v=DOQTr2Xmlz0)_
 * _[Brian Bucklew - Dungeon Generation via Wave Function Collapse](https://www.youtube.com/watch?v=fnFj3dOKcIQ)_
 * _[Brian Bucklew - Math for Game Developers Tile Based Map Generation using Wave Function Collapse](https://www.youtube.com/watch?v=t1O0_yHe-6Y)_: GDC 2019
+* _[Pronay Peddiraju - Markov Chain based Wave Function Collapse)](https://www.youtube.com/watch?v=0W7yCuwlrbU)_
 * _[Godot - Procedural Terrain on Irregular Grid. Coding Adventure. Devlog.](https://www.youtube.com/watch?v=Jm3pLya3d9c)_
 * _[Awesome Grid Building System! (City Builder, RTS, Factorio, Survival)](https://unitycodemonkey.com/video.php?v=dulosHPl82A)_
+* _[Superpositions, Sudoku, the Wave Function Collapse algorithm)](https://www.youtube.com/watch?v=2SuvO4Gi7uY)_
 
 ## Libraries
 
