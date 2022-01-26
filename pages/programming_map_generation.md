@@ -46,6 +46,10 @@ layout: default
 * _[Wikipedia - Fortune's Algorithm](https://en.wikipedia.org/wiki/Fortune's_algorithm)_
 * _[Wikipedia - Delaunay Triangulation](https://en.wikipedia.org/wiki/Delaunay_triangulation)_
 
+### Wang Tiles
+
+* _[Wang Tiles](http://cr31.co.uk/stagecast/wang/intro.html)_ by cr31
+
 ### Graph Theory
 
 * _[Wikipedia - Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)_
