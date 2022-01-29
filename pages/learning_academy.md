@@ -35,14 +35,6 @@ layout: default
 * _[A Study Path for Game Programmer](https://github.com/miloyip/game-programmer)_
 * _[SonarLearning](https://sonarlearning.co.uk/topicpage.php?topic=game)_
 
-#### Math
-
-* _[BetterExplained](https://betterexplained.com/)_
-* _[Wikipedia: Portale Matematica](https://it.wikipedia.org/wiki/Portale:Matematica)_
-* _[Wolfram MAthWorld](http://mathworld.wolfram.com/)_
-* _[The Magnificent 2D Matrix](http://ncase.me/matrix/)_
-* _[Matematicamente](https://www.matematicamente.it/)_
-
 #### Teaching and Mentoring
 
 * _[Skillshare](https://www.skillshare.com/)_
