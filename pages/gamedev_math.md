@@ -9,3 +9,7 @@ layout: default
 * _[Wolfram MathWorld](http://mathworld.wolfram.com/)_
 * _[The Magnificent 2D Matrix](http://ncase.me/matrix/)_
 * _[Matematicamente](https://www.matematicamente.it/)_
+
+## ALgorithm & Techniques
+
+* _[Creative coding algorithms & techniques](https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)_ by Taru Muhonen &Raphaël de Courville
