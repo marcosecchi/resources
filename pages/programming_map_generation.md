@@ -50,6 +50,13 @@ layout: default
 
 * _[Wang Tiles](http://cr31.co.uk/stagecast/wang/intro.html)_ by cr31
 
+### BSP - Binary Space Partitioning
+
+* _[Wikipedia - Binary Space Partitioning](https://en.wikipedia.org/wiki/Binary_space_partitioning)_
+* _[BSP Trees in Data Structure](https://www.tutorialspoint.com/bsp-trees-in-data-structure)_
+* _[Basic BSP Dungeon generation](http://www.roguebasin.com/index.php?title=Basic_BSP_Dungeon_generation)_ by RogueBasin
+* _[UE4: What is BSP and When Should You Use It?](https://worldofleveldesign.com/categories/ue4/bsp-01-what-is-bsp.php)_ by World of Level Design
+
 ### Graph Theory
 
 * _[Wikipedia - Graph Theory](https://en.wikipedia.org/wiki/Graph_theory)_
