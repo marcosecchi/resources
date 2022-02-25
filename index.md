@@ -87,6 +87,7 @@ layout: default
 ### Learning
 
 * _[Academy](./pages/learning_academy.html)_
+* _[Search Engines](./pages/learning_search-engines.html)_
 
 ### Other
 
