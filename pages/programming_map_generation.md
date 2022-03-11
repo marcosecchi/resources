@@ -24,8 +24,8 @@ layout: default
 
 ### Map Generation
 
-* _[End-to-End Procedural Generation in Caves of Qod](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)_ - GDC 2019
-* _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qod](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)_ - GDC 2019
+* _[End-to-End Procedural Generation in Caves of Qud](https://www.gdcvault.com/play/1026313/Math-for-Game-Developers-End)_ - GDC 2019
+* _[Tile-Based Map Generation Using WaveFunctionCollapse in Caves of Qud](https://www.gdcvault.com/play/1026263/Math-for-Game-Developers-Tile)_ - GDC 2019
 * _[Polygonal Map Generation](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)_
 * _[Classification of Tilesets](https://www.boristhebrave.com/2021/11/14/classification-of-tilesets/)_
 
