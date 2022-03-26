@@ -31,6 +31,7 @@ layout: default
 #### Unreal Engine
 
 * _[General Resources](./pages/unreal_general-resources.html)_
+* _[CI](./pages/unreal_ci.html)_
 
 #### Storytelling
 
