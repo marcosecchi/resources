@@ -9,6 +9,9 @@ layout: default
 * _[Wolfram MathWorld](http://mathworld.wolfram.com/)_
 * _[The Magnificent 2D Matrix](http://ncase.me/matrix/)_
 * _[Matematicamente](https://www.matematicamente.it/)_
+* _[Inigo Quilez Website](https://iquilezles.org/)_
+* _[Visualizing Quaternions](https://eater.net/quaternions)_
+* _[Scratch that pixel](https://www.scratchapixel.com/)_
 
 ## ALgorithm & Techniques
 
