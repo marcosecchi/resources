@@ -12,6 +12,7 @@ layout: default
 * _[Inigo Quilez Website](https://iquilezles.org/)_
 * _[Visualizing Quaternions](https://eater.net/quaternions)_
 * _[Scratch that pixel](https://www.scratchapixel.com/)_
+* _[Immersive Linear Algebra](http://immersivemath.com/)_
 
 ## ALgorithm & Techniques
 
