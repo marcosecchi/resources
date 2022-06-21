@@ -19,7 +19,6 @@ layout: default
 #### Reference
 
 * _[Game FAQs](https://gamefaqs.gamespot.com/)_
-* _[The Top 50 Best-Selling VideoGames of All Time](https://www.hp.com/us-en/shop/tech-takes/top-50-best-selling-video-games-all-time)_ (Thanks to Isaac Bass for the heads up!)
 
 #### Articles
 
@@ -80,6 +79,7 @@ layout: default
 
 ### Stats
 
+* _[The Top 50 Best-Selling VideoGames of All Time](https://www.hp.com/us-en/shop/tech-takes/top-50-best-selling-video-games-all-time)_ (Thanks to Isaac Bass for the heads up!)
 * _[SteamDB](https://steamdb.info/)_
 * _[SteamSpy](https://steamspy.com/)_
 * _[Game Marketing CheatSheet](http://gamedevelopertips.com/game-marketing-cheat-sheet/)_
