@@ -6,6 +6,8 @@ layout: default
 
 ### Main
 
+* _[Jordan Stevens Blog](https://www.jordanstevenstechart.com/blog-1)_
+
 ### Repositories
 
 * _[3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)_
