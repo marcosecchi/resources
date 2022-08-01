@@ -7,6 +7,10 @@ layout: default
 ### Tools
 
 * _[Materialize](http://www.boundingboxsoftware.com/materialize/index.php)_
+* _[ArmorPaint](https://armorpaint.org/)_
+* _[Quixel Mixer](https://quixel.com/mixer)_
+* _[Substance](https://www.adobe.com/products/substance3d-painter.html)_
+* _[Material Maker](https://rodzilla.itch.io/material-maker)_
 
 ### Textures
 

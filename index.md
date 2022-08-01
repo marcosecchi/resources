@@ -67,6 +67,7 @@ layout: default
 
 ### Graphics
 
+* _[Quixel Mixer](./pages/graphics_quixel-mixer.html)_
 * _[Pixel Art](./pages/graphics_pixel-art.html)_
 * _[Sprite Editors](./pages/graphics_sprite-editors.html)_
 * _[3D Tools](./pages/graphics_3d-tools.html)_
@@ -75,7 +76,6 @@ layout: default
 #### Voxels
 
 * _[Voxels](./pages/graphics_voxels_general-resources.html)_
-* _[MagicaVoxel](./pages/graphics_voxels_magicavoxel.html)_
 * _[Voxatron](./pages/graphics_voxels_voxatron.html)_
 
 ### Web Dev
