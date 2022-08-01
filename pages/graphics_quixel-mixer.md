@@ -23,5 +23,6 @@ layout: default
 
 * _[Material ID](https://www.youtube.com/watch?v=7CqsGImwFHk)_ by raven67854
 * _[Intro to Mixer](https://evansart.artstation.com/projects/2xgv9Y?album_id=915999)_ by Christopher Evans
+* _[Stylized Environment Texturing in Mixer](https://www.youtube.com/watch?v=kg4YFS6b0ek)_ by Jack McKelvie
 
 [back](../)
