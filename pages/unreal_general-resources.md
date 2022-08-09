@@ -8,7 +8,7 @@ layout: default
 
 * _[Official Instructor Guides](https://www.unrealengine.com/en-US/educators/resources)_
 * _[Official Online Learning](https://www.unrealengine.com/en-US/onlinelearning-courses)_
-* _[UE4 Style Guide](https://github.com/Allar/ue4-style-guide)_ by Michael Allar
+* _[Unreal Engine Community Wiki](https://unrealcommunity.wiki/)_
 * _[UE4 Beginner's Quick Start Guide](https://www.worldofleveldesign.com/store/free-guides/ue4-beginners-crash-course-guide.php)_ by Alex Galuzin
 * _[Unreal Engine 4 Console Variables and Commands](https://consolehelp.imzlp.me/)_
 
