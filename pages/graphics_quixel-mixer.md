@@ -15,6 +15,7 @@ layout: default
 * _[Quixel Mixer Workflow and Applying Megascans in a Virtual World](https://www.youtube.com/watch?v=2C70BkLMDFQ)_ Unreal Fest Online 2020
 * _[The First. Quixel Mixer tutorial](https://www.youtube.com/watch?v=4RO376gp9js)_ by Christopher Evans
 * _[Quixel Mixer - Making a Tiling texture with a single alpha + scans](https://www.youtube.com/watch?v=7Pb0uDnvemE)_ by Christopher Evans
+* _[Designer to Mixer Overview](https://www.youtube.com/watch?v=fy5gBeoR7b8)_ by Christopher Evans
 
 #### Streams
 
