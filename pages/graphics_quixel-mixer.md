@@ -13,6 +13,8 @@ layout: default
 * _[Mixer Fundamentals](https://www.youtube.com/watch?v=sx_NP7-qMPY&list=PL5uQePynMSiIBiK4K4LWrKLZKecoUbCVW)_
 * _[Mixer Tutorials](https://www.youtube.com/watch?v=wZ-iiYFBZxk&list=PL5uQePynMSiJrymVHla6-JOHqV-aPIS83)_
 * _[Quixel Mixer Workflow and Applying Megascans in a Virtual World](https://www.youtube.com/watch?v=2C70BkLMDFQ)_ Unreal Fest Online 2020
+* _[The First. Quixel Mixer tutorial](https://www.youtube.com/watch?v=4RO376gp9js)_ by Christopher Evans
+* _[Quixel Mixer - Making a Tiling texture with a single alpha + scans](https://www.youtube.com/watch?v=7Pb0uDnvemE)_ by Christopher Evans
 
 #### Streams
 
