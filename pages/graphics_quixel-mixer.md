@@ -39,6 +39,7 @@ layout: default
 
 * _[Texturing with Quixel Mixer 2021](https://www.youtube.com/watch?v=v_uycRcLU9w)_ with Juan Paulo Mardónez
 * _[Creating Patterns in Mixer](https://www.youtube.com/watch?v=psYSC6kUchg)_ with Christopher Evans
+* _[Quixel Bridge, Mixer, and Megascans for Education](https://www.twitch.tv/videos/608219528)_
 
 #### Tutorials
 
