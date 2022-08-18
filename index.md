@@ -14,7 +14,6 @@ layout: default
 * _[Game Design](./pages/gamedesign_general-resources.html)_
 * _[Level Design](./pages/gamedesign_level-design.html)_
 * _[Generativity](./pages/gamedesign_generativity.html)_
-* _[2D Animation](./pages/graphics_animation.html)_
 
 #### Unity
 
