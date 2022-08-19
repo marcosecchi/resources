@@ -34,6 +34,7 @@ layout: default
 * _[The First. Quixel Mixer tutorial](https://www.youtube.com/watch?v=4RO376gp9js)_ by Christopher Evans
 * _[Quixel Mixer - Making a Tiling texture with a single alpha + scans](https://www.youtube.com/watch?v=7Pb0uDnvemE)_ by Christopher Evans
 * _[Designer to Mixer Overview](https://www.youtube.com/watch?v=fy5gBeoR7b8)_ by Christopher Evans
+* _[Mixer for Beginners](https://www.youtube.com/playlist?list=PL-9J73Ce8dmHMNJt6lJRt3hvN6fdrFllY)_ by MrTriPie
 
 #### Streams
 
