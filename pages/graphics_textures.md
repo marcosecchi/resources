@@ -14,6 +14,7 @@ layout: default
 
 ### Textures
 
+* _[Pexels](https://www.pexels.com/)_
 * _[Textures.com](https://www.textures.com/)_
 * _[Texture Heaven](https://texturehaven.com/)_
 * _[TextureGen](http://www.texturegen.com/)_
