@@ -36,6 +36,7 @@ layout: default
 * _[Designer to Mixer Overview](https://www.youtube.com/watch?v=fy5gBeoR7b8)_ by Christopher Evans
 * _[Mixer for Beginners](https://www.youtube.com/playlist?list=PL-9J73Ce8dmHMNJt6lJRt3hvN6fdrFllY)_ by MrTriPie
 * _[Intro to Quixel Mixer](https://www.youtube.com/playlist?list=PL-T0P8fE0hYrd4V4ctqJECMyHKCOhGC4y)_ by Tyler Puryear
+* _[How to Make a Road PBR Material](https://www.youtube.com/watch?v=S7fJdIKaj2g)_ by Nuno Silva
 
 #### Streams
 
