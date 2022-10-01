@@ -30,6 +30,7 @@ layout: default
 #### Unreal Engine
 
 * _[General Resources](./pages/unreal_general-resources.html)_
+* _[Procedural Meshes](./pages/unreal_proc-mesh.html)_
 * _[Containers](./pages/unreal_containers.html)_
 
 #### Storytelling
