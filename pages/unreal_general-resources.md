@@ -19,6 +19,10 @@ layout: default
 * _[Romero Blueprints++](https://romeroblueprints.blogspot.com/)_: by Marcos Romero
 * _BP Compendium_: [Part 1](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BP_Compendium.pdf) - [Part 2](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BPCompendium2.pdf) - [Part 3](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BPCompendium3.pdf)
 
+### UMG/Slate
+
+* _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
+
 ### Bast Practices and Naming Conventions
 
 * _[Recommended Asset Naming Conventions](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)_
@@ -27,6 +31,7 @@ layout: default
 
 ### Plugins
 
+* _[Unreal Plugin Downloader](https://github.com/Phyronnaz/PluginDownloader)_ by Phyronnaz
 * _[UE4 Plugins on GitHub](https://github.com/ue4plugins)_
 * _[UE4GitPlugin](https://srombauts.github.io/UE4GitPlugin/)_: simple Git Source Control Plugin for Unreal Engine
 
