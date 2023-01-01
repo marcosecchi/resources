@@ -17,6 +17,7 @@ layout: default
 * _[GPU Performance for Game Artists](https://fragmentbuffer.com/gpu-performance-for-game-artists/)_
 * _[Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html)_: demystifies the algorithms used in modern graphics software with basic programming and high school math
 * _[Graphhic Research Samples Library](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html)_: by Intel
+* _[Scratchapixel](https://www.scratchapixel.com/)_
 
 #### OpenGL
 
