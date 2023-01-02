@@ -28,6 +28,7 @@ layout: default
 * _[Recommended Asset Naming Conventions](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)_
 * _[UE5 Style Guide](https://github.com/Allar/ue5-style-guide)_ by Michael Allar
 * _[Naming Convention Guide](https://www.tomlooman.com/unreal-engine-naming-convention-guide/)_ by Tom Looman
+* _[Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)_ by Ari Arnbjörnsson
 
 ### Plugins
 
