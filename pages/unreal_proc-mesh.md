@@ -14,16 +14,17 @@ layout: default
 * _[How to make a Custom Geometry Script Node in C++](https://www.youtube.com/watch?v=6adlrBQbcd8)_ by Ryan Schmidt
 * _[Modeling and Geometry Scripting in UE: Past, Present, and Future](https://www.youtube.com/watch?v=pEC3krOwcbM)_ at Unreal Fest 2022
 * _[Introduction to Geometry Scripting](https://www.youtube.com/watch?v=gDso9X4HgLA)_ at Unreal Fest 2022
+* _[Exploring Geometry Tools in UE5](https://www.twitch.tv/videos/1455871303)_ at Inside Unreal
+
+#### Lyra
+
+* _[Lyra Style Geometry Script Procedural Mesh Tools In Unreal Engine 5 - Making Your First Tool](https://www.youtube.com/watch?v=L4vGmIw0PD4)_ by BuildGamesWithJon
+* _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
 
 ### Tutorials
 
 * _[Procedural Mesh in UE4 #1 – Triangle](http://wlosok.cz/procedural-mesh-in-ue4-1-triangle/)_ by Jan Wlosok
 * _[Procedural Mesh in UE4 #2 – Subdivided Plane](http://wlosok.cz/procedural-mesh-in-ue4-2-subdivided-plane/)_ by Jan Wlosok
-
-### Lyra
-
-* _[Lyra Style Geometry Script Procedural Mesh Tools In Unreal Engine 5 - Making Your First Tool](https://www.youtube.com/watch?v=L4vGmIw0PD4)_ by BuildGamesWithJon
-* _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
 
 ### Ryan Schmidt
 
