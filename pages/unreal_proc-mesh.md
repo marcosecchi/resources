@@ -12,6 +12,7 @@ layout: default
 #### Geometry Script Videos
 
 * _[How to make a Custom Geometry Script Node in C++](https://www.youtube.com/watch?v=6adlrBQbcd8)_ by Ryan Schmidt
+* _[Modeling and Geometry Scripting in UE: Past, Present, and Future](https://www.youtube.com/watch?v=pEC3krOwcbM)_ at Unreal Fest 2022
 * _[Introduction to Geometry Scripting](https://www.youtube.com/watch?v=gDso9X4HgLA)_ at Unreal Fest 2022
 
 ### Tutorials
