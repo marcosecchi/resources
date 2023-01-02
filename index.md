@@ -9,6 +9,7 @@ layout: default
 * _[General Resources](./pages/gamedev_general-resources.html)_
 * _[Game Programming](./pages/gamedev_game-programming.html)_
 * _[Math](./pages/gamedev_math.html)_
+* _[Geometry Processing](./pages/gamedev_geometry-processing.html)_
 * _[Performance and Optimization](./gamedev_performance-and-optimization.html)_
 * _[Documentaries](./pages/gamedev_documentaries.html)_
 * _[Game Design](./pages/gamedesign_general-resources.html)_
