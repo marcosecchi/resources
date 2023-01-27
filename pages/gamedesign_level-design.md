@@ -6,6 +6,7 @@ layout: default
 
 ### Resources
 
+* _[The Level Design Book](https://book.leveldesignbook.com/)_
 * _[World of Level Design](https://www.worldofleveldesign.com/)_
 * _[Level Design - In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit)_
 
