@@ -12,12 +12,25 @@ layout: default
 * _[UE4 Beginner's Quick Start Guide](https://www.worldofleveldesign.com/store/free-guides/ue4-beginners-crash-course-guide.php)_ by Alex Galuzin
 * _[Unreal Engine 4 Console Variables and Commands](https://consolehelp.imzlp.me/)_
 
+### General Resources
+
+* _[Resources List](https://possible-gopher-3ae.notion.site/2271d583cdd8422fb4cb71af395e4a64?v=246bf69580234a2499ea16656f8ec870)_: by Possible Gopher 3AE
+* _[Ben UI](https://benui.ca/unreal/)_
+* _[Unreal Directive](https://www.unrealdirective.com/)_
+
 ### Blueprints
 
 * _[Blueprints Visual Scripting](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/index.html)_
 * _[Blueprints Technical Guide](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/TechnicalGuide/index.html)_
 * _[Romero Blueprints++](https://romeroblueprints.blogspot.com/)_: by Marcos Romero
 * _BP Compendium_: [Part 1](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BP_Compendium.pdf) - [Part 2](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BPCompendium2.pdf) - [Part 3](https://c921d50e-a-62cb3a1a-s-sites.googlegroups.com/site/romerogames/BPCompendium3.pdf)
+
+### C++
+
+* _[Unreal Engine C++ Complete Guide](https://www.tomlooman.com/unreal-engine-cpp-guide/)_ by Tom Looman
+* _[by Laura's (Mostly) Unreal Blog](https://landelare.github.io/)_
+* _[Unreal C++ speedrun](https://landelare.github.io/2023/01/07/cpp-speedrun.html)_ by Laura's (Mostly) Unreal Blog
+* _[Unreal Engine C++ Workshop](https://dev.epicgames.com/community/learning/tutorials/5w4b/unreal-engine-c-workshop?s=09)_ by June Rhodes
 
 ### UMG/Slate
 
