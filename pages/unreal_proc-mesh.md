@@ -52,4 +52,8 @@ layout: default
 * _[Create a Procedural Mesh in Unreal Engine with C++](https://www.bluefruitgames.com/creating-a-procedural-mesh-in-unreal-engine/)_ by Bastian Lang
 * _[Create a procedural landscape in Unreal Engine using C++](https://www.bluefruitgames.com/create-a-procedural-landscape-in-unreal-engine-using-c/)_ by Bastian Lang
 
+### Videos
+
+* _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
+
 [back](../)

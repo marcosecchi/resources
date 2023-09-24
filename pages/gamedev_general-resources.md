@@ -6,9 +6,7 @@ layout: default
 
 ### Main
 
-* _[AESVI](http://aesvi.it/)_
-* _[IndieDB](http://www.indiedb.com/)_
-* _[GameDevMap](https://www.gamedevmap.com/)_
+* _[Ultimate Resource Database](https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951)_ by Jacky Martin
 
 ### Publishing
 
