@@ -7,6 +7,7 @@ layout: default
 ### Main
 
 * _[Ultimate Resource Database](https://gentleland.notion.site/Ultimate-Resource-Database-9f7f86e9ce5a408090eee1985182d951)_ by Jacky Martin
+* _[Game Development Learning Resources](https://www.tomlooman.com/game-development-learning-resources/)_ by Tom Looman
 
 ### Publishing
 

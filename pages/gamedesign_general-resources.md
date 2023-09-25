@@ -19,6 +19,8 @@ layout: default
 #### Reference
 
 * _[Game FAQs](https://gamefaqs.gamespot.com/)_
+* _[Pitch Decks](https://heyglitch.notion.site/Pitch-Decks-f56e38c13fe6417f8379859e74367e1a)_ by heyglitch
+* _[Game Design Wiki](https://rosacarbo.notion.site/Game-design-wiki-6902c5dc9d1242c9a70822f13e6c76b3)_ by rosacarbo
 
 #### Articles
 

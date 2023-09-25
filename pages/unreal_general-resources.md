@@ -18,6 +18,11 @@ layout: default
 * _[Ben UI](https://benui.ca/unreal/)_
 * _[Unreal Directive](https://www.unrealdirective.com/)_
 
+#### Resource Lists
+
+* _[Awesome Unreal](https://github.com/insthync/awesome-unreal)_ by insthync
+* _[Unreal Engine Learning Resources](https://www.tomlooman.com/unreal-engine-resources/)_ by Tom Looman
+
 ### Blueprints
 
 * _[Blueprints Visual Scripting](https://docs.unrealengine.com/en-US/ProgrammingAndScripting/Blueprints/index.html)_
@@ -36,6 +41,15 @@ layout: default
 
 * _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
 
+### Gameplay Framework (GF)
+
+* _[Unreal Engine Gameplay Framework](https://www.tomlooman.com/unreal-engine-gameplay-framework/)_ by Tom Looman
+
+### Gameplay Ability System (GAS)
+
+* _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
+* _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
+
 ### Bast Practices and Naming Conventions
 
 * _[Recommended Asset Naming Conventions](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)_
@@ -49,10 +63,11 @@ layout: default
 * _[UE4 Plugins on GitHub](https://github.com/ue4plugins)_
 * _[UE4GitPlugin](https://srombauts.github.io/UE4GitPlugin/)_: simple Git Source Control Plugin for Unreal Engine
 
-#### Online Tools
+### Tools
 
 * _[BlueprintUE](https://blueprintue.com/)_: pastebin for Blueprints
 * _[Unreal Bucket](https://unrealbucket.com/)_: library with high quality native Unreal Engine assets
+* _[Asset Manager Studio](https://assetmanager.studio/?s=09)_: alternative launcher application
 
 ### Level Design
 
