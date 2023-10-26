@@ -12,6 +12,7 @@ layout: default
 * _[LiberLiber](https://www.liberliber.it)_
 * _[OpenCulture](http://www.openculture.com/free_ebooks)_
 * _[AudioBookTreasury](http://www.audiobooktreasury.com/)_
+* _[Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)_
 
 #### Editors and Libraries
 
