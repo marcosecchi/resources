@@ -65,6 +65,7 @@ layout: default
 * _[C++](./pages/gamedev_cpp.html)_
 * _[Map Generation](./pages/programming_map_generation.html)_
 * _[Raspberry PI](./pages/programming_raspberrypi.html)_
+* _[OSC](./pages/programming_osc.html)_
 
 ### Graphics
 
