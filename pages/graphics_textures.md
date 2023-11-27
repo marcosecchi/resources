@@ -19,6 +19,7 @@ layout: default
 * _[Texture Heaven](https://texturehaven.com/)_
 * _[TextureGen](http://www.texturegen.com/)_
 * _[TextureX](https://texturex.com/)_
+* _[GreyscaleGorillas](https://3dassets.greyscalegorilla.com/)_
 
 #### Skyboxes
 
