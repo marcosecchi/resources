@@ -56,12 +56,14 @@ layout: default
 * _[UE5 Style Guide](https://github.com/Allar/ue5-style-guide)_ by Michael Allar
 * _[Naming Convention Guide](https://www.tomlooman.com/unreal-engine-naming-convention-guide/)_ by Tom Looman
 * _[Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)_ by Ari Arnbjörnsson
+* _[Making Better Blueprints](https://www.youtube.com/watch?v=mW0IlgjF-iw)_ at Unreal Fest 2022
 
 ### Plugins
 
 * _[Unreal Plugin Downloader](https://github.com/Phyronnaz/PluginDownloader)_ by Phyronnaz
 * _[UE4 Plugins on GitHub](https://github.com/ue4plugins)_
 * _[UE4GitPlugin](https://srombauts.github.io/UE4GitPlugin/)_: simple Git Source Control Plugin for Unreal Engine
+* _[Asset Manager Studio](https://assetmanager.studio/)_: the launcher for all your Unreal needs
 
 ### Tools
 
