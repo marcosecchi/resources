@@ -15,11 +15,17 @@ layout: default
 * _[Modeling and Geometry Scripting in UE: Past, Present, and Future](https://www.youtube.com/watch?v=pEC3krOwcbM)_ at Unreal Fest 2022
 * _[Introduction to Geometry Scripting](https://www.youtube.com/watch?v=gDso9X4HgLA)_ at Unreal Fest 2022
 * _[Exploring Geometry Tools in UE5](https://www.twitch.tv/videos/1455871303)_ at Inside Unreal
+* _[Unreal Tutorial: Geometry Script Boolean Operation at Runtime](https://www.youtube.com/watch?v=4aVZyHD3Flc)_ by Quantaxy
+* _[UE5 - Custom Geometry Scripting Tools](https://www.youtube.com/watch?v=u1qQO4XRgYQ)_ by Cromlech Studio
 
 #### Lyra
 
 * _[Lyra Style Geometry Script Procedural Mesh Tools In Unreal Engine 5 - Making Your First Tool](https://www.youtube.com/watch?v=L4vGmIw0PD4)_ by BuildGamesWithJon
 * _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
+
+### Modeling Tools
+
+* _Create Modular Meshes Using UE5 Modelling Tools - [Part1](https://www.youtube.com/watch?v=1HAbbwjgY90), [Part 2](https://www.youtube.com/watch?v=Kg8uOHdJ6IU)_ by CB3DART
 
 ### Ryan Schmidt
 
@@ -32,6 +38,10 @@ layout: default
 
 * _[Procedural Mesh in UE4 #1 – Triangle](http://wlosok.cz/procedural-mesh-in-ue4-1-triangle/)_
 * _[Procedural Mesh in UE4 #2 – Subdivided Plane](http://wlosok.cz/procedural-mesh-in-ue4-2-subdivided-plane/)_
+
+### Procedural Mesh Component
+
+* _[Building Procedural Art Tools in Unreal Engine 4](https://80.lv/articles/building-procedural-art-tools-in-unreal-engine-4/)_
 
 ### Runtime Mesh Component
 
