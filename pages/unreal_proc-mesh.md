@@ -64,10 +64,11 @@ layout: default
 
 ### Procedural Content Generation
 
-* _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ | Unreal Fest 2023
-* _[Procedural Content Generation in UE5](https://www.youtube.com/watch?v=aoCGLW53fZg)_ | GDC 2023
+* _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ at Unreal Fest 2023
+* _[Procedural Content Generation in UE5](https://www.youtube.com/watch?v=aoCGLW53fZg)_ at GDC 2023
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
+* _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 
