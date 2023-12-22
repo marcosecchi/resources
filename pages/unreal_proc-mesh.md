@@ -43,25 +43,6 @@ layout: default
 
 * _[Building Procedural Art Tools in Unreal Engine 4](https://80.lv/articles/building-procedural-art-tools-in-unreal-engine-4/)_
 
-### Runtime Mesh Component
-
-* _[Runtime Mesh Component](https://github.com/SiggiG/RuntimeMeshComponent)_
-* _[Docs](https://runtimemesh.koderz.io/)_
-* _[Examples Project](https://github.com/TriAxis-Games/RuntimeMeshComponent-Examples)_
-* _[Procedural Mesh Demos](https://github.com/SiggiG/ProceduralMeshDemos)_
-
-### Projects and Demos
-
-* _[Unreal Engine Resources](https://unrealengineresources.com/)_ by Elhoussine Mehnik
-* _[Stairs Builder](https://github.com/sebastianoscarlopez/StairsBuilder)_ by Sebastian Oscar Lopez
-* _[Procedural Instanced Static Mesh Component](https://github.com/francesco-gallo/procedural-instanced-static-mesh-component)_ by Francesco Gallo
-* _[Procedural Mesh Project (Chairs and Tables)](https://github.com/damianiRiccardo90/ProceduralMeshProject)_ by Riccardo Damiani
-
-### Tutorials
-
-* _[Create a Procedural Mesh in Unreal Engine with C++](https://www.bluefruitgames.com/creating-a-procedural-mesh-in-unreal-engine/)_ by Bastian Lang
-* _[Create a procedural landscape in Unreal Engine using C++](https://www.bluefruitgames.com/create-a-procedural-landscape-in-unreal-engine-using-c/)_ by Bastian Lang
-
 ### Procedural Content Generation
 
 * _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ at Unreal Fest 2023
@@ -71,5 +52,24 @@ layout: default
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
+
+### Projects and Demos
+
+* _[Unreal Engine Resources](https://unrealengineresources.com/)_ by Elhoussine Mehnik
+* _[Stairs Builder](https://github.com/sebastianoscarlopez/StairsBuilder)_ by Sebastian Oscar Lopez
+* _[Procedural Instanced Static Mesh Component](https://github.com/francesco-gallo/procedural-instanced-static-mesh-component)_ by Francesco Gallo
+* _[Procedural Mesh Project (Chairs and Tables)](https://github.com/damianiRiccardo90/ProceduralMeshProject)_ by Riccardo Damiani
+
+#### Runtime Mesh Component (SiggiG)
+
+* _[Runtime Mesh Component](https://github.com/SiggiG/RuntimeMeshComponent)_
+* _[Docs](https://runtimemesh.koderz.io/)_
+* _[Examples Project](https://github.com/TriAxis-Games/RuntimeMeshComponent-Examples)_
+* _[Procedural Mesh Demos](https://github.com/SiggiG/ProceduralMeshDemos)_
+
+### Tutorials
+
+* _[Create a Procedural Mesh in Unreal Engine with C++](https://www.bluefruitgames.com/creating-a-procedural-mesh-in-unreal-engine/)_ by Bastian Lang
+* _[Create a procedural landscape in Unreal Engine using C++](https://www.bluefruitgames.com/create-a-procedural-landscape-in-unreal-engine-using-c/)_ by Bastian Lang
 
 [back](../)
