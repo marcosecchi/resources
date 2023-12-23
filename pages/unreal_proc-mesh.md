@@ -43,6 +43,13 @@ layout: default
 
 * _[Building Procedural Art Tools in Unreal Engine 4](https://80.lv/articles/building-procedural-art-tools-in-unreal-engine-4/)_
 
+#### Projects and Demos
+
+* _[Unreal Engine Resources](https://unrealengineresources.com/)_ by Elhoussine Mehnik
+* _[Stairs Builder](https://github.com/sebastianoscarlopez/StairsBuilder)_ by Sebastian Oscar Lopez
+* _[Procedural Instanced Static Mesh Component](https://github.com/francesco-gallo/procedural-instanced-static-mesh-component)_ by Francesco Gallo
+* _[Procedural Mesh Project (Chairs and Tables)](https://github.com/damianiRiccardo90/ProceduralMeshProject)_ by Riccardo Damiani
+
 ### Procedural Content Generation
 
 * _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ at Unreal Fest 2023
@@ -53,13 +60,6 @@ layout: default
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
-
-### Projects and Demos
-
-* _[Unreal Engine Resources](https://unrealengineresources.com/)_ by Elhoussine Mehnik
-* _[Stairs Builder](https://github.com/sebastianoscarlopez/StairsBuilder)_ by Sebastian Oscar Lopez
-* _[Procedural Instanced Static Mesh Component](https://github.com/francesco-gallo/procedural-instanced-static-mesh-component)_ by Francesco Gallo
-* _[Procedural Mesh Project (Chairs and Tables)](https://github.com/damianiRiccardo90/ProceduralMeshProject)_ by Riccardo Damiani
 
 #### Runtime Mesh Component (SiggiG)
 
