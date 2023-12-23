@@ -59,6 +59,7 @@ layout: default
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
+* _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
 * _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
 
 #### Runtime Mesh Component (SiggiG)
