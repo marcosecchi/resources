@@ -17,6 +17,7 @@ layout: default
 * _[Exploring Geometry Tools in UE5](https://www.twitch.tv/videos/1455871303)_ at Inside Unreal
 * _[Unreal Tutorial: Geometry Script Boolean Operation at Runtime](https://www.youtube.com/watch?v=4aVZyHD3Flc)_ by Quantaxy
 * _[UE5 - Custom Geometry Scripting Tools](https://www.youtube.com/watch?v=u1qQO4XRgYQ)_ by Cromlech Studio
+* _[How To Get Started With Geometry Scripting in Unreal - Generated Mesh Actors Introduction](https://www.youtube.com/watch?v=cKDZE4-mQIg)_ by The Game Dev Cave
 
 #### Lyra
 
@@ -61,6 +62,8 @@ layout: default
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
 * _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
+* _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
+* _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien LOGUT
 
 #### Runtime Mesh Component (SiggiG)
 
