@@ -53,6 +53,7 @@ layout: default
 
 ### Procedural Content Generation
 
+* _[Introduction to Procedural Generation plugin in UE5.2](https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2)_
 * _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ at Unreal Fest 2023
 * _[Procedural Content Generation in UE5](https://www.youtube.com/watch?v=aoCGLW53fZg)_ at GDC 2023
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
