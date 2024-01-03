@@ -65,6 +65,9 @@ layout: default
 * _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
 * _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
 * _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien LOGUT
+* _Unreal Engine PCG Room [Part 1](https://www.youtube.com/watch?v=D3o9RHvIsZc)_, [Part 2](https://www.youtube.com/watch?v=Ng2AXVeVto0)_, [Part 3](https://www.youtube.com/watch?v=znSivZ3oQJY)_, [Part 4](https://www.youtube.com/watch?v=rNUv71wu0gM)_, [Part 5](https://www.youtube.com/watch?v=D4jnyJEeeXQ)_, [Part 6](https://www.youtube.com/watch?v=u3firyujZ5w)_ by TheLavalampe
+* _[PCG Building in Unreal Engine](https://www.youtube.com/watch?v=m1DJ7qXBgug)_ by Nodes of Nature
+* _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
 
 #### Runtime Mesh Component (SiggiG)
 
