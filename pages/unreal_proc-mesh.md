@@ -68,6 +68,8 @@ layout: default
 * _Unreal Engine PCG Room [Part 1](https://www.youtube.com/watch?v=D3o9RHvIsZc)_, [Part 2](https://www.youtube.com/watch?v=Ng2AXVeVto0)_, [Part 3](https://www.youtube.com/watch?v=znSivZ3oQJY)_, [Part 4](https://www.youtube.com/watch?v=rNUv71wu0gM)_, [Part 5](https://www.youtube.com/watch?v=D4jnyJEeeXQ)_, [Part 6](https://www.youtube.com/watch?v=u3firyujZ5w)_ by TheLavalampe
 * _[PCG Building in Unreal Engine](https://www.youtube.com/watch?v=m1DJ7qXBgug)_ by Nodes of Nature
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
+* _[Procedural Suburban City Using PCG](https://www.youtube.com/watch?v=C-_RYWevAW0)_ by Maddys HUB
+* _[Unreal PCG](https://www.youtube.com/watch?v=3kP4tFE5Krw&list=PLkoyk8TmcceF68I4Cc3EX28x_mRVKbWi8)_ by Chang-wei
 
 #### Runtime Mesh Component (SiggiG)
 
