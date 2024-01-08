@@ -9,6 +9,7 @@ layout: default
 * _[OSC Data Monitor](https://kasperkamperman.gumroad.com/l/icgez)_
 * _[Bitfocus Companion](https://bitfocus.io/companion)_
 * _[Open Stage Control](https://openstagecontrol.ammd.net/)_
+* _[OSCAR - Open Sound Control Advanced Remote](https://www.oscar-app.de/)_
 
 ### Videos
 
