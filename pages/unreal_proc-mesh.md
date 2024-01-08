@@ -70,6 +70,15 @@ layout: default
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
 * _[Procedural Suburban City Using PCG](https://www.youtube.com/watch?v=C-_RYWevAW0)_ by Maddys HUB
 * _[Unreal PCG](https://www.youtube.com/watch?v=3kP4tFE5Krw&list=PLkoyk8TmcceF68I4Cc3EX28x_mRVKbWi8)_ by Chang-wei
+* _[See How to Set Up Garden Generator in Unreal Engine 5](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
+* _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
+
+#### Devlogs
+
+* _Medieval City by Raining Phoenix Games_
+  * _[UE5.3 Medieval City Speed Level Design](https://www.youtube.com/watch?v=Wrv88a7fO5Q)_
+  * _[UE5.3 Medieval City DevLog](https://www.youtube.com/watch?v=_WzUmnh164c)_
+  * _[Fixing Normals in Procedurally Generated Terrain](https://www.youtube.com/watch?v=Fk0Cat7hWuE)_
 
 #### Runtime Mesh Component (SiggiG)
 
