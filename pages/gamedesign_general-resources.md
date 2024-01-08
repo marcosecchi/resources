@@ -26,6 +26,7 @@ layout: default
 
 * _[The Chemistry Of Game Design](https://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php)_: about Skill Atoms
 * _[Personas - A Simple Introduction](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them)_
+* _[How to write a game design document (with examples)](https://gamedevbeginner.com/how-to-write-a-game-design-document-with-examples/)_
 
 ### Game Mechanics
 
