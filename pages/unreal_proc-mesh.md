@@ -70,7 +70,8 @@ layout: default
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
 * _[Procedural Suburban City Using PCG](https://www.youtube.com/watch?v=C-_RYWevAW0)_ by Maddys HUB
 * _[Unreal PCG](https://www.youtube.com/watch?v=3kP4tFE5Krw&list=PLkoyk8TmcceF68I4Cc3EX28x_mRVKbWi8)_ by Chang-wei
-* _[See How to Set Up Garden Generator in Unreal Engine 5](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
+* _[Using Packed Level Actors (PLA) in a PCG Graph](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
+* _[See How to Set Up Garden Generator in Unreal Engine 5](https://www.youtube.com/watch?v=NmQZYaZAFJU)_ by Fabio Sarracino
 * _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
 
 #### Devlogs
