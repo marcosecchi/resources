@@ -53,16 +53,25 @@ layout: default
 
 ### Procedural Content Generation
 
+#### Tutorials
+
 * _[Introduction to Procedural Generation plugin in UE5.2](https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2)_
+* _[Using Packed Level Actors (PLA) in a PCG Graph](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
+
+#### Webinars and Livestreame
+
 * _[Introduction to PCG Workflows in Unreal Engine 5](https://www.youtube.com/watch?v=LMQDCEiLaQY)_ at Unreal Fest 2023
 * _[Procedural Content Generation in UE5](https://www.youtube.com/watch?v=aoCGLW53fZg)_ at GDC 2023
+* _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
+
+#### Videos
+
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
-* _[Advanced World Building in Unreal Engine](https://www.youtube.com/watch?v=gJKGMFcg29c)_ by Chris Murphy / Epic Games for WA Games Week 2023
 * _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
 * _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien LOGUT
 * _Unreal Engine PCG Room [Part 1](https://www.youtube.com/watch?v=D3o9RHvIsZc)_, [Part 2](https://www.youtube.com/watch?v=Ng2AXVeVto0)_, [Part 3](https://www.youtube.com/watch?v=znSivZ3oQJY)_, [Part 4](https://www.youtube.com/watch?v=rNUv71wu0gM)_, [Part 5](https://www.youtube.com/watch?v=D4jnyJEeeXQ)_, [Part 6](https://www.youtube.com/watch?v=u3firyujZ5w)_ by TheLavalampe
@@ -70,7 +79,6 @@ layout: default
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
 * _[Procedural Suburban City Using PCG](https://www.youtube.com/watch?v=C-_RYWevAW0)_ by Maddys HUB
 * _[Unreal PCG](https://www.youtube.com/watch?v=3kP4tFE5Krw&list=PLkoyk8TmcceF68I4Cc3EX28x_mRVKbWi8)_ by Chang-wei
-* _[Using Packed Level Actors (PLA) in a PCG Graph](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
 * _[Procedural Content Generation: Tutorial UE5](https://www.youtube.com/playlist?list=PLIOjp1ttVLQ06XFhpZHCNybxsbF0wb4DI)_ by Morrigan
 * _[See How to Set Up Garden Generator in Unreal Engine 5](https://www.youtube.com/watch?v=NmQZYaZAFJU)_ by Fabio Sarracino
 * _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
