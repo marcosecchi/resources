@@ -82,6 +82,8 @@ layout: default
 * _[Procedural Content Generation: Tutorial UE5](https://www.youtube.com/playlist?list=PLIOjp1ttVLQ06XFhpZHCNybxsbF0wb4DI)_ by Morrigan
 * _[See How to Set Up Garden Generator in Unreal Engine 5](https://www.youtube.com/watch?v=NmQZYaZAFJU)_ by Fabio Sarracino
 * _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
+* _[Procedural Content Generation](https://www.youtube.com/watch?v=RBFvkfZxJJk&list=PLhlDHJpnPTG-MYrGNAqVRkiE6R0fUreMn)_ by UnrealityBytes
+* _[Building Structures](https://www.youtube.com/watch?v=5m3-ODwE_oU&list=PLhlDHJpnPTG_uHx-ydWzPYAmnNYEgK86x)_ by UnrealityBytes
 
 #### Devlogs
 
