@@ -44,12 +44,24 @@ layout: default
 
 * _[Building Procedural Art Tools in Unreal Engine 4](https://80.lv/articles/building-procedural-art-tools-in-unreal-engine-4/)_
 
+### Runtime Mesh Component (SiggiG)
+
+* _[Runtime Mesh Component](https://github.com/SiggiG/RuntimeMeshComponent)_
+* _[Docs](https://runtimemesh.koderz.io/)_
+* _[Examples Project](https://github.com/TriAxis-Games/RuntimeMeshComponent-Examples)_
+* _[Procedural Mesh Demos](https://github.com/SiggiG/ProceduralMeshDemos)_
+
 #### Projects and Demos
 
 * _[Unreal Engine Resources](https://unrealengineresources.com/)_ by Elhoussine Mehnik
 * _[Stairs Builder](https://github.com/sebastianoscarlopez/StairsBuilder)_ by Sebastian Oscar Lopez
 * _[Procedural Instanced Static Mesh Component](https://github.com/francesco-gallo/procedural-instanced-static-mesh-component)_ by Francesco Gallo
 * _[Procedural Mesh Project (Chairs and Tables)](https://github.com/damianiRiccardo90/ProceduralMeshProject)_ by Riccardo Damiani
+
+### Tutorials
+
+* _[Create a Procedural Mesh in Unreal Engine with C++](https://www.bluefruitgames.com/creating-a-procedural-mesh-in-unreal-engine/)_ by Bastian Lang
+* _[Create a procedural landscape in Unreal Engine using C++](https://www.bluefruitgames.com/create-a-procedural-landscape-in-unreal-engine-using-c/)_ by Bastian Lang
 
 ### Procedural Content Generation
 
@@ -70,6 +82,7 @@ layout: default
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
+* _[Unreal PCG Experiments](https://www.youtube.com/playlist?list=PLA03OHAaHgYrnTNx6qs59MdlEsR1jxvTn)_ by FreetimeCoder
 * _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
 * _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
@@ -84,6 +97,10 @@ layout: default
 * _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
 * _[Procedural Content Generation](https://www.youtube.com/watch?v=RBFvkfZxJJk&list=PLhlDHJpnPTG-MYrGNAqVRkiE6R0fUreMn)_ by UnrealityBytes
 * _[Building Structures](https://www.youtube.com/watch?v=5m3-ODwE_oU&list=PLhlDHJpnPTG_uHx-ydWzPYAmnNYEgK86x)_ by UnrealityBytes
+* _[How you should (not) use PCG Graphs](https://www.youtube.com/watch?v=0i2y0PkTbCU)_ by Shmigo
+* _[Advanced PCG Concepts with Unreal Engine 5.2](https://www.youtube.com/watch?v=l0FGl_lCgdc&t=45s)_ by Shmigo
+* _[Using advanced PCG Concepts to create Islands](https://www.youtube.com/watch?v=Pi5mOZviVlE)_ by Shmigo
+* _[Yes, You Can Sculpt Landscape With PCG](https://www.youtube.com/watch?v=hqNAWbuuFrs)_ by BoroCG
 
 #### Devlogs
 
@@ -91,17 +108,5 @@ layout: default
   * _[UE5.3 Medieval City Speed Level Design](https://www.youtube.com/watch?v=Wrv88a7fO5Q)_
   * _[UE5.3 Medieval City DevLog](https://www.youtube.com/watch?v=_WzUmnh164c)_
   * _[Fixing Normals in Procedurally Generated Terrain](https://www.youtube.com/watch?v=Fk0Cat7hWuE)_
-
-#### Runtime Mesh Component (SiggiG)
-
-* _[Runtime Mesh Component](https://github.com/SiggiG/RuntimeMeshComponent)_
-* _[Docs](https://runtimemesh.koderz.io/)_
-* _[Examples Project](https://github.com/TriAxis-Games/RuntimeMeshComponent-Examples)_
-* _[Procedural Mesh Demos](https://github.com/SiggiG/ProceduralMeshDemos)_
-
-### Tutorials
-
-* _[Create a Procedural Mesh in Unreal Engine with C++](https://www.bluefruitgames.com/creating-a-procedural-mesh-in-unreal-engine/)_ by Bastian Lang
-* _[Create a procedural landscape in Unreal Engine using C++](https://www.bluefruitgames.com/create-a-procedural-landscape-in-unreal-engine-using-c/)_ by Bastian Lang
 
 [back](../)
