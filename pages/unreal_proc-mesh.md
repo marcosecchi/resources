@@ -83,7 +83,7 @@ layout: default
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
 * _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
 * _[Unreal PCG Experiments](https://www.youtube.com/playlist?list=PLA03OHAaHgYrnTNx6qs59MdlEsR1jxvTn)_ by FreetimeCoder
-* _[Unreal PCG Tutorial](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
+* _[Unreal PCG Tutorials](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
 * _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
 * _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien LOGUT
@@ -101,12 +101,15 @@ layout: default
 * _[Advanced PCG Concepts with Unreal Engine 5.2](https://www.youtube.com/watch?v=l0FGl_lCgdc&t=45s)_ by Shmigo
 * _[Using advanced PCG Concepts to create Islands](https://www.youtube.com/watch?v=Pi5mOZviVlE)_ by Shmigo
 * _[Yes, You Can Sculpt Landscape With PCG](https://www.youtube.com/watch?v=hqNAWbuuFrs)_ by BoroCG
+* _[Mastering Procedural Content Generation (PCG) in Unreal Engine](https://www.youtube.com/playlist?list=PLWjyT8uXuDk3pOeeLkhnL4wjP-curGBkJ)_ by Aziel Arts
+* _[Unreal PCG (Procedural Content Generation)](https://www.youtube.com/playlist?list=PLd_-PkmCFGDlVBoPNHkKfWP-Q-5an7a8y)_ by HullaBulla
 
-#### Devlogs
+#### Devlogs & Showcase
 
 * _Medieval City by Raining Phoenix Games_
   * _[UE5.3 Medieval City Speed Level Design](https://www.youtube.com/watch?v=Wrv88a7fO5Q)_
   * _[UE5.3 Medieval City DevLog](https://www.youtube.com/watch?v=_WzUmnh164c)_
   * _[Fixing Normals in Procedurally Generated Terrain](https://www.youtube.com/watch?v=Fk0Cat7hWuE)_
+  * _[Procedurally Generated Catan Diorama](https://www.youtube.com/watch?v=urzCmeiJZnI)_ by Michael Royalty
 
 [back](../)
