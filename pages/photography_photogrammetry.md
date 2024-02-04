@@ -21,6 +21,7 @@ layout: default
 
 ### Techniques
 
+* _[The Ultimate Guide to 3D Reconstruction with Photogrammetry](https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4)_ by Florent Poux
 * _[Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/)_ by University of Virginia
 * _[Small object photogrammetry – how to take photos](https://peterfalkingham.com/2019/01/16/small-object-photogrammetry-how-to-take-photos/)_ by Peter L. Falkingham
 * _[Small Object Photogrammetry Through Focus Stacking](https://www.tundragraphics.com/blog/2020/06/small-object-photogrammetry-through-focus-stacking/)_ by Tundra Graphics
