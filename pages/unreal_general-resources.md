@@ -50,13 +50,17 @@ layout: default
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
 * _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
 
-### Bast Practices and Naming Conventions
+### Best Practices and Naming Conventions
 
 * _[Recommended Asset Naming Conventions](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)_
 * _[UE5 Style Guide](https://github.com/Allar/ue5-style-guide)_ by Michael Allar
 * _[Naming Convention Guide](https://www.tomlooman.com/unreal-engine-naming-convention-guide/)_ by Tom Looman
 * _[Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef)_ by Ari Arnbjörnsson
 * _[Making Better Blueprints](https://www.youtube.com/watch?v=mW0IlgjF-iw)_ at Unreal Fest 2022
+
+### Optimization
+
+* _[Unreal Engine Game Optimization on a Budget](https://www.youtube.com/watch?v=G51QWcitCII)_ by Tom Looman
 
 ### Plugins
 
