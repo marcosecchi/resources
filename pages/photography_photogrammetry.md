@@ -15,6 +15,10 @@ layout: default
 * _[Meshroom, Blender, Unreal Engine - Tutorial](https://www.youtube.com/watch?v=Iy9KUAO3Oe0)_ by Kams1
 * _[Meshroom to Unreal](https://www.youtube.com/watch?v=MKAT3JZS0Co)_ by Jason Etienne
 
+### Hardware
+
+* _[What Camera Should You Use for Photogrammetry?](https://medium.com/@EightyLevel/what-camera-should-you-use-for-photogrammetry-3a67864bd4eb)_ by 80LV
+
 ### Techniques
 
 * _[Photogrammetry Workflow using a DSLR Camera](https://scholarslab.lib.virginia.edu/blog/documentation-photogrammetry/)_ by University of Virginia
