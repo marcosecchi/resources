@@ -2,11 +2,16 @@
 layout: default
 ---
 
-## Unreal Vfx
+## Unreal VFX
+
+### Generic Resources
+
+* _[Real-Time VFX](https://realtimevfx.com/)_
 
 ### Niagara
 
 * _[Niagara Particle Tutorials - Unreal Engine 5](https://www.youtube.com/playlist?list=PLWjyT8uXuDk3n-neGA5mr5gzHYjMqKy_V)_ by Aziel Arts
+* _[RedefineFX](https://redefinefx.com/)_
 
 ### Post Processing
 

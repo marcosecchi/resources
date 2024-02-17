@@ -75,8 +75,10 @@ layout: default
 * _[Unreal Bucket](https://unrealbucket.com/)_: library with high quality native Unreal Engine assets
 * _[Asset Manager Studio](https://assetmanager.studio/?s=09)_: alternative launcher application
 
-### Level Design
+### Slate and UMG
 
-* _[World of Level Design](https://www.worldofleveldesign.com/)_: by Alex Galuzin
+* _[Ben UI](https://benui.ca/)_
+* _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
+* _[UMG-Slate ExampleProject](https://github.com/YawLighthouse/UMG-Slate-ExampleProject)_ by Nicholas Helish
 
 [back](../)
