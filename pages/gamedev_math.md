@@ -14,6 +14,10 @@ layout: default
 * _[Scratch that pixel](https://www.scratchapixel.com/)_
 * _[Immersive Linear Algebra](http://immersivemath.com/)_
 
-## ALgorithm & Techniques
+### Books
+
+* _[3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)_ by Fletcher Dunn and Ian Parbery
+
+### ALgorithm & Techniques
 
 * _[Creative coding algorithms & techniques](https://www.notion.so/Creative-coding-algorithms-techniques-c5550ef2f7574126bdc77b09ed76651b)_ by Taru Muhonen &Raphaël de Courville

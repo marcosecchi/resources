@@ -20,6 +20,11 @@ layout: default
 * _[TextureGen](http://www.texturegen.com/)_
 * _[TextureX](https://texturex.com/)_
 * _[GreyscaleGorillas](https://3dassets.greyscalegorilla.com/)_
+* _[ambientCG](https://ambientcg.com/)_
+* _[Poly Haven](https://polyhaven.com/textures)_
+* _[ShareTextures](https://www.sharetextures.com/textures)_
+* _[Poliigon](https://www.poliigon.com/textures/free)_
+* _[3D Textures](https://3dtextures.me/)_
 
 #### Skyboxes
 
