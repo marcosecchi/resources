@@ -16,6 +16,7 @@ layout: default
 * _[Manifold Garden: Level Design in Impossible Geometry](https://www.youtube.com/watch?v=ed2zmmcEryw)_ at 2016 GDC
 * _[Talking About Level Design](https://www.youtube.com/playlist?list=PLbBhMQ8qnVWPV2XqMt3m57zQKXp-V2jS9)_ by Steve Lee
 * _[Meaningful Choice in Game Level Design](https://www.youtube.com/watch?v=BEF4GVNzkUw)_ at GDC 2014
+* _[Designing Radically Non-Linear Single Player Levels](https://www.youtube.com/watch?v=CTBor4rhnQs)_ at GDC 2019
 
 ### Articles
 

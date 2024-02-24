@@ -30,6 +30,7 @@ layout: default
 * _[Unify Community](http://wiki.unity3d.com/index.php/Main_Page)_
 * _[Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)_
 * _[MathUtilities](https://github.com/zalo/MathUtilities)_ by zalo
+* _[Unity Script Collection](https://github.com/michidk/Unity-Script-Collection)_ by Michael Lohr
 
 ### Version Control
 
