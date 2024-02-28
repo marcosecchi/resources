@@ -14,6 +14,8 @@ layout: default
 
 ### Videos
 
+* _[Necdet Yavaş](https://www.youtube.com/@NecdetYavas)_
 * _[Cem Yuksel](https://www.youtube.com/channel/UCfGIWnnZY79KO0b12O57byw)_
+* _[How do Video Game Graphics Work?](https://www.youtube.com/watch?v=C8YtdC8mxTU)_
 
 [back](../)
