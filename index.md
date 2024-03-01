@@ -31,6 +31,7 @@ layout: default
 #### Unreal Engine
 
 * _[General Resources](./pages/unreal_general-resources.html)_
+* _[Gameplay Framework and Gameplay Ability System](./pages/unreal_gf-gas.html)_
 * _[Procedural Meshes](./pages/unreal_proc-mesh.html)_
 * _[Vfx](./pages/unreal_vfx.html)_
 * _[Containers](./pages/unreal_containers.html)_

@@ -41,15 +41,6 @@ layout: default
 
 * _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
 
-### Gameplay Framework (GF)
-
-* _[Unreal Engine Gameplay Framework](https://www.tomlooman.com/unreal-engine-gameplay-framework/)_ by Tom Looman
-
-### Gameplay Ability System (GAS)
-
-* _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
-* _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
-
 ### Best Practices and Naming Conventions
 
 * _[Recommended Asset Naming Conventions](https://docs.unrealengine.com/5.0/en-US/recommended-asset-naming-conventions-in-unreal-engine-projects/)_
