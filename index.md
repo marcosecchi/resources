@@ -23,7 +23,6 @@ layout: default
 * _[ECS](./pages/unity_ecs.html)_
 * _[Shaders](./pages/unity_shaders.html)_
 * _[Lightning](./pages/unity_lightning.html)_
-* _[ProBuilder](./pages/unity_probuilder.html)_
 * _[ScriptableObjects](./pages/unity_scriptable-objects.html)_
 * _[UI Elements](./pages/unity_uielements.html)_
 * _[Rendering](./pages/unity_rendering.html)_
