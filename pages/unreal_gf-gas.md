@@ -22,5 +22,8 @@ layout: default
 
 * _[Unreal Gameplay Ability System](https://www.youtube.com/watch?v=yKLKunEZaj8&list=PLoReGgpfex3woa35rnoXRyF9N3_p7QVQ2)_ by The Game Dev Cave
 * _[Gameplay Ability System Prerequisite](https://www.youtube.com/playlist?list=PLnHeglBaPYu-XVKTntS2hoEUs7M4INBPx)_ by Sneaky Kitten Game Dev
+* _[Gameplay Ability System Prerequisite](https://www.youtube.com/playlist?list=PL6eAkiWr7AyIbndILQQO0L9_JeOTVIr5r)_ by Code With Ro
+* _[Create a Sidescroller RPG using GAS](https://www.youtube.com/watch?v=U2jP6Mlevk0&list=PL6eAkiWr7AyJDObm2BnxoOoMLcUXxqHbV)_ by Code With Ro
+* _[Gameplay Ability System Blueprints](https://www.youtube.com/playlist?list=PL6eAkiWr7AyJkHVoHAfyLCldr24QCorE1)_ by Code With Ro
 
 [back](../)
