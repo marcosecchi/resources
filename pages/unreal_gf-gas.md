@@ -8,6 +8,7 @@ layout: default
 
 ## Gameplay Ability System (GAS)
 
+* _[Gameplay Ability System - Official Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine)_
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
 * _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
 * _[The truth of the Gameplay Ability System](https://vorixo.github.io/devtricks/gas/)_ by Alvaro Jover-Alvarez
