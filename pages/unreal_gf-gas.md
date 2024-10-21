@@ -20,6 +20,8 @@ layout: default
 
 ## Video
 
+* _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_
+
 ### Courses
 
 * _[Unreal Gameplay Ability System](https://www.youtube.com/watch?v=yKLKunEZaj8&list=PLoReGgpfex3woa35rnoXRyF9N3_p7QVQ2)_ by The Game Dev Cave
