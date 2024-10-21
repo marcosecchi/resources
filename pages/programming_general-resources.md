@@ -7,6 +7,7 @@ layout: default
 ### Resources
 
 * _[Free for Dev](https://free-for.dev/#/)_: list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
+* _[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)_: a programming chrestomathy site
 
 ### Best Practices
 
@@ -22,6 +23,10 @@ layout: default
 ##### Videos
 
 * _[The Bug Hunter's Methodology 2.0](https://www.youtube.com/watch?v=HI1mTQ7ovFY)_
+
+### Tools
+
+* _[Json Crack](https://jsoncrack.com/)_: visualize JSON into interactive graphs
 
 ### Documentation
 

@@ -39,6 +39,7 @@ layout: default
 * _[Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)_
 * _[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/en/command-line/introduction)_
 * _[GitHub Training & Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw)_
+* _[Learn Git Branching](https://learngitbranching.js.org/?locale=it_IT)_
 
 ### Ebooks and Guides
 

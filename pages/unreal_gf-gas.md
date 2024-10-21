@@ -18,6 +18,11 @@ layout: default
 * _[ActionRPG UE53](https://github.com/vahabahmadvand/ActionRPG_UE53)_ by Vahab Ahmadvand
 * _[Action Roguelike](https://github.com/tomlooman/ActionRoguelike)_ by Tom Looman
 
+## Tutorials
+
+* _[Simple GAS tutorial](https://landelare.github.io/2024/01/15/simple-gas-tutorial.html)_
+
+
 ## Video
 
 * _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_

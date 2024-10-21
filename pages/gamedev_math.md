@@ -13,6 +13,12 @@ layout: default
 * _[Visualizing Quaternions](https://eater.net/quaternions)_
 * _[Scratch that pixel](https://www.scratchapixel.com/)_
 * _[Immersive Linear Algebra](http://immersivemath.com/)_
+* _[Explained Visually](https://setosa.io/ev/)_
+* _[MathCha](https://www.mathcha.io/)_
+
+### Videos
+
+* _[Math for Game Programmers: Interaction With 3D Geometry](https://www.youtube.com/watch?v=GpsKrAipXm8)_ by GDC
 
 ### Books
 

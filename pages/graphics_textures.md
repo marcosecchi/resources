@@ -11,6 +11,7 @@ layout: default
 * _[Quixel Mixer](https://quixel.com/mixer)_
 * _[Substance](https://www.adobe.com/products/substance3d-painter.html)_
 * _[Material Maker](https://rodzilla.itch.io/material-maker)_
+* _[Palette Generator](https://palettegenerator.com/)_
 
 ### Textures
 
@@ -25,6 +26,10 @@ layout: default
 * _[ShareTextures](https://www.sharetextures.com/textures)_
 * _[Poliigon](https://www.poliigon.com/textures/free)_
 * _[3D Textures](https://3dtextures.me/)_
+
+### Heightmaps
+
+* _[Motion Forge Pictures](https://www.motionforgepictures.com/height-maps/)_
 
 #### Skyboxes
 
