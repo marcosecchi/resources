@@ -44,6 +44,7 @@ layout: default
 * _[Dundoc](http://www.dundoc.com/)_: get Started quickly with a Game Design starter Template
 * _[Donjon](https://donjon.bin.sh/)_: generators
 * _[Inform7](http://inform7.com/)_: a design system for interactive fiction based on natural language
+* _[Brief Builder](https://briefbuilder.app/)_: generate custom briefs
 
 #### Machinations
 

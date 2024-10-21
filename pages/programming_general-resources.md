@@ -8,6 +8,7 @@ layout: default
 
 * _[Free for Dev](https://free-for.dev/#/)_: list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * _[Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)_: a programming chrestomathy site
+* _[RIP Tutorial](https://riptutorial.com/)_
 
 ### Best Practices
 

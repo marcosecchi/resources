@@ -6,7 +6,9 @@ layout: default
 
 ### Main
 
-* _[Game Programming Patterns](http://gameprogrammingpatterns.com/)_ by Bob Nystrom
+* _[Game Programming Patterns](https://gameprogrammingpatterns.com/)_ by Robert Nystrom
+* _[Design Patterns](https://refactoring.guru/design-patterns)_ by Refactoring Guru
+* _[Foundations of Game Engine Development](https://foundationsofgameenginedev.com/)_
 * _[DevFree Books](https://devfreebooks.github.io/)_
 
 ### Cg
