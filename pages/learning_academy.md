@@ -12,7 +12,6 @@ layout: default
 * _[FreeCodeCamp](https://www.freecodecamp.org/)_
 * _[Pluralsight](https://www.pluralsight.com/)_
 * _[GitHub Education](https://education.github.com/)_
-* _[Tech.io](https://tech.io/)_
 * _[Embed.ly](https://embed.ly/)_
 * _[HackerRank](https://www.hackerrank.com/dashboard)_
 * _[Edabit](https://edabit.com/)_
@@ -22,8 +21,6 @@ layout: default
 
 * _[GitHub Classroom](https://classroom.github.com)_
 * _[GitHub Education Community](https://education.github.community/)_
-* _[GitHub's Teacher Community](https://github.com/education/teachers)_
-* _[GitHub Learning Lab](https://lab.github.com/)_
 
 #### Game Design & Programming
 
@@ -45,10 +42,8 @@ layout: default
 
 * _[Khan Academy](https://www.khanacademy.org/)_
 * _[edX](https://www.edx.org/)_
-* _[Seekhana](https://www.seekhana.com/)_
 * _[Udemy](https://www.udemy.com/)_
 * _[Zenva](https://academy.zenva.com/)_
-* _[Repl.it Classrooms](https://repl.it/site/classrooms)_
 
 ### Platforms
 
