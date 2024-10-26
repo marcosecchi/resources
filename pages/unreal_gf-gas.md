@@ -10,8 +10,12 @@ layout: default
 
 * _[Gameplay Ability System - Official Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine)_
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
-* _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
 * _[The truth of the Gameplay Ability System](https://vorixo.github.io/devtricks/gas/)_ by Alvaro Jover-Alvarez
+
+## Gameplay Tags
+
+* _[Enhanced Input Binding with Gameplay Tags C++](https://dev.epicgames.com/community/learning/tutorials/aqrD/unreal-engine-enhanced-input-binding-with-gameplay-tags-c)
+* _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
 
 ## Projects
 
@@ -22,10 +26,10 @@ layout: default
 
 * _[Simple GAS tutorial](https://landelare.github.io/2024/01/15/simple-gas-tutorial.html)_
 
-
 ## Video
 
-* _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_
+* _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_ - Inside Unreal
+* _[Exploring the Gameplay Ability System with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)_ - Unreal Fest 2022
 
 ### Courses
 
