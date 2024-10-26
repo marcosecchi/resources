@@ -44,6 +44,7 @@ layout: default
 ### Procedural Mesh Component
 
 * _[Building Procedural Art Tools in Unreal Engine 4](https://80.lv/articles/building-procedural-art-tools-in-unreal-engine-4/)_
+* _[Procedural Mesh Component in C++](https://nerivec.github.io/old-ue4-wiki/pages/procedural-mesh-component-in-cgetting-started.html)_ by nerivec
 
 ### Runtime Mesh Component (SiggiG)
 
@@ -104,6 +105,11 @@ layout: default
 * _[Yes, You Can Sculpt Landscape With PCG](https://www.youtube.com/watch?v=hqNAWbuuFrs)_ by BoroCG
 * _[Mastering Procedural Content Generation (PCG) in Unreal Engine](https://www.youtube.com/playlist?list=PLWjyT8uXuDk3pOeeLkhnL4wjP-curGBkJ)_ by Aziel Arts
 * _[Unreal PCG (Procedural Content Generation)](https://www.youtube.com/playlist?list=PLd_-PkmCFGDlVBoPNHkKfWP-Q-5an7a8y)_ by HullaBulla
+* _[Procedural Mesh Slicing](https://www.youtube.com/watch?v=1zJM1gKoU14)_
+* _[Unreal Engine 5 Beginner Modeling Tutorial](https://www.youtube.com/watch?v=9InU0xbX7l0)_ by UNF Games
+* _Procedural Meshes [Part 1](https://www.youtube.com/watch?v=iSgyleutbRw), [Part 2](https://www.youtube.com/watch?v=0T8jUtJXfkU) by Devan Luciano
+* _[Populating Meshes Along a Spline](https://www.youtube.com/watch?v=OdjvlvGRYRE)_
+* _[Importing coordinates for automatic static mesh placement](https://dev.epicgames.com/community/learning/tutorials/Gj/unreal-engine-importing-coordinates-for-automatic-static-mesh-placement)_
 
 #### Devlogs & Showcase
 

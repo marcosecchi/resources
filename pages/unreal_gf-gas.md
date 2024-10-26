@@ -11,6 +11,7 @@ layout: default
 * _[Gameplay Ability System - Official Documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/gameplay-ability-system-for-unreal-engine)_
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
 * _[The truth of the Gameplay Ability System](https://vorixo.github.io/devtricks/gas/)_ by Alvaro Jover-Alvarez
+* _[Gameplay Ability System (UE4)](https://suvam0451.github.io/tutorials/ue4/gameplay-ability-system-01/)_ by WinterWildfire
 
 ## Gameplay Tags
 
