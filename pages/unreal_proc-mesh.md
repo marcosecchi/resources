@@ -27,6 +27,7 @@ layout: default
 ### Modeling Tools
 
 * _Create Modular Meshes Using UE5 Modelling Tools - [Part1](https://www.youtube.com/watch?v=1HAbbwjgY90), [Part 2](https://www.youtube.com/watch?v=Kg8uOHdJ6IU)_ by CB3DART
+* _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
 
 ### Ryan Schmidt
 
@@ -38,7 +39,7 @@ layout: default
 ### Jan Wlosok
 
 * _[Procedural Mesh in UE4 #1 – Triangle](http://wlosok.cz/procedural-mesh-in-ue4-1-triangle/)_
-* _[Procedural Mesh in UE4 #2 – Subdivided Plane](http://wlosok.cz/procedural-mesh-in-ue4-2-subdivided-plane/)_
+* _[How to Model a 3D Building](https://www.youtube.com/watch?v=xNGS__xJ4bo)_
 
 ### Procedural Mesh Component
 
@@ -67,7 +68,7 @@ layout: default
 
 #### Tutorials
 
-* _[Introduction to Procedural Generation plugin in UE5.2](https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2)_
+* _[Introduction to Procedural Generation plugin in UE5.4](https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2)_
 * _[Using Packed Level Actors (PLA) in a PCG Graph](https://80.lv/articles/see-how-to-set-up-garden-generator-in-unreal-engine-5/)_ on 80LV
 
 #### Webinars and Livestreame
