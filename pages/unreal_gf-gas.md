@@ -31,6 +31,7 @@ layout: default
 
 * _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_ - Inside Unreal
 * _[Exploring the Gameplay Ability System with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)_ - Unreal Fest 2022
+* _[How to Debug Gameplay Ability System](https://www.youtube.com/watch?v=X4sfHXwSE_U)_ - by Code With Ro 
 
 ### Courses
 
