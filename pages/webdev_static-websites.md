@@ -10,6 +10,7 @@ layout: default
 * _[Nanoc](http://nanoc.ws/)_
 * _[Hugo](https://gohugo.io/)_
 * _[Middleman](https://middlemanapp.com/)_
+* _[Publii](https://getpublii.com/)_
 
 #### Jekyll
 
