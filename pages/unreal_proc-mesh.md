@@ -34,6 +34,7 @@ layout: default
 
 * _Create Modular Meshes Using UE5 Modelling Tools - [Part1](https://www.youtube.com/watch?v=1HAbbwjgY90), [Part 2](https://www.youtube.com/watch?v=Kg8uOHdJ6IU)_ by CB3DART
 * _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
+* _[Unreal Engine 5.3 Beginner Tutorial - Create Castle Ruins](https://www.youtube.com/watch?v=2uf4fuSLQJ8)_ by UNF Games
 
 ### Ryan Schmidt
 
@@ -95,8 +96,8 @@ layout: default
 * _[Unreal PCG Experiments](https://www.youtube.com/playlist?list=PLA03OHAaHgYrnTNx6qs59MdlEsR1jxvTn)_ by FreetimeCoder
 * _[Unreal PCG Tutorials](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
 * _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
-* _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien LOGUT
-* _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien LOGUT
+* _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien Logut
+* _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien Logut
 * _Unreal Engine PCG Room [Part 1](https://www.youtube.com/watch?v=D3o9RHvIsZc)_, [Part 2](https://www.youtube.com/watch?v=Ng2AXVeVto0)_, [Part 3](https://www.youtube.com/watch?v=znSivZ3oQJY)_, [Part 4](https://www.youtube.com/watch?v=rNUv71wu0gM)_, [Part 5](https://www.youtube.com/watch?v=D4jnyJEeeXQ)_, [Part 6](https://www.youtube.com/watch?v=u3firyujZ5w)_ by TheLavalampe
 * _[PCG Building in Unreal Engine](https://www.youtube.com/watch?v=m1DJ7qXBgug)_ by Nodes of Nature
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
@@ -119,6 +120,9 @@ layout: default
 * _[Populating Meshes Along a Spline](https://www.youtube.com/watch?v=OdjvlvGRYRE)_
 * _[Importing coordinates for automatic static mesh placement](https://dev.epicgames.com/community/learning/tutorials/Gj/unreal-engine-importing-coordinates-for-automatic-static-mesh-placement)_
 * _[UE5.4 Optimizing PCGs for Large Worlds - Two fast tips to increase framerate](https://www.youtube.com/watch?v=cPWKWAyHT2w)_ by The Wickie
+* _[Mastering PCG: Dynamic Overgrowth & Vegetation in UE5](https://www.youtube.com/watch?v=B_M6TN2LS7o)_ by The Wickie
+* _[Unleashing PCG: Create a Procedural Cave Debris System in Unreal Engine 5.2 with Cris Robson](https://www.youtube.com/watch?v=jn4AxQSIWC4)_ by The Wickie
+* _[Structure Generation options with UE5's PCG](https://www.youtube.com/watch?v=KDWp9EsbX5A)_ by DC Game Tech
 
 #### Devlogs & Showcase
 
@@ -126,6 +130,10 @@ layout: default
   * _[UE5.3 Medieval City Speed Level Design](https://www.youtube.com/watch?v=Wrv88a7fO5Q)_
   * _[UE5.3 Medieval City DevLog](https://www.youtube.com/watch?v=_WzUmnh164c)_
   * _[Fixing Normals in Procedurally Generated Terrain](https://www.youtube.com/watch?v=Fk0Cat7hWuE)_
-  * _[Procedurally Generated Catan Diorama](https://www.youtube.com/watch?v=urzCmeiJZnI)_ by Michael Royalty
+* _[Procedurally Generated Catan Diorama](https://www.youtube.com/watch?v=urzCmeiJZnI)_ by Michael Royalty
+* _[Unreal PCG Structure Level Gen](https://www.youtube.com/watch?v=8obM4_c6XE4)_ by DC Game Tech
+* _[Structure Generation options with UE5's PCG](https://www.youtube.com/watch?v=KDWp9EsbX5A)_ by DC Game Tech
+* _[PCG Level Gen demo in UE5's Editor](https://www.youtube.com/watch?v=MBzg4WIXJyE)_ by DC Game Tech
+* _[Level generator using Unreal 5's PCG](https://www.youtube.com/watch?v=DsZwTYExiEk)_ by DC Game Tech
 
 [back](../)
