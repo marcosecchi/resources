@@ -87,7 +87,7 @@ layout: default
 
 #### Videos
 
-* _[PCG: First Steps to Advanced Development](https://www.youtube.com/watch?v=ncokCVoN-oU)_ | Unreal Fest Prague 2024
+* _[PCG: First Steps to Advanced Development](https://www.youtube.com/watch?v=ncokCVoN-oU)_ at Unreal Fest Prague 2024
 * _[UE 5.4 PCG Building Series](https://www.youtube.com/watch?v=oYNA24tcYc0&list=PLokuMVKY46wh11uPz7UeJlPuWS65CvobM)_ by Procedural Minds
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
