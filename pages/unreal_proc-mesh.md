@@ -27,7 +27,7 @@ layout: default
 
 #### Procedural Generation (Non UE Relatet)
 
-* _[Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU)_ | GDC 2025
+* _[Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU)_ at GDC 2025
 * _[Procedural Modeling Using Graph Grammars](https://www.youtube.com/watch?v=FG3LbcOGHqw)_ by Paul Merrel Research
 
 ### Modeling Tools
