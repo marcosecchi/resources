@@ -11,6 +11,7 @@ layout: default
 
 #### Geometry Script Videos
 
+* _[Procedural Modeling with Unreal 5](https://www.youtube.com/watch?v=FC3vjONjPvY&list=PLpoXxlr0idMkGMOH6o7npkW3DaZoeZ5M-)_ by Isaac Oster
 * _[How to make a Custom Geometry Script Node in C++](https://www.youtube.com/watch?v=6adlrBQbcd8)_ by Ryan Schmidt
 * _[Modeling and Geometry Scripting in UE: Past, Present, and Future](https://www.youtube.com/watch?v=pEC3krOwcbM)_ at Unreal Fest 2022
 * _[Introduction to Geometry Scripting](https://www.youtube.com/watch?v=gDso9X4HgLA)_ at Unreal Fest 2022
@@ -23,6 +24,11 @@ layout: default
 
 * _[Lyra Style Geometry Script Procedural Mesh Tools In Unreal Engine 5 - Making Your First Tool](https://www.youtube.com/watch?v=L4vGmIw0PD4)_ by BuildGamesWithJon
 * _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
+
+#### Procedural Generation (Non UE Relatet)
+
+* _[Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU)_ | GDC 2025
+* _[Procedural Modeling Using Graph Grammars](https://www.youtube.com/watch?v=FG3LbcOGHqw)_ by Paul Merrel Research
 
 ### Modeling Tools
 
@@ -80,6 +86,8 @@ layout: default
 
 #### Videos
 
+* _[PCG: First Steps to Advanced Development](https://www.youtube.com/watch?v=ncokCVoN-oU)_ | Unreal Fest Prague 2024
+* _[UE 5.4 PCG Building Series](https://www.youtube.com/watch?v=oYNA24tcYc0&list=PLokuMVKY46wh11uPz7UeJlPuWS65CvobM)_ by Procedural Minds
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
@@ -107,9 +115,10 @@ layout: default
 * _[Unreal PCG (Procedural Content Generation)](https://www.youtube.com/playlist?list=PLd_-PkmCFGDlVBoPNHkKfWP-Q-5an7a8y)_ by HullaBulla
 * _[Procedural Mesh Slicing](https://www.youtube.com/watch?v=1zJM1gKoU14)_
 * _[Unreal Engine 5 Beginner Modeling Tutorial](https://www.youtube.com/watch?v=9InU0xbX7l0)_ by UNF Games
-* _Procedural Meshes [Part 1](https://www.youtube.com/watch?v=iSgyleutbRw), [Part 2](https://www.youtube.com/watch?v=0T8jUtJXfkU) by Devan Luciano
+* _Procedural Meshes [Part 1](https://www.youtube.com/watch?v=iSgyleutbRw), [Part 2](https://www.youtube.com/watch?v=0T8jUtJXfkU)_ by Devan Luciano
 * _[Populating Meshes Along a Spline](https://www.youtube.com/watch?v=OdjvlvGRYRE)_
 * _[Importing coordinates for automatic static mesh placement](https://dev.epicgames.com/community/learning/tutorials/Gj/unreal-engine-importing-coordinates-for-automatic-static-mesh-placement)_
+* _[UE5.4 Optimizing PCGs for Large Worlds - Two fast tips to increase framerate](https://www.youtube.com/watch?v=cPWKWAyHT2w)_ by The Wickie
 
 #### Devlogs & Showcase
 
