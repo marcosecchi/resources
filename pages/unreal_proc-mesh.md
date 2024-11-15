@@ -91,6 +91,8 @@ layout: default
 * _[PCG: First Steps to Advanced Development](https://www.youtube.com/watch?v=ncokCVoN-oU)_ at Unreal Fest Prague 2024
 * _[UE 5.4 PCG Building Series](https://www.youtube.com/watch?v=oYNA24tcYc0&list=PLokuMVKY46wh11uPz7UeJlPuWS65CvobM)_ by Procedural Minds
 * _[Pathfinding With PCG](https://www.youtube.com/watch?v=AfJz6zQ1BkE)_ by renderBucket
+* _[Make Optimized PCG GRASS in Unreal Engine 5](https://www.youtube.com/watch?v=Fifjj_zzPdk)_ by Aziel Arts
+* _[Mastering Procedural Content Generation](https://www.youtube.com/watch?v=_t55i17_7qE&list=PLWjyT8uXuDk3pOeeLkhnL4wjP-curGBkJ)_ by Aziel Arts
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
