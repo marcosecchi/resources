@@ -29,6 +29,7 @@ layout: default
 
 * _[Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU)_ at GDC 2025
 * _[Procedural Modeling Using Graph Grammars](https://www.youtube.com/watch?v=FG3LbcOGHqw)_ by Paul Merrel Research
+* _[Procedural Level Design in Eldritch](https://www.youtube.com/watch?v=BYN0PJOdvzs)_ at GDC 2015
 
 ### Modeling Tools
 
