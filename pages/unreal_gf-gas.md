@@ -29,10 +29,13 @@ layout: default
 
 ## Video
 
+* _[Getting Started with the Gameplay Ability System (GAS) in Unreal Engine 5.4](https://www.youtube.com/watch?v=Tajm3wrzZ_w)_ by Alamar's Dev Domain
 * _[A Guided Tour of Gameplay Abilities](https://www.youtube.com/watch?v=YvXvWa6vbAA)_ - Inside Unreal
 * _[Exploring the Gameplay Ability System with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)_ - Unreal Fest 2022
 * _[How to Debug Gameplay Ability System](https://www.youtube.com/watch?v=X4sfHXwSE_U)_ - by Code With Ro
 * _[Gameplay Ability System](https://www.youtube.com/watch?v=s3-kOmP5bVw&list=PLSXoUFZWDVGvI1v8JvWkgGkbqka14-vpe&index=1)_ - by Danny Goodayle
+* _[Unreal Engine 5 C++ | Gameplay Ability System - Step by Step](https://www.youtube.com/watch?v=L-3ifQRpyB4)_ - by Dev Kai
+* _[Unreal Engine 5 C++ | Game Features and Modular Gameplay Actors](https://www.youtube.com/watch?v=sSoGEO1tnEI)_ - by Dev Kai
 
 ### Courses
 
@@ -41,6 +44,7 @@ layout: default
 * _[Gameplay Ability System Prerequisite](https://www.youtube.com/playlist?list=PL6eAkiWr7AyIbndILQQO0L9_JeOTVIr5r)_ by Code With Ro
 * _[Create a Sidescroller RPG using GAS](https://www.youtube.com/watch?v=U2jP6Mlevk0&list=PL6eAkiWr7AyJDObm2BnxoOoMLcUXxqHbV)_ by Code With Ro
 * _[Gameplay Ability System Blueprints](https://www.youtube.com/playlist?list=PL6eAkiWr7AyJkHVoHAfyLCldr24QCorE1)_ by Code With Ro
-* _[Gameplay Ability System in Unreal Engine 5](https://www.youtube.com/watch?v=KnFYRlSxshc&list=PLSeWTho026lMzw6FJnFm-bfM2COSrohMX)_ by MAslow's Inferno
+* _[Gameplay Ability System in Unreal Engine 5](https://www.youtube.com/watch?v=KnFYRlSxshc&list=PLSeWTho026lMzw6FJnFm-bfM2COSrohMX)_ by Maslow's Inferno
+* _[Gameplay Ability System Tutorials](https://www.youtube.com/playlist?list=PLuS6-Pdt2hhYGZkME7K7ZDT2qf4vbY5c3)_ by Umbral Studios
 
 [back](../)
