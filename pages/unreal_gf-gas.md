@@ -5,6 +5,7 @@ layout: default
 ## Gameplay Framework (GF)
 
 * _[Unreal Engine Gameplay Framework](https://www.tomlooman.com/unreal-engine-gameplay-framework/)_ by Tom Looman
+* _[Gameplay Framework](https://www.thegames.dev/?cat=3)_ at The Games Dev
 
 ## Gameplay Ability System (GAS)
 
@@ -12,7 +13,7 @@ layout: default
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
 * _[The truth of the Gameplay Ability System](https://vorixo.github.io/devtricks/gas/)_ by Alvaro Jover-Alvarez
 * _[Gameplay Ability System (UE4)](https://suvam0451.github.io/tutorials/ue4/gameplay-ability-system-01/)_ by WinterWildfire
-* _[Lyra Starter Game Overview - Tech Talk](https://www.youtube.com/watch?v=Fj1zCsYydD8)_ at State of Unreal 2022
+* _[Gameplay Ability System](https://www.thegames.dev/?cat=4)_ at The Games Dev
 
 ## Gameplay Tags
 
@@ -21,7 +22,8 @@ layout: default
 
 ## Projects
 
-* _[ActionRPG UE53](https://github.com/vahabahmadvand/ActionRPG_UE53)_ by Vahab Ahmadvand
+* _[ActionRPG UE 5.3](https://github.com/vahabahmadvand/ActionRPG_UE53)_ by Vahab Ahmadvand
+* _[ActionRPG UE 4.27](https://dev.epicgames.com/documentation/en-us/unreal-engine/action-rpg-game?application_version=4.27)_ on Epic Games Developer Community
 * _[Action Roguelike](https://github.com/tomlooman/ActionRoguelike)_ by Tom Looman
 
 ## Tutorials
@@ -37,6 +39,7 @@ layout: default
 * _[Gameplay Ability System](https://www.youtube.com/watch?v=s3-kOmP5bVw&list=PLSXoUFZWDVGvI1v8JvWkgGkbqka14-vpe&index=1)_ - by Danny Goodayle
 * _[Unreal Engine 5 C++ | Gameplay Ability System - Step by Step](https://www.youtube.com/watch?v=L-3ifQRpyB4)_ - by Dev Kai
 * _[Unreal Engine 5 C++ | Game Features and Modular Gameplay Actors](https://www.youtube.com/watch?v=sSoGEO1tnEI)_ - by Dev Kai
+* _[Lyra Starter Game Overview - Tech Talk](https://www.youtube.com/watch?v=Fj1zCsYydD8)_ at State of Unreal 2022
 
 ### Courses
 
