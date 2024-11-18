@@ -12,6 +12,7 @@ layout: default
 * _[GAS Documentation](https://github.com/tranek/GASDocumentation)_ by tranek
 * _[The truth of the Gameplay Ability System](https://vorixo.github.io/devtricks/gas/)_ by Alvaro Jover-Alvarez
 * _[Gameplay Ability System (UE4)](https://suvam0451.github.io/tutorials/ue4/gameplay-ability-system-01/)_ by WinterWildfire
+* _[Lyra Starter Game Overview - Tech Talk](https://www.youtube.com/watch?v=Fj1zCsYydD8)_ at State of Unreal 2022
 
 ## Gameplay Tags
 
