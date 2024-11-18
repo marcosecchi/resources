@@ -17,7 +17,7 @@ layout: default
 
 ## Gameplay Tags
 
-* _[Enhanced Input Binding with Gameplay Tags C++](https://dev.epicgames.com/community/learning/tutorials/aqrD/unreal-engine-enhanced-input-binding-with-gameplay-tags-c)
+* _[Enhanced Input Binding with Gameplay Tags C++](https://dev.epicgames.com/community/learning/tutorials/aqrD/unreal-engine-enhanced-input-binding-with-gameplay-tags-c)_
 * _[Why you should be using GameplayTags in Unreal Engine](https://www.tomlooman.com/unreal-engine-gameplaytags-data-driven-design/)_ by Tom Looman
 
 ## Projects
