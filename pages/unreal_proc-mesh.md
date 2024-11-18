@@ -98,18 +98,11 @@ layout: default
 * _Procedural Content Generation UE 5.2 [Part 1](https://www.youtube.com/watch?v=BJZc06F7ci0), [Part 2](https://www.youtube.com/watch?v=8-ghOR9wRzE), [Part 3](https://www.youtube.com/watch?v=VZ5lL4k77bk)_ by ExitSimulation
 * _[Procedural Content Generation Basics - Unreal Engine 5 Tutorial](https://www.youtube.com/watch?v=jbRBF9b4lSk)_ by Unreal Axis
 * _[Mastering Procedural Open World Creation with PCG and Unreal Engine 5.2](https://www.youtube.com/watch?v=Y0UwL-Bo2l0)_ by CG Dealers
-* _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
-* _[Unreal PCG Experiments](https://www.youtube.com/playlist?list=PLA03OHAaHgYrnTNx6qs59MdlEsR1jxvTn)_ by FreetimeCoder
-* _[Unreal PCG Tutorials](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
-* _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
-* _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien Logut
-* _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien Logut
 * _Unreal Engine PCG Room [Part 1](https://www.youtube.com/watch?v=D3o9RHvIsZc)_, [Part 2](https://www.youtube.com/watch?v=Ng2AXVeVto0)_, [Part 3](https://www.youtube.com/watch?v=znSivZ3oQJY)_, [Part 4](https://www.youtube.com/watch?v=rNUv71wu0gM)_, [Part 5](https://www.youtube.com/watch?v=D4jnyJEeeXQ)_, [Part 6](https://www.youtube.com/watch?v=u3firyujZ5w)_ by TheLavalampe
 * _[PCG Building in Unreal Engine](https://www.youtube.com/watch?v=m1DJ7qXBgug)_ by Nodes of Nature
 * _[PCG Books Unreal Engine](https://www.youtube.com/watch?v=feLTUwtaUDA)_ by Nodes of Nature
 * _[Procedural Suburban City Using PCG](https://www.youtube.com/watch?v=C-_RYWevAW0)_ by Maddys HUB
 * _[Unreal PCG](https://www.youtube.com/watch?v=3kP4tFE5Krw&list=PLkoyk8TmcceF68I4Cc3EX28x_mRVKbWi8)_ by Chang-wei
-* _[Procedural Content Generation: Tutorial UE5](https://www.youtube.com/playlist?list=PLIOjp1ttVLQ06XFhpZHCNybxsbF0wb4DI)_ by Morrigan
 * _[See How to Set Up Garden Generator in Unreal Engine 5](https://www.youtube.com/watch?v=NmQZYaZAFJU)_ by Fabio Sarracino
 * _PCG Interiors Pt1: PCG Rooms for UE5.3 [Part 1](https://www.youtube.com/watch?v=L1sGInc9D08)_ by Raining Phoenix Games
 * _[Procedural Content Generation](https://www.youtube.com/watch?v=RBFvkfZxJJk&list=PLhlDHJpnPTG-MYrGNAqVRkiE6R0fUreMn)_ by UnrealityBytes
@@ -118,8 +111,6 @@ layout: default
 * _[Advanced PCG Concepts with Unreal Engine 5.2](https://www.youtube.com/watch?v=l0FGl_lCgdc&t=45s)_ by Shmigo
 * _[Using advanced PCG Concepts to create Islands](https://www.youtube.com/watch?v=Pi5mOZviVlE)_ by Shmigo
 * _[Yes, You Can Sculpt Landscape With PCG](https://www.youtube.com/watch?v=hqNAWbuuFrs)_ by BoroCG
-* _[Mastering Procedural Content Generation (PCG) in Unreal Engine](https://www.youtube.com/playlist?list=PLWjyT8uXuDk3pOeeLkhnL4wjP-curGBkJ)_ by Aziel Arts
-* _[Unreal PCG (Procedural Content Generation)](https://www.youtube.com/playlist?list=PLd_-PkmCFGDlVBoPNHkKfWP-Q-5an7a8y)_ by HullaBulla
 * _[Procedural Mesh Slicing](https://www.youtube.com/watch?v=1zJM1gKoU14)_
 * _[Unreal Engine 5 Beginner Modeling Tutorial](https://www.youtube.com/watch?v=9InU0xbX7l0)_ by UNF Games
 * _Procedural Meshes [Part 1](https://www.youtube.com/watch?v=iSgyleutbRw), [Part 2](https://www.youtube.com/watch?v=0T8jUtJXfkU)_ by Devan Luciano
@@ -129,6 +120,18 @@ layout: default
 * _[Mastering PCG: Dynamic Overgrowth & Vegetation in UE5](https://www.youtube.com/watch?v=B_M6TN2LS7o)_ by The Wickie
 * _[Unleashing PCG: Create a Procedural Cave Debris System in Unreal Engine 5.2 with Cris Robson](https://www.youtube.com/watch?v=jn4AxQSIWC4)_ by The Wickie
 * _[Structure Generation options with UE5's PCG](https://www.youtube.com/watch?v=KDWp9EsbX5A)_ by DC Game Tech
+
+#### Playlists
+
+* _[Unreal PCG Tutorial](https://www.youtube.com/playlist?list=PLA03OHAaHgYpo0enf8p-2oEpja3grLOKZ)_ by FreetimeCoder
+* _[Unreal PCG Experiments](https://www.youtube.com/playlist?list=PLA03OHAaHgYrnTNx6qs59MdlEsR1jxvTn)_ by FreetimeCoder
+* _[Unreal PCG Tutorials](https://www.youtube.com/@MichaelRoyalty/playlists)_ by Michael Royalty
+* _[PCG Building Series](https://www.youtube.com/playlist?list=PLokuMVKY46wj6cHcgnBjDguL_oHGMWkZA)_ by Procedural Minds
+* _[UE5.3 Procedural Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxucvoAmS7FO8hvUrSL21a-5G)_ by Adrien Logut
+* _[UE5.2 Procedural Short Tutorials](https://www.youtube.com/playlist?list=PLa5CA4dwjxuc6B3WkKB9xpTiGGCM3HspY)_ by Adrien Logut
+* _[Procedural Content Generation: Tutorial UE5](https://www.youtube.com/playlist?list=PLIOjp1ttVLQ06XFhpZHCNybxsbF0wb4DI)_ by Morrigan
+* _[Mastering Procedural Content Generation (PCG) in Unreal Engine](https://www.youtube.com/playlist?list=PLWjyT8uXuDk3pOeeLkhnL4wjP-curGBkJ)_ by Aziel Arts
+* _[Unreal PCG (Procedural Content Generation)](https://www.youtube.com/playlist?list=PLd_-PkmCFGDlVBoPNHkKfWP-Q-5an7a8y)_ by HullaBulla
 
 #### Devlogs & Showcase
 
