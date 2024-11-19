@@ -37,8 +37,8 @@ layout: default
 * _[Exploring the Gameplay Ability System with an Action RPG](https://www.youtube.com/watch?v=tc542u36JR0)_ - Unreal Fest 2022
 * _[How to Debug Gameplay Ability System](https://www.youtube.com/watch?v=X4sfHXwSE_U)_ - by Code With Ro
 * _[Gameplay Ability System](https://www.youtube.com/watch?v=s3-kOmP5bVw&list=PLSXoUFZWDVGvI1v8JvWkgGkbqka14-vpe&index=1)_ - by Danny Goodayle
-* _[Unreal Engine 5 C++ | Gameplay Ability System - Step by Step](https://www.youtube.com/watch?v=L-3ifQRpyB4)_ - by Dev Kai
-* _[Unreal Engine 5 C++ | Game Features and Modular Gameplay Actors](https://www.youtube.com/watch?v=sSoGEO1tnEI)_ - by Dev Kai
+* _[Unreal Engine 5 C++ - Gameplay Ability System - Step by Step](https://www.youtube.com/watch?v=L-3ifQRpyB4)_ - by Dev Kai
+* _[Unreal Engine 5 C++ - Game Features and Modular Gameplay Actors](https://www.youtube.com/watch?v=sSoGEO1tnEI)_ - by Dev Kai
 * _[Lyra Starter Game Overview - Tech Talk](https://www.youtube.com/watch?v=Fj1zCsYydD8)_ at State of Unreal 2022
 
 ### Courses
