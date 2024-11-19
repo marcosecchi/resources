@@ -25,6 +25,7 @@ layout: default
 * _[ActionRPG UE 5.3](https://github.com/vahabahmadvand/ActionRPG_UE53)_ by Vahab Ahmadvand
 * _[ActionRPG UE 4.27](https://dev.epicgames.com/documentation/en-us/unreal-engine/action-rpg-game?application_version=4.27)_ on Epic Games Developer Community
 * _[Action Roguelike](https://github.com/tomlooman/ActionRoguelike)_ by Tom Looman
+* _[Kaos Gameplay and System Utilities](https://github.com/KaosSpectrum/KaosGASUtilities)_ by KaosSpectrum
 
 ## Tutorials
 
