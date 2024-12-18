@@ -75,6 +75,7 @@ layout: default
 
 ### Graphics
 
+* _[Image Manipulation](./pages/graphics_image-manipulation.html)_
 * _[Quixel Mixer](./pages/graphics_quixel-mixer.html)_
 * _[Pixel Art](./pages/graphics_pixel-art.html)_
 * _[Sprite Editors](./pages/graphics_sprite-editors.html)_
