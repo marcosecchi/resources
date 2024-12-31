@@ -37,6 +37,7 @@ layout: default
 * _Create Modular Meshes Using UE5 Modelling Tools - [Part1](https://www.youtube.com/watch?v=1HAbbwjgY90), [Part 2](https://www.youtube.com/watch?v=Kg8uOHdJ6IU)_ by CB3DART
 * _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
 * _[Unreal Engine 5.3 Beginner Tutorial - Create Castle Ruins](https://www.youtube.com/watch?v=2uf4fuSLQJ8)_ by UNF Games
+* _[50 Tips and Tricks in Modeling Mode](https://www.youtube.com/watch?v=xIMudHNX9JM)_ at Unreal Fest 2024
 
 ### Ryan Schmidt
 
