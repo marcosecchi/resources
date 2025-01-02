@@ -8,7 +8,7 @@ layout: default
 
 * _[Official Website](https://gmic.eu/)_
 * _[List of Commands](https://gmic.eu/reference/list_of_commands.html)_
-* _[Command Guide](https://gmic.eu/oldtutorial/command-guide.shtml)_
+* _[Command Guide](https://gmic.eu/tutorial/command_guide.html)_
 
 ### Image Magick
 
