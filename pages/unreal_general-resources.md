@@ -40,6 +40,9 @@ layout: default
 ### UMG/Slate
 
 * _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
+* _[Ben UI](https://benui.ca/)_
+* _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
+* _[UMG-Slate ExampleProject](https://github.com/YawLighthouse/UMG-Slate-ExampleProject)_ by Nicholas Helish
 
 ### Best Practices and Naming Conventions
 
@@ -66,10 +69,5 @@ layout: default
 * _[Unreal Bucket](https://unrealbucket.com/)_: library with high quality native Unreal Engine assets
 * _[Asset Manager Studio](https://assetmanager.studio/?s=09)_: alternative launcher application
 
-### Slate and UMG
-
-* _[Ben UI](https://benui.ca/)_
-* _[UMG-Slate Compendium](https://github.com/YawLighthouse/UMG-Slate-Compendium)_ by Nicholas Helish
-* _[UMG-Slate ExampleProject](https://github.com/YawLighthouse/UMG-Slate-ExampleProject)_ by Nicholas Helish
 
 [back](../)
