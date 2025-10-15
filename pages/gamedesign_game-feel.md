@@ -9,7 +9,7 @@ layout: default
 * _[Game Feel: A Game Designer's Guide to Virtual Sensation](https://www.amazon.com/Game-Feel-Designers-Sensation-Kaufmann/dp/0123743281)_: by Steve Swink
 * _[Best Practices for Fast Game Design in Unity](https://www.slideshare.net/slideshow/best-practices-for-fast-game-design-in-unity/120674134)_: by Renaud Forestie
 * _[How to Improve Game Feel in Three Easy Ways](https://gamedevacademy.org/game-feel-tutorial/)_: by Ava Ji Young Kim
-* _Game feel Tips [Part 1](https://www.gamedeveloper.com/design/game-feel-tips-i-the-ghost-jump) | [Part 2](https://www.gamedeveloper.com/design/game-feel-tips-ii-speed-gravity-friction) | [Part 3](https://www.gamedeveloper.com/design/game-feel-tips-iii-more-on-smooth-movement)_: by Ava Ji Young Kim
+* _Game feel Tips [Part 1](https://www.gamedeveloper.com/design/game-feel-tips-i-the-ghost-jump), [Part 2](https://www.gamedeveloper.com/design/game-feel-tips-ii-speed-gravity-friction), [Part 3](https://www.gamedeveloper.com/design/game-feel-tips-iii-more-on-smooth-movement)_: by Ava Ji Young Kim
 
 #### Videos
 
