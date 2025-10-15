@@ -13,7 +13,7 @@ layout: default
 * _[Performance and Optimization](./gamedev_performance-and-optimization.html)_
 * _[Documentaries](./pages/gamedev_documentaries.html)_
 * _[Game Design](./pages/gamedesign_general-resources.html)_
-* _[Game Feel](./pages/gamedesign_general-resourcesgame-feel.html)_
+* _[Game Feel](./pages/gamedesign_game-feel.html)_
 * _[Level Design](./pages/gamedesign_level-design.html)_
 * _[Generativity](./pages/gamedesign_generativity.html)_
 * _[Animation](./pages/gamedev_animation.html)_
