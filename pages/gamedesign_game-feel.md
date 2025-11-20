@@ -22,5 +22,6 @@ layout: default
 * _[Make your game feel juicy with Unity - Unite 2015](https://www.youtube.com/watch?v=WfwRBwNz2bg)_: a talk by Martin Jonasson & Petri Purho
 * _[Game Feel: The Secret Ingredient](https://www.gdcvault.com/play/1013665/Game-Feel-The-Secret-Ingredient)_: a talk by Steve Swink at GDC 2008
 * _[All Things Game Feel](https://www.youtube.com/watch?v=n_CoYiVHouU)_: a talk by Ashley Gwinnell / Force of Habit
+* _[Math for Game Programmers: Fast and Funky 1D Nonlinear Transformations](https://www.youtube.com/watch?v=mr5xkf6zSzk)_: at GDC 2015
 
 [back](../)
