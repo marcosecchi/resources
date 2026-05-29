@@ -8,5 +8,6 @@ layout: default
 * _[Quixel Megascans](https://quixel.com/megascans)_
 * _[Kitbash 3D](https://kitbash3d.com/)_
 * _[Poliigon](https://www.poliigon.com/models/free/)_
+* _[The Base Mesh](https://www.thebasemesh.com/)_
 
 [back](../)
