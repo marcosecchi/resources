@@ -23,7 +23,8 @@ layout: default
 * _[Game Feel: The Secret Ingredient](https://www.gdcvault.com/play/1013665/Game-Feel-The-Secret-Ingredient)_: a talk by Steve Swink at GDC 2008
 * _[All Things Game Feel](https://www.youtube.com/watch?v=n_CoYiVHouU)_: a talk by Ashley Gwinnell / Force of Habit
 * _[Math for Game Programmers: Fast and Funky 1D Nonlinear Transformations](https://www.youtube.com/watch?v=mr5xkf6zSzk)_: at GDC 2015
-* _[Recreating Balatro's Game Feel | Mix and Jam](https://www.youtube.com/watch?v=I1dAZuWurw4)_
+* _[Recreating Balatro's Game Feel | Mix and Jam](https://www.youtube.com/watch?v=I1dAZuWurw4)_ by MixAndJam
+* _[Game feel vs game juice: what's the difference?](https://www.youtube.com/watch?v=_3WKEQD6yyY)_ by MrElipteach
 
 #### Articles
 
