@@ -25,7 +25,7 @@ layout: default
 * _[Lyra Style Geometry Script Procedural Mesh Tools In Unreal Engine 5 - Making Your First Tool](https://www.youtube.com/watch?v=L4vGmIw0PD4)_ by BuildGamesWithJon
 * _[Procedural Mesh Generation Tools In Unreal Engine 5 (Lyra Project)](https://www.youtube.com/watch?v=zLeO8pM-blU)_ by BuildGamesWithJon
 
-#### Procedural Generation (Non UE Relatet)
+#### Procedural Generation (Non UE Related)
 
 * _[Practical Procedural Generation for Everyone](https://www.youtube.com/watch?v=WumyfLEa6bU)_ at GDC 2025
 * _[Procedural Modeling Using Graph Grammars](https://www.youtube.com/watch?v=FG3LbcOGHqw)_ by Paul Merrel Research
