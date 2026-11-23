@@ -44,6 +44,7 @@ layout: default
 * _[Leshy Spritesheet Tool](https://www.leshylabs.com/apps/sstool/)_: an HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases
 * _[Leshy Spritesheet Animator](https://www.leshylabs.com/apps/spriteSheetAnimator/)_: an HTML5 tool for previewing and testing sprite sheet animations
 * _[Sprite Sheet Decomposer](https://jmsliu.com/products/sprite-sheet-decomposer/)_: this component will help you decompose your sprites into individual frames
+* _[SpriteSheet.dev](https://spritesheet.dev/)_: free browser tools that pack frames or an animated GIF into a sprite sheet with TexturePacker JSON, Aseprite JSON or Sparrow XML, and cut a sheet back into frames
 * _[Dither Machine](https://lunarlabs.itch.io/dither-machine)_: a tool to help you generate dithering automatically, instead of doing it by hand
 * _[Png Crusher](https://lospec.com/png-crusher/)_: tool to compress your PNG files to a smaller size
 
